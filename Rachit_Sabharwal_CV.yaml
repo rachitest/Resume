@@ -347,10 +347,10 @@ cv:
           Elasticsearch, Neo4J), BigQuery
       - label: Cloud and Distributed Computing
         details: AWS (AWS HPC), GCP, Azure, Spark, Hadoop, Slurm, 
-          On-Prem HPC,
+          On-Prem HPC
       - label: DevOps
         details: Git, GitHub, GitLab, Docker, GitHub/GitLab CI/CD, 
-          Jenkins, Kubernetes, Jira, Confluence,
+          Jenkins, Kubernetes, Jira, Confluence
       - label: Workflow Orchestration
         details: Airflow, Prefect, Cron, Luigi
       - label: Frameworks and Platforms
