@@ -3,7 +3,7 @@
 - Phone: +1 585 281 1928
 - Email: [rachit-sabharwal@outlook.com](mailto:rachit-sabharwal@outlook.com)
 - Location: 10211 Camden Garden Lane, Katy, Texas, 77494
-- LinkedIn: [rachit-sabharwal-b11346102](https://linkedin.com/in/rachit-sabharwal-b11346102)
+- Website: [www.rachitsabharwal.me](https://www.rachitsabharwal.me/)
 - GitHub: [rachitest](https://github.com/rachitest)
 
 

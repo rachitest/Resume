@@ -3,9 +3,8 @@ cv:
   location: 10211 Camden Garden Lane, Katy, Texas, 77494
   email: rachit-sabharwal@outlook.com
   phone: tel:+1 585-281-1928
+  website: https://www.rachitsabharwal.me
   social_networks:
-    - network: LinkedIn
-      username: rachit-sabharwal-b11346102
     - network: GitHub
       username: rachitest
   sections:
