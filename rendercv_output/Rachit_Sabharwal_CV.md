@@ -51,7 +51,7 @@
 - Feb 2020 – Aug 2022
 - Houston, TX
 - Performed data cleaning, wrangling and integration on medium-sized datasets containing PII using Microsoft Excel, Python, and R
-- Maintained Covid-19 dashboards using Python and Tableau for the [Texas Covid-19 Dashboard Project](https://sph.uth.edu/projects/ covid19/)
+- Maintained Covid-19 dashboards using Python and Tableau for the [Texas Covid-19 Dashboard Project](https://sph.uth.edu/projects/covid19/)
 - Created, deployed, and maintained accessible and responsive web apps on multiple platforms (Streamlit and Heroku) for academic conference recommender systems
 - Built and serviced high content ETL pipelines using Python, R, and Cron to feed recommender systems and Covid-19 dashboards
 - Created recommendation systems models using Python and Scikit-Surprise
@@ -98,42 +98,6 @@
 - Designed and maintained both relational and graph databases in PostgreSQL and Neo4j
 - Conducted literature reviews on research concerning Recommendation Systems, Information Retrieval Systems, and BERT and BERT variations (BioBERT, SciBERT, etc.)
 - Successfully presented literature review and experimental results to both technical and non-technical stakeholders
-
-# Publications
-
-## Factors associated with elevated SARS-CoV-2 immune response in children and adolescents ([10.3389/fped.2024.1393321](https://doi.org/10.3389/fped.2024.1393321))
-- Aug 2024
-- Messiah SE, Abbas R, Bergqvist E, Swartz MD, Talebi Y, **Sabharwal R**, Han H, Valerio-Shewmaker MA, DeSantis SM, Yaseen A, Gandhi HA, Amavisca XF, Ross JA, Padilla LN, Gonzalez MO, Wu L, Silberman MA, Lakey D, Shuford JA, Pont SJ, Boerwinkle E
-- Frontiers in Pediatrics
-
-## Baseline characteristics of SARS-CoV-2 vaccine non-responders in a large population-based sample ([10.1371/journal.pone.0303420](https://doi.org/10.1371/journal.pone.0303420))
-- May 2024
-- Yaseen A, DeSantis SM, **Sabharwal R**, Talebi Y, Swartz MD, Zhang S, Leon Novelo L, Pinzon-Gomez CL, Messiah SE, Valerio-Shewmaker M, Kohl HW 3rd, Ross J, Lakey D, Shuford JA, Pont SJ, Boerwinkle E
-- PLoS One
-
-## An Interactive Online Dashboard with COVID-19 Trends and Data Analysis in Northeast and South Texas 
-- Apr 2024
-- Zhang Z, **Sabharwal R**, Lee M, Zhang K, McGaha P, Crum M, Bauer C, Fisher-Hoch SP, McCormick JB, Reininger BM, Thomas S, Guajardo E, Pinon D, Yaseen A
-- Texas Public Health Journal
-
-## Long-term immune response to SARS-CoV-2 infection and vaccination in children and adolescents ([10.1038/s41390-023-02857-y](https://doi.org/10.1038/s41390-023-02857-y))
-- Oct 2023
-- Messiah SE, Talebi Y, Swartz MD, **Sabharwal R**, Han H, Bergqvist E, Kohl HW 3rd, Valerio-Shewmaker M, DeSantis SM, Yaseen A, Kelder SH, Ross J, Padilla LN, Gonzalez MO, Wu L, Lakey D, Shuford JA, Pont SJ, Boerwinkle E
-- Pediatric Research
-
-## Scholarly recommendation systems: a literature survey ([10.1007/s10115-023-01901-x](https://doi.org/10.1007/s10115-023-01901-x))
-- June 2023
-- Zhang Z, Patra BG, Yaseen A, Zhu J, **Sabharwal R**, Roberts K, Cao T, Wu H
-- Knowledge and Information Systems
-
-## Data Cleaning for eCommerce: Standardizing Data Handling Practices for eCommerce Datasets 
-- May 2021
-- **Sabharwal R**
-- Procter & Gamble, Internal White Paper
-
-## Recommender System for Academic Conferences 
-- Manuscript in Progress
-- **Sabharwal R**, Yaseen A
 
 # Honors and Awards
 
@@ -198,6 +162,38 @@
 - May 2020
 - IBM
 
+# Publications
+
+## Factors associated with elevated SARS-CoV-2 immune response in children and adolescents ([10.3389/fped.2024.1393321](https://doi.org/10.3389/fped.2024.1393321))
+- Aug 2024
+- Messiah SE, Abbas R, Bergqvist E, Swartz MD, Talebi Y, **Sabharwal R**, Han H, Valerio-Shewmaker MA, DeSantis SM, Yaseen A, Gandhi HA, Amavisca XF, Ross JA, Padilla LN, Gonzalez MO, Wu L, Silberman MA, Lakey D, Shuford JA, Pont SJ, Boerwinkle E
+- Frontiers in Pediatrics
+
+## Baseline characteristics of SARS-CoV-2 vaccine non-responders in a large population-based sample ([10.1371/journal.pone.0303420](https://doi.org/10.1371/journal.pone.0303420))
+- May 2024
+- Yaseen A, DeSantis SM, **Sabharwal R**, Talebi Y, Swartz MD, Zhang S, Leon Novelo L, Pinzon-Gomez CL, Messiah SE, Valerio-Shewmaker M, Kohl HW 3rd, Ross J, Lakey D, Shuford JA, Pont SJ, Boerwinkle E
+- PLoS One
+
+## An Interactive Online Dashboard with COVID-19 Trends and Data Analysis in Northeast and South Texas ([https://research.ebsco.com/linkprocessor/plink?id=894625e1-7146-30bf-aa2c-9f5637dac41e](research.ebsco.com/linkprocessor/plink?id=894625e1-7146-30bf-aa2c-9f5637dac41e))
+- Apr 2024
+- Zhang Z, **Sabharwal R**, Lee M, Zhang K, McGaha P, Crum M, Bauer C, Fisher-Hoch SP, McCormick JB, Reininger BM, Thomas S, Guajardo E, Pinon D, Yaseen A
+- Texas Public Health Journal
+
+## Long-term immune response to SARS-CoV-2 infection and vaccination in children and adolescents ([10.1038/s41390-023-02857-y](https://doi.org/10.1038/s41390-023-02857-y))
+- Oct 2023
+- Messiah SE, Talebi Y, Swartz MD, **Sabharwal R**, Han H, Bergqvist E, Kohl HW 3rd, Valerio-Shewmaker M, DeSantis SM, Yaseen A, Kelder SH, Ross J, Padilla LN, Gonzalez MO, Wu L, Lakey D, Shuford JA, Pont SJ, Boerwinkle E
+- Pediatric Research
+
+## Scholarly recommendation systems: a literature survey ([10.1007/s10115-023-01901-x](https://doi.org/10.1007/s10115-023-01901-x))
+- June 2023
+- Zhang Z, Patra BG, Yaseen A, Zhu J, **Sabharwal R**, Roberts K, Cao T, Wu H
+- Knowledge and Information Systems
+
+## Data Cleaning for eCommerce: Standardizing Data Handling Practices for eCommerce Datasets 
+- May 2021
+- **Sabharwal R**
+- Procter & Gamble, Internal White Paper
+
 # Skills
 
 - Languages: English (Native/Bilingual), Hindi (Native/Bilingual), French (Intermediate)
@@ -205,7 +201,7 @@
 # Technical Skills
 
 - Machine Learning: Scikit-learn, TidyModels, Raytune, Optuna, Pytorch, Tensorflow, Huggingface, JAX
-- Languages: Python, R, SAS, MATLAB, Javascript, C, Java, HTML, CSS
+- Programming Languages: Python, R, SAS, MATLAB, Javascript, C, Java, HTML, CSS
 - Databases: RDBMS (PostgreSQL, SQLite, MySQL), NoSQL DBMS (MongoDB, Elasticsearch, Neo4J), BigQuery
 - Cloud and Distributed Computing: AWS (AWS HPC), GCP, Azure, Spark, Hadoop, Slurm, On-Prem HPC
 - DevOps: Git, GitHub, GitLab, Docker, GitHub/GitLab CI/CD, Jenkins, Kubernetes, Jira, Confluence

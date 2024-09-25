@@ -79,8 +79,7 @@ cv:
           - Performed data cleaning, wrangling and integration on medium-sized 
             datasets containing PII using Microsoft Excel, Python, and R
           - Maintained Covid-19 dashboards using Python and Tableau for the
-            [Texas Covid-19 Dashboard Project](https://sph.uth.edu/projects/
-            covid19/)
+            [Texas Covid-19 Dashboard Project](https://sph.uth.edu/projects/covid19/)
           - Created, deployed, and maintained accessible and responsive web apps
             on multiple platforms (Streamlit and Heroku) for academic conference
             recommender systems
@@ -168,6 +167,49 @@ cv:
             variations (BioBERT, SciBERT, etc.)
           - Successfully presented literature review and experimental results
             to both technical and non-technical stakeholders
+    Honors and Awards:
+      - label: Delta Omega Honors Society
+        details: Alpha Iota Chapter
+      - label: Tau Sigma Honors Society
+        details: Beta Rho Chapter
+      - label: Rochester Innovation Grant
+        details: University of Rochester
+      - label: Innovation and Creativity Award
+        details: Rochester Institute of Technology
+    Certifications:
+      - name: "[Group 1 Biomedical Researcher and Key Personnel](https://www.citiprogram.org/verify/?wf64927b0-9408-4c4f-8421-642b22d809f9-54965007)"
+        location: CITI Program
+        date: 2023-03
+      - name: "[Group 2 Social and Behavioral Researchers and Key Personnel](https://www.citiprogram.org/verify/?wfb60d2d6-b559-499a-b7f9-c654c0bc3890-50620082)"
+        location: CITI Program
+        date: 2023-03
+      - name: "[Data Acquisition and Management](https://www.citiprogram.org/verify/?wfb60d2d6-b559-499a-b7f9-c654c0bc3890-50620082)"
+        location: CITI Program
+        date: 2020-10
+      - name: "[Big Data Foundations - Level 1](https://www.youracclaim.com/badges/57b7fb2b-6557-40a9-b890-e48bd0bc39f3/linked_in_profile)"
+        location: IBM
+        date: 2020-05
+      - name: "[Big Data Foundations - Level 2](https://www.youracclaim.com/badges/a050dad8-e403-4649-9f5c-c37b47adc4ed/linked_in_profile)"
+        location: IBM
+        date: 2020-05
+      - name: "[Data Science Math Skills](https://www.coursera.org/account/accomplishments/certificate/S9NZUETKR2V8)"
+        location: Duke University (Coursera)
+        date: 2020-05
+      - name: "[AWS Machine Learning](https://www.coursera.org/account/accomplishments/certificate/P26CB65MF373)"
+        location: AWS (Coursera)
+        date: 2020-05
+      - name: "[Google Cloud IAM and Networking](https://www.coursera.org/account/accomplishments/certificate/BX7475NG429B)"
+        location: Google Cloud (Coursera)
+        date: 2020-05
+      - name: "[Machine Learning](https://www.coursera.org/account/accomplishments/certificate/2RXJGRQ7GTQS)"
+        location: Stanford University (Coursera)
+        date: 2020-05
+      - name: "[Hadoop Foundations - Level 1](https://www.credly.com/badges/d4256ba1-2517-42ee-ac4f-4abd3efbf43b/linked_in_profile)"
+        location: IBM
+        date: 2020-05
+      - name: "[Spark - Level 1](https://www.credly.com/badges/adcdee7c-1e56-4e41-a4fe-1cc21059d638/linked_in_profile)"
+        location: IBM
+        date: 2020-05    
     Publications:
       - title: Factors associated with elevated SARS-CoV-2 immune response in
           children and adolescents
@@ -236,6 +278,7 @@ cv:
           - Pinon D
           - Yaseen A
         date: 2024-04
+        url: https://research.ebsco.com/linkprocessor/plink?id=894625e1-7146-30bf-aa2c-9f5637dac41e
         journal: Texas Public Health Journal
       - title: Long-term immune response to SARS-CoV-2 infection and 
           vaccination in children and adolescents
@@ -281,54 +324,6 @@ cv:
           - "**Sabharwal R**"
         date: 2021-05
         journal: Procter & Gamble, Internal White Paper
-      - title: Recommender System for Academic Conferences
-        authors:
-          - "**Sabharwal R**"
-          - Yaseen A
-        date: "Manuscript in Progress"
-    Honors and Awards:
-      - label: Delta Omega Honors Society
-        details: Alpha Iota Chapter
-      - label: Tau Sigma Honors Society
-        details: Beta Rho Chapter
-      - label: Rochester Innovation Grant
-        details: University of Rochester
-      - label: Innovation and Creativity Award
-        details: Rochester Institute of Technology
-    Certifications:
-      - name: "[Group 1 Biomedical Researcher and Key Personnel](https://www.citiprogram.org/verify/?wf64927b0-9408-4c4f-8421-642b22d809f9-54965007)"
-        location: CITI Program
-        date: 2023-03
-      - name: "[Group 2 Social and Behavioral Researchers and Key Personnel](https://www.citiprogram.org/verify/?wfb60d2d6-b559-499a-b7f9-c654c0bc3890-50620082)"
-        location: CITI Program
-        date: 2023-03
-      - name: "[Data Acquisition and Management](https://www.citiprogram.org/verify/?wfb60d2d6-b559-499a-b7f9-c654c0bc3890-50620082)"
-        location: CITI Program
-        date: 2020-10
-      - name: "[Big Data Foundations - Level 1](https://www.youracclaim.com/badges/57b7fb2b-6557-40a9-b890-e48bd0bc39f3/linked_in_profile)"
-        location: IBM
-        date: 2020-05
-      - name: "[Big Data Foundations - Level 2](https://www.youracclaim.com/badges/a050dad8-e403-4649-9f5c-c37b47adc4ed/linked_in_profile)"
-        location: IBM
-        date: 2020-05
-      - name: "[Data Science Math Skills](https://www.coursera.org/account/accomplishments/certificate/S9NZUETKR2V8)"
-        location: Duke University (Coursera)
-        date: 2020-05
-      - name: "[AWS Machine Learning](https://www.coursera.org/account/accomplishments/certificate/P26CB65MF373)"
-        location: AWS (Coursera)
-        date: 2020-05
-      - name: "[Google Cloud IAM and Networking](https://www.coursera.org/account/accomplishments/certificate/BX7475NG429B)"
-        location: Google Cloud (Coursera)
-        date: 2020-05
-      - name: "[Machine Learning](https://www.coursera.org/account/accomplishments/certificate/2RXJGRQ7GTQS)"
-        location: Stanford University (Coursera)
-        date: 2020-05
-      - name: "[Hadoop Foundations - Level 1](https://www.credly.com/badges/d4256ba1-2517-42ee-ac4f-4abd3efbf43b/linked_in_profile)"
-        location: IBM
-        date: 2020-05
-      - name: "[Spark - Level 1](https://www.credly.com/badges/adcdee7c-1e56-4e41-a4fe-1cc21059d638/linked_in_profile)"
-        location: IBM
-        date: 2020-05
     Skills:
       - label: Languages
         details: English (Native/Bilingual), Hindi (Native/Bilingual), 
@@ -339,7 +334,7 @@ cv:
       - label: Machine Learning
         details: Scikit-learn, TidyModels, Raytune, Optuna, Pytorch, Tensorflow,
           Huggingface, JAX
-      - label: Languages
+      - label: Programming Languages
         details: Python, R, SAS, MATLAB, Javascript, C, Java, HTML, CSS 
       - label: Databases
         details: RDBMS (PostgreSQL, SQLite, MySQL), NoSQL DBMS (MongoDB, 
