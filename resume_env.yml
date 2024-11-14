@@ -1,0 +1,12 @@
+name: resume
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python>=3.12
+  - pip
+  - pip:
+    - render-cv
+
+prefix: C:/Mamba/envs/resume
