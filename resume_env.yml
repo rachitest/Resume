@@ -6,7 +6,8 @@ channels:
 dependencies:
   - python>=3.12
   - pip
+  - setuptools
+  - wheel
+  - ipykernel
   - pip:
-    - render-cv
-
-prefix: C:/Mamba/envs/resume
+    - git+https://github.com/sinaatalay/rendercv.git
