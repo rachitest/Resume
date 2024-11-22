@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  14 NOV 2024 16:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  21 NOV 2024 19:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -663,33 +663,33 @@ Sabharwal/.conda/envs/resume/Lib/site-packages/rendercv/renderer/tinytex-releas
 e/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{c:/Users/Rach
 it Sabharwal/.conda/envs/resume/Lib/site-packages/rendercv/renderer/tinytex-rel
 ease/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [2]
-Overfull \hbox (14.89368pt too wide) in paragraph at lines 577--578
+Overfull \hbox (14.89368pt too wide) in paragraph at lines 576--577
 []\OT1/lmr/m/n/10 , [], [], [], [], [],
  []
 
 
-Overfull \hbox (0.75996pt too wide) in paragraph at lines 594--595
+Overfull \hbox (0.75996pt too wide) in paragraph at lines 593--594
 []\OT1/lmr/bx/n/10 Baseline char-ac-ter-is-tics of SARS-CoV-2 vac-cine non-resp
 onders in a large
  []
 
 
-Overfull \hbox (22.4529pt too wide) in paragraph at lines 598--599
+Overfull \hbox (22.4529pt too wide) in paragraph at lines 597--598
 [][]\OT1/lmr/m/n/10 , [], [], [], [], [], [],
  []
 
 
-Overfull \hbox (20.00482pt too wide) in paragraph at lines 598--599
+Overfull \hbox (20.00482pt too wide) in paragraph at lines 597--598
 []\OT1/lmr/m/n/10 , [], [], [], [], [],
  []
 
 [3]
-Overfull \hbox (35.38225pt too wide) in paragraph at lines 619--620
+Overfull \hbox (35.38225pt too wide) in paragraph at lines 618--619
 [][]\OT1/lmr/m/n/10 , [], [], [], [], [], [], [],
  []
 
 
-Overfull \hbox (16.17534pt too wide) in paragraph at lines 639--640
+Overfull \hbox (16.17534pt too wide) in paragraph at lines 638--639
 [][]\OT1/lmr/m/n/10 , [], [], [], [], [], [],
  []
 
@@ -728,7 +728,7 @@ site-packages/rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/type1/
 public/lm/lmri9.pfb><c:/Users/Rachit Sabharwal/.conda/envs/resume/Lib/site-pack
 ages/rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/type1/public/lm
 /lmsy10.pfb>
-Output written on Rachit_Sabharwal_CV.pdf (4 pages, 208360 bytes).
+Output written on Rachit_Sabharwal_CV.pdf (4 pages, 208312 bytes).
 PDF statistics:
  131 PDF objects out of 1000 (max. 8388607)
  104 compressed objects within 2 object streams

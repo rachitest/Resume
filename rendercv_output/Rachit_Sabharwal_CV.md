@@ -19,7 +19,6 @@
 - Aug 2022 – present
 - Houston, TX
 - Advanced Certificate in Data Science
-- Expected Completion Date - 08/2026
 
 ## The University of Texas Health Science Center at Houston, Master of Science in Biostatistics
 

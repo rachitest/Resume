@@ -21,7 +21,7 @@ cv:
         start_date: 2022-08
         highlights:
           - 'Advanced Certificate in Data Science'
-          - Expected Completion Date - 08/2026
+          # - Expected Completion Date - 08/2026
       - institution: The University of Texas Health Science Center at Houston
         area: Biostatistics
         degree: Master of Science
