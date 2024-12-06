@@ -29,6 +29,7 @@ cv:
         start_date: 2020-01
         end_date: 2022-05
         highlights:
+          - 'Thesis — BioRec: A Biomedical Recommendation System for Academic Conferences and Journals'
           - 'Certificate in Data Science'
       - institution: University of Rochester
         area: Environmental Health
@@ -370,7 +371,7 @@ design:
   page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
   disable_last_updated_date: false
   last_updated_date_style: Last updated in TODAY
-  header_font_size: 24 pt
+  header_font_size: 22 pt
   text_alignment: justified
   seperator_between_connections: ''
   use_icons_for_connections: true

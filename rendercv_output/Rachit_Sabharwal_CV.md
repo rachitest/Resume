@@ -24,6 +24,7 @@
 
 - Jan 2020 – May 2022
 - Houston, TX
+- Thesis — BioRec: A Biomedical Recommendation System for Academic Conferences and Journals
 - Certificate in Data Science
 
 ## University of Rochester, Bachelor of Science in Environmental Health
