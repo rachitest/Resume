@@ -12,6 +12,14 @@
         href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown-light.min.css"
         integrity="sha512-Pmhg2i/F7+5+7SsdoUqKeH7UAZoVMYb1sxGOoJ0jWXAEHP0XV2H4CITyK267eHWp2jpj7rtqWNkmEOw1tNyYpg=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.12/dist/katex.min.css" integrity="sha384-PDbUeNCuE6bOPudPOgFyIUEy3UJawJVwr3XlGO90FIuf5qNIoTLSgOJo/dC2ZXV/" crossorigin="anonymous">
+
+    <!-- The loading of KaTeX is deferred to speed up page rendering -->
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.12/dist/katex.min.js" integrity="sha384-VkqWq8xtm5YQk1BBXczQ8/Sx+DlCzF8cuS43bZwmtVXzRFtyLTqTCdP7MKmKo+KN" crossorigin="anonymous"></script>
+
+    <!-- To automatically render math in text elements, include the auto-render extension: -->
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.12/dist/contrib/auto-render.min.js" integrity="sha384-hCXGrW6PitJEwbkoStFjeJxv+fSOOQKOPbJxSfM6G5sWZjAyWhXiTIIAmQqnlLlh" crossorigin="anonymous"
+        onload="renderMathInElement(document.body, {delimiters: [{ left: '$$',  right: '$$',  display: false }]});"></script>
     <style>
         .markdown-body {
             box-sizing: border-box;
@@ -42,32 +50,32 @@
         <h1>Education</h1>
         <h2>The University of California, Berkeley, Certificate in Software Development and Programming</h2>
         <ul>
-        <li>June 2023 – present</li>
+        <li>June 2023 - present</li>
         <li>Berkeley, CA</li>
         </ul>
         <h2>The University of Texas Health Science Center at Houston, Doctor of Philosophy in Biostatistics</h2>
         <ul>
-        <li>Aug 2022 – present</li>
+        <li>Aug 2022 - present</li>
         <li>Houston, TX</li>
         <li>Advanced Certificate in Data Science</li>
         </ul>
         <h2>The University of Texas Health Science Center at Houston, Master of Science in Biostatistics</h2>
         <ul>
-        <li>Jan 2020 – May 2022</li>
+        <li>Jan 2020 - May 2022</li>
         <li>Houston, TX</li>
         <li>Thesis — BioRec: A Biomedical Recommendation System for Academic Conferences and Journals</li>
         <li>Certificate in Data Science</li>
         </ul>
         <h2>University of Rochester, Bachelor of Science in Environmental Health</h2>
         <ul>
-        <li>Sept 2014 – May 2018</li>
+        <li>Sept 2014 - May 2018</li>
         <li>Rochester, NY</li>
         <li>Minor in Psychology</li>
         </ul>
         <h1>Experience</h1>
         <h2>The University of Texas Health Science Center at Houston, School of Public Health, Biostatistics and Data Science - Graduate Research Assistant (Doctoral)</h2>
         <ul>
-        <li>Sept 2022 – Oct 2024</li>
+        <li>Sept 2022 - Oct 2024</li>
         <li>Houston, TX</li>
         <li>Design and implement ETL pipelines for all sizes of datasets (small, medium, and large), ensuring efficient data munging and integration</li>
         <li>Establish good DevOps practices, architect repository structures, author comprehensive documentation, and implement CI/CD pipelines to streamline development and testing processes</li>
@@ -79,7 +87,7 @@
         </ul>
         <h2>The University of Texas Health Science Center at Houston, School of Public Health, Biostatistics and Data Science - Graduate Research Assistant (Master's)</h2>
         <ul>
-        <li>Feb 2020 – Aug 2022</li>
+        <li>Feb 2020 - Aug 2022</li>
         <li>Houston, TX</li>
         <li>Performed data cleaning, wrangling and integration on medium-sized datasets containing PII using Microsoft Excel, Python, and R</li>
         <li>Maintained Covid-19 dashboards using Python and Tableau for the <a href="https://sph.uth.edu/projects/covid19/">Texas Covid-19 Dashboard Project</a></li>
@@ -90,7 +98,7 @@
         </ul>
         <h2>Genentech, Research and Early Development, Development Sciences &amp; Informatics - Informatics Intern</h2>
         <ul>
-        <li>May 2021 – Jan 2022</li>
+        <li>May 2021 - Jan 2022</li>
         <li>San Francisco, CA</li>
         <li>Used Deep Transfer Learning via PyTorch and Raytune to create a neural network to predict adverse events for drugs</li>
         <li>Created a Knowledge Graph with Neo4j and a Graph Neural Network using NetworkX and PyTorch to generate gene expression signature-likes for drugs</li>
@@ -101,7 +109,7 @@
         </ul>
         <h2>Procter &amp; Gamble, Consumer &amp; Market Knowledge - Advanced Analytics Co-Op</h2>
         <ul>
-        <li>Jan 2021 – May 2021</li>
+        <li>Jan 2021 - May 2021</li>
         <li>Cincinnati, OH</li>
         <li>Created predictive models, analytics, and visualizations that facilitated a deep understanding of consumer and shopper behaviors</li>
         <li>Used parallel computing (Dask and Modin) to develop both predictive and explanatory models enabling insights into market trends and retailer behavior</li>
@@ -111,7 +119,7 @@
         </ul>
         <h2>The University of Texas Health Science Center at Houston, School of Public Health, Biostatistics and Data Science - Teaching Assistant</h2>
         <ul>
-        <li>Sept 2020 – Dec 2020</li>
+        <li>Sept 2020 - Dec 2020</li>
         <li>Houston, TX</li>
         <li>Teaching assistant for PH 1998 — Introduction to Statistical and Data Science Programming</li>
         <li>Assisted in instructing a class of 20 students both individually and in groups</li>
@@ -121,7 +129,7 @@
         </ul>
         <h2>Bristol Myers Squibb, Data Engineering Intern</h2>
         <ul>
-        <li>June 2020 – Aug 2020</li>
+        <li>June 2020 - Aug 2020</li>
         <li>San Francisco, CA</li>
         <li>Utilized Python, HTML, CSS, and Javascript in creating a multifeatured patent recommendation app to significantly improve scientists' workflow</li>
         <li>Developed and serviced ETL pipelines using Python and Apache Airflow</li>

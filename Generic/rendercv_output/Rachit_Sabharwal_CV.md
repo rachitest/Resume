@@ -11,25 +11,25 @@
 
 ## The University of California, Berkeley, Certificate in Software Development and Programming
 
-- June 2023 – present
+- June 2023 - present
 - Berkeley, CA
 
 ## The University of Texas Health Science Center at Houston, Doctor of Philosophy in Biostatistics
 
-- Aug 2022 – present
+- Aug 2022 - present
 - Houston, TX
 - Advanced Certificate in Data Science
 
 ## The University of Texas Health Science Center at Houston, Master of Science in Biostatistics
 
-- Jan 2020 – May 2022
+- Jan 2020 - May 2022
 - Houston, TX
 - Thesis — BioRec: A Biomedical Recommendation System for Academic Conferences and Journals
 - Certificate in Data Science
 
 ## University of Rochester, Bachelor of Science in Environmental Health
 
-- Sept 2014 – May 2018
+- Sept 2014 - May 2018
 - Rochester, NY
 - Minor in Psychology
 
@@ -37,7 +37,7 @@
 
 ## The University of Texas Health Science Center at Houston, School of Public Health, Biostatistics and Data Science - Graduate Research Assistant (Doctoral)
 
-- Sept 2022 – Oct 2024
+- Sept 2022 - Oct 2024
 - Houston, TX
 - Design and implement ETL pipelines for all sizes of datasets (small, medium, and large), ensuring efficient data munging and integration
 - Establish good DevOps practices, architect repository structures, author comprehensive documentation, and implement CI/CD pipelines to streamline development and testing processes
@@ -49,7 +49,7 @@
 
 ## The University of Texas Health Science Center at Houston, School of Public Health, Biostatistics and Data Science - Graduate Research Assistant (Master's)
 
-- Feb 2020 – Aug 2022
+- Feb 2020 - Aug 2022
 - Houston, TX
 - Performed data cleaning, wrangling and integration on medium-sized datasets containing PII using Microsoft Excel, Python, and R
 - Maintained Covid-19 dashboards using Python and Tableau for the [Texas Covid-19 Dashboard Project](https://sph.uth.edu/projects/covid19/)
@@ -60,7 +60,7 @@
 
 ## Genentech, Research and Early Development, Development Sciences & Informatics - Informatics Intern
 
-- May 2021 – Jan 2022
+- May 2021 - Jan 2022
 - San Francisco, CA
 - Used Deep Transfer Learning via PyTorch and Raytune to create a neural network to predict adverse events for drugs
 - Created a Knowledge Graph with Neo4j and a Graph Neural Network using NetworkX and PyTorch to generate gene expression signature-likes for drugs
@@ -71,7 +71,7 @@
 
 ## Procter & Gamble, Consumer & Market Knowledge - Advanced Analytics Co-Op
 
-- Jan 2021 – May 2021
+- Jan 2021 - May 2021
 - Cincinnati, OH
 - Created predictive models, analytics, and visualizations that facilitated a deep understanding of consumer and shopper behaviors
 - Used parallel computing (Dask and Modin) to develop both predictive and explanatory models enabling insights into market trends and retailer behavior
@@ -81,7 +81,7 @@
 
 ## The University of Texas Health Science Center at Houston, School of Public Health, Biostatistics and Data Science - Teaching Assistant
 
-- Sept 2020 – Dec 2020
+- Sept 2020 - Dec 2020
 - Houston, TX
 - Teaching assistant for PH 1998 — Introduction to Statistical and Data Science Programming
 - Assisted in instructing a class of 20 students both individually and in groups
@@ -91,7 +91,7 @@
 
 ## Bristol Myers Squibb, Data Engineering Intern
 
-- June 2020 – Aug 2020
+- June 2020 - Aug 2020
 - San Francisco, CA
 - Utilized Python, HTML, CSS, and Javascript in creating a multifeatured patent recommendation app to significantly improve scientists' workflow
 - Developed and serviced ETL pipelines using Python and Apache Airflow
