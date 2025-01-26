@@ -33,6 +33,14 @@
 - Engineered a neural network using deep transfer learning, to predict adverse drug events. Focusing on Drug-Induced Liver Injury created a **low parameter model that matched the prediction accuracy of the SOTA model.**
 - Created a Knowledge Graph with Neo4j and a Graph Neural Network using NetworkX and PyTorch to generate gene expression signature-likes for drugs. Began the creation of a knowledge repository — an accessible data source which **reduced the need to manually sift through dense primary sources.**
 
+## Procter & Gamble, Consumer & Market Knowledge - Advanced Analytics Co-Op
+
+- Jan 2021 - May 2021
+- Cincinnati, OH
+- Developed models to uncover consumer behaviors, market trends, and retailer patterns using clickstream data, **causing increased corporate effort on DTC online retail.**
+- Created, maintained, and optimized big data ETL pipelines to ensure seamless data integration and processing leading to a **3x increase in analyst operational efficiency**.
+- Implemented advanced DevOps practices by integrating unit-testing, containerization, and agile methodologies to improve team efficiency and code quality. **Increased code coverage from 0% to 70%**.
+
 ## Bristol Myers Squibb, Data Engineering Intern
 
 - June 2020 - Aug 2020

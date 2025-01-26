@@ -43,7 +43,7 @@
 #let design-highlights-vertical-space-between-highlights = 0.19cm
 #let design-highlights-horizontal-space-between-bullet-and-highlights = 0.3em
 #let design-entries-vertical-space-between-entries = 0.4cm
-#let design-entries-date-and-location-width = 3.65cm
+#let design-entries-date-and-location-width = 3.00cm
 #let design-entries-allow-page-break-in-entries = true
 #let design-entries-horizontal-space-between-columns = 0.4cm
 #let design-entries-left-and-right-margin = 0cm
@@ -504,6 +504,19 @@
   ],
   right-content: [
     May 2021 - Jan 2022
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #[*Consumer & Market Knowledge - Advanced Analytics Co-Op*], Procter & Gamble -- Cincinnati, OH
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Developed models to uncover consumer behaviors, market trends, and retailer patterns using clickstream data, #[*causing increased corporate effort on DTC online retail.*]],[Created, maintained, and optimized big data ETL pipelines to ensure seamless data integration and processing leading to a #[*3x increase in analyst operational efficiency*].],[Implemented advanced DevOps practices by integrating unit-testing, containerization, and agile methodologies to improve team efficiency and code quality. #[*Increased code coverage from 0\% to 70\%*].],)
+  ],
+  right-content: [
+    Jan 2021 - May 2021
   ],
 )
 

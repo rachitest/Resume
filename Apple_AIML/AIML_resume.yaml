@@ -67,6 +67,19 @@ cv:
             for drugs. Began the creation of a knowledge repository — an 
             accessible data source which **reduced the need to manually sift through 
             dense primary sources.**
+      - company: Procter & Gamble
+        position: Consumer & Market Knowledge - Advanced Analytics Co-Op
+        location: Cincinnati, OH
+        start_date: 2021-01
+        end_date: 2021-05
+        highlights:
+        - Developed models to uncover consumer behaviors, market trends, and retailer patterns
+          using clickstream data, **increasing corporate attention on DTC online retail.**
+        - Created, maintained, and optimized big data ETL pipelines to ensure seamless data integration
+          and processing leading to a **3x increase in analyst operational efficiency**.
+        - Implemented advanced DevOps practices by integrating unit-testing, 
+          containerization, and agile methodologies to improve team efficiency and code quality.
+          **Increased code coverage from 0% to 70%**.
       - company: Bristol Myers Squibb
         position: Data Engineering Intern
         location: San Francisco, CA
@@ -275,7 +288,7 @@ design:
     vertical_space_above: 0.55cm
     vertical_space_below: 0.3cm
   entries:
-    date_and_location_width: 3.65cm
+    date_and_location_width: 3.00cm
     left_and_right_margin: 0cm
     horizontal_space_between_columns: 0.4cm
     vertical_space_between_entries: 0.4cm
