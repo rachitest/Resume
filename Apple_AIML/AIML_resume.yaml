@@ -369,4 +369,4 @@ locale:
 rendercv_settings:
     date: "2025-01-24" 
     render_command:
-        output_folder_name: "Resume Output"
+        output_folder_name: Resume Output

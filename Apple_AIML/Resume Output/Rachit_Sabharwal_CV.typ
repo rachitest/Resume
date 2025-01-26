@@ -456,27 +456,27 @@
 == Technical Skills
 
 #one-col-entry(
-  content: [#[*Machine Learning:*] Scikit-learn, Pytorch, Tensorflow, Transfer Learning, LLMs \(Gemini, Haiku, o1\), Graph NNs \(PyG\), Reinforcement Learning \(OpenAI Gymnasium\)]
+  content: [#strong[Machine Learning:] Scikit-learn, Pytorch, Tensorflow, Transfer Learning, LLMs \(Gemini, Haiku, o1\), Graph NNs \(PyG\), Reinforcement Learning \(OpenAI Gymnasium\)]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#[*Programming Languages:*] Python, R, Javascript]
+  content: [#strong[Programming Languages:] Python, R, Javascript]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#[*Databases:*] RDBMS \(PostgreSQL, SQLite, MySQL\), NoSQL DBMS \(MongoDB, Elasticsearch, Neo4J\), BigQuery]
+  content: [#strong[Databases:] RDBMS \(PostgreSQL, SQLite, MySQL\), NoSQL DBMS \(MongoDB, Elasticsearch, Neo4J\), BigQuery]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#[*Cloud and Distributed Computing:*] AWS, GCP, Azure, On-Prem HPC]
+  content: [#strong[Cloud and Distributed Computing:] AWS, GCP, Azure, On-Prem HPC]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#[*DevOps:*] Git, GitHub, GitLab, Docker, GitHub/GitLab CI/CD, Jenkins]
+  content: [#strong[DevOps:] Git, GitHub, GitLab, Docker, GitHub/GitLab CI/CD, Jenkins]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#[*Workflow Orchestration:*] Airflow, Prefect, Cron]
+  content: [#strong[Workflow Orchestration:] Airflow, Prefect, Cron]
 )
 
 
@@ -484,10 +484,10 @@
 
 #two-col-entry(
   left-content: [
-    #[*Biostatistics and Data Science - Graduate Research Assistant \(Doctoral\)*], The University of Texas Health Science Center at Houston, School of Public Health -- Houston, TX
+    #strong[Biostatistics and Data Science - Graduate Research Assistant \(Doctoral\)], The University of Texas Health Science Center at Houston, School of Public Health -- Houston, TX
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Established DevOps practices, architected repository structures, and implemented CI/CD pipelines. Designed and implemented ETL pipelines for datasets of various sizes, achieving a #[*24x speed increase over prior solution leading to faster model iteration and deliverable generation.*]],[Applied statistical models and machine learning techniques for data analysis on vaccine non-response and Covid-19 pediatric comorbidities. #[*Contributed to the publishing of three peer-reviewed articles, with two more under review.*]],[Developed a weekly report generation pipeline with CI/CD, ensuring seamless integration of new data. Planned and enacted a comprehensive test suite, #[*increasing team lead confidence and reducing publishing turnaround times.*]],)
+    #v(design-highlights-top-margin);#highlights([Established DevOps practices, architected repository structures, and implemented CI/CD pipelines. Designed and implemented ETL pipelines for datasets of various sizes, achieving a #strong[24x speed increase over prior solution leading to faster model iteration and deliverable generation.]],[Applied statistical models and machine learning techniques for data analysis on vaccine non-response and Covid-19 pediatric comorbidities. #strong[Contributed to the publishing of three peer-reviewed articles, with two more under review.]],[Developed a weekly report generation pipeline with CI/CD, ensuring seamless integration of new data. Planned and enacted a comprehensive test suite, #strong[increasing team lead confidence and reducing publishing turnaround times.]],)
   ],
   right-content: [
     Sept 2022 - Oct 2024
@@ -497,10 +497,10 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #[*Research and Early Development, Development Sciences & Informatics - Informatics Intern*], Genentech -- San Francisco, CA
+    #strong[Research and Early Development, Development Sciences & Informatics - Informatics Intern], Genentech -- San Francisco, CA
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Contributed to the development of frameworks for an in-house data annotation tool, utilizing advanced deep learning NLP models and custom processing pipelines. Created a efficient document tokenization framework #[*allowing for fast and high-quality data annotation for NLP model building*] and downstream informatics systems.],[Engineered a neural network using deep transfer learning, to predict adverse drug events. Focusing on Drug-Induced Liver Injury created a #[*low parameter model that matched the prediction accuracy of the SOTA model.*]],[Created a Knowledge Graph with Neo4j and a Graph Neural Network using NetworkX and PyTorch to generate gene expression signature-likes for drugs. Began the creation of a knowledge repository — an accessible data source which #[*reduced the need to manually sift through dense primary sources.*]],)
+    #v(design-highlights-top-margin);#highlights([Contributed to the development of frameworks for an in-house data annotation tool, utilizing advanced deep learning NLP models and custom processing pipelines. Created a efficient document tokenization framework #strong[allowing for fast and high-quality data annotation for NLP model building] and downstream informatics systems.],[Engineered a neural network using deep transfer learning, to predict adverse drug events. Focusing on Drug-Induced Liver Injury created a #strong[low parameter model that matched the prediction accuracy of the SOTA model.]],[Created a Knowledge Graph with Neo4j and a Graph Neural Network using NetworkX and PyTorch to generate gene expression signature-likes for drugs. Began the creation of a knowledge repository — an accessible data source which #strong[reduced the need to manually sift through dense primary sources.]],)
   ],
   right-content: [
     May 2021 - Jan 2022
@@ -510,10 +510,10 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #[*Consumer & Market Knowledge - Advanced Analytics Co-Op*], Procter & Gamble -- Cincinnati, OH
+    #strong[Consumer & Market Knowledge - Advanced Analytics Co-Op], Procter & Gamble -- Cincinnati, OH
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Developed models to uncover consumer behaviors, market trends, and retailer patterns using clickstream data, #[*increasing corporate attention on DTC online retail.*]],[Created, maintained, and optimized big data ETL pipelines to ensure seamless data integration and processing leading to a #[*1.5x increase in analyst operational efficiency*].],[Implemented advanced DevOps practices by integrating unit-testing, containerization, and agile methodologies to improve team efficiency and code quality. #[*Increased code coverage from 0\% to 70\%*].],)
+    #v(design-highlights-top-margin);#highlights([Developed models to uncover consumer behaviors, market trends, and retailer patterns using clickstream data, #strong[increasing corporate attention on DTC online retail.]],[Created, maintained, and optimized big data ETL pipelines to ensure seamless data integration and processing leading to a #strong[1.5x increase in analyst operational efficiency].],[Implemented advanced DevOps practices by integrating unit-testing, containerization, and agile methodologies to improve team efficiency and code quality. #strong[Increased code coverage from 0\% to 70\%].],)
   ],
   right-content: [
     Jan 2021 - May 2021
@@ -523,10 +523,10 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #[*Data Engineering Intern*], Bristol Myers Squibb -- San Francisco, CA
+    #strong[Data Engineering Intern], Bristol Myers Squibb -- San Francisco, CA
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Developed a multifeatured patent recommendation web application. The application implemented a mix of classical NLP algorithms \(TF-IDF, BM 25\) and deep learning algorithms \(BERT\). #[*Improved bench scientists' productivity by streamlining patent search and analysis workflow.*]],[Engineered and maintained performant ETL pipelines with Python and Apache Airflow. Undertook extensive data cleaning and data wrangling on datasets of varying sizes \(small, medium, and large\) #[*ensuring data quality and readiness for analysis at a high velocity.*]],[Designed and maintained robust relational and graph databases in PostgreSQL and Neo4j, #[*optimizing data storage and retrieval to support various internal projects and analyses.*]],)
+    #v(design-highlights-top-margin);#highlights([Developed a multifeatured patent recommendation web application. The application implemented a mix of classical NLP algorithms \(TF-IDF, BM 25\) and deep learning algorithms \(BERT\). #strong[Improved bench scientists' productivity by streamlining patent search and analysis workflow.]],[Engineered and maintained performant ETL pipelines with Python and Apache Airflow. Undertook extensive data cleaning and data wrangling on datasets of varying sizes \(small, medium, and large\) #strong[ensuring data quality and readiness for analysis at a high velocity.]],[Designed and maintained robust relational and graph databases in PostgreSQL and Neo4j, #strong[optimizing data storage and retrieval to support various internal projects and analyses.]],)
   ],
   right-content: [
     June 2020 - Aug 2020
@@ -540,7 +540,7 @@
 // YES DATE, NO DEGREE
 #two-col-entry(
   left-content: [
-    #[*The University of California, Berkeley*], Certificate in Software Development and Programming -- Berkeley, CA
+    #strong[The University of California, Berkeley], Certificate in Software Development and Programming -- Berkeley, CA
 
     
   ],
@@ -553,7 +553,7 @@
 // YES DATE, NO DEGREE
 #two-col-entry(
   left-content: [
-    #[*The University of Texas Health Science Center at Houston*], Doctor of Philosophy in Biostatistics -- Houston, TX
+    #strong[The University of Texas Health Science Center at Houston], Doctor of Philosophy in Biostatistics -- Houston, TX
     #v(-design-text-leading)
 
     #v(design-highlights-top-margin);#highlights([Advanced Certificate in Data Science],)
@@ -567,7 +567,7 @@
 // YES DATE, NO DEGREE
 #two-col-entry(
   left-content: [
-    #[*The University of Texas Health Science Center at Houston*], Master of Science in Biostatistics -- Houston, TX
+    #strong[The University of Texas Health Science Center at Houston], Master of Science in Biostatistics -- Houston, TX
     #v(-design-text-leading)
 
     #v(design-highlights-top-margin);#highlights([Thesis — BioRec: A Biomedical Recommendation System for Academic Conferences and Journals],[Certificate in Data Science],)
@@ -581,7 +581,7 @@
 // YES DATE, NO DEGREE
 #two-col-entry(
   left-content: [
-    #[*University of Rochester*], Bachelor of Science in Environmental Health -- Rochester, NY
+    #strong[University of Rochester], Bachelor of Science in Environmental Health -- Rochester, NY
     #v(-design-text-leading)
 
     #v(design-highlights-top-margin);#highlights([Minor in Psychology],)
@@ -597,10 +597,10 @@
 
 #two-col-entry(
   left-content: [
-    #[*Factors associated with elevated SARS-CoV-2 immune response in children and adolescents*]
+    #strong[Factors associated with elevated SARS-CoV-2 immune response in children and adolescents]
 
   #v(-design-text-leading)
-#v(design-highlights-top-margin);Messiah SE, Abbas R, Bergqvist E, Swartz MD, Talebi Y, #[*Sabharwal R*], Han H, Valerio-Shewmaker MA, DeSantis SM, Yaseen A, Gandhi HA, Amavisca XF, Ross JA, Padilla LN, Gonzalez MO, Wu L, Silberman MA, Lakey D, Shuford JA, Pont SJ, Boerwinkle E
+#v(design-highlights-top-margin);Messiah SE, Abbas R, Bergqvist E, Swartz MD, Talebi Y, #strong[Sabharwal R], Han H, Valerio-Shewmaker MA, DeSantis SM, Yaseen A, Gandhi HA, Amavisca XF, Ross JA, Padilla LN, Gonzalez MO, Wu L, Silberman MA, Lakey D, Shuford JA, Pont SJ, Boerwinkle E
 
 #v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.3389/fped.2024.1393321")[10.3389/fped.2024.1393321] (Frontiers in Pediatrics)  ],
   right-content: [
@@ -611,10 +611,10 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #[*Baseline characteristics of SARS-CoV-2 vaccine non-responders in a large population-based sample*]
+    #strong[Baseline characteristics of SARS-CoV-2 vaccine non-responders in a large population-based sample]
 
   #v(-design-text-leading)
-#v(design-highlights-top-margin);Yaseen A, DeSantis SM, #[*Sabharwal R*], Talebi Y, Swartz MD, Zhang S, Leon Novelo L, Pinzon-Gomez CL, Messiah SE, Valerio-Shewmaker M, Kohl HW 3rd, Ross J, Lakey D, Shuford JA, Pont SJ, Boerwinkle E
+#v(design-highlights-top-margin);Yaseen A, DeSantis SM, #strong[Sabharwal R], Talebi Y, Swartz MD, Zhang S, Leon Novelo L, Pinzon-Gomez CL, Messiah SE, Valerio-Shewmaker M, Kohl HW 3rd, Ross J, Lakey D, Shuford JA, Pont SJ, Boerwinkle E
 
 #v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1371/journal.pone.0303420")[10.1371/journal.pone.0303420] (PLoS One)  ],
   right-content: [
@@ -625,10 +625,10 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #[*An Interactive Online Dashboard with COVID-19 Trends and Data Analysis in Northeast and South Texas*]
+    #strong[An Interactive Online Dashboard with COVID-19 Trends and Data Analysis in Northeast and South Texas]
 
   #v(-design-text-leading)
-#v(design-highlights-top-margin);Zhang Z, #[*Sabharwal R*], Lee M, Zhang K, McGaha P, Crum M, Bauer C, Fisher-Hoch SP, McCormick JB, Reininger BM, Thomas S, Guajardo E, Pinon D, Yaseen A
+#v(design-highlights-top-margin);Zhang Z, #strong[Sabharwal R], Lee M, Zhang K, McGaha P, Crum M, Bauer C, Fisher-Hoch SP, McCormick JB, Reininger BM, Thomas S, Guajardo E, Pinon D, Yaseen A
 
 #v(design-highlights-top-margin - design-text-leading)#link("https://research.ebsco.com/linkprocessor/plink?id=894625e1-7146-30bf-aa2c-9f5637dac41e")[research.ebsco.com/linkprocessor/plink?id=894625e1-7146-30bf-aa2c-9f5637dac41e] (Texas Public Health Journal)  ],
   right-content: [
@@ -639,10 +639,10 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #[*Long-term immune response to SARS-CoV-2 infection and vaccination in children and adolescents*]
+    #strong[Long-term immune response to SARS-CoV-2 infection and vaccination in children and adolescents]
 
   #v(-design-text-leading)
-#v(design-highlights-top-margin);Messiah SE, Talebi Y, Swartz MD, #[*Sabharwal R*], Han H, Bergqvist E, Kohl HW 3rd, Valerio-Shewmaker M, DeSantis SM, Yaseen A, Kelder SH, Ross J, Padilla LN, Gonzalez MO, Wu L, Lakey D, Shuford JA, Pont SJ, Boerwinkle E
+#v(design-highlights-top-margin);Messiah SE, Talebi Y, Swartz MD, #strong[Sabharwal R], Han H, Bergqvist E, Kohl HW 3rd, Valerio-Shewmaker M, DeSantis SM, Yaseen A, Kelder SH, Ross J, Padilla LN, Gonzalez MO, Wu L, Lakey D, Shuford JA, Pont SJ, Boerwinkle E
 
 #v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1038/s41390-023-02857-y")[10.1038/s41390-023-02857-y] (Pediatric Research)  ],
   right-content: [
@@ -653,10 +653,10 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #[*Scholarly recommendation systems: a literature survey*]
+    #strong[Scholarly recommendation systems: a literature survey]
 
   #v(-design-text-leading)
-#v(design-highlights-top-margin);Zhang Z, Patra BG, Yaseen A, Zhu J, #[*Sabharwal R*], Roberts K, Cao T, Wu H
+#v(design-highlights-top-margin);Zhang Z, Patra BG, Yaseen A, Zhu J, #strong[Sabharwal R], Roberts K, Cao T, Wu H
 
 #v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1007/s10115-023-01901-x")[10.1007/s10115-023-01901-x] (Knowledge and Information Systems)  ],
   right-content: [
@@ -667,10 +667,10 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #[*Data Cleaning for eCommerce: Standardizing Data Handling Practices for eCommerce Datasets*]
+    #strong[Data Cleaning for eCommerce: Standardizing Data Handling Practices for eCommerce Datasets]
 
   #v(-design-text-leading)
-  #v(design-highlights-top-margin);#[*Sabharwal R*]
+  #v(design-highlights-top-margin);#strong[Sabharwal R]
 
 #v(design-highlights-top-margin - design-text-leading)Procter & Gamble, Internal White Paper  ],
   right-content: [
