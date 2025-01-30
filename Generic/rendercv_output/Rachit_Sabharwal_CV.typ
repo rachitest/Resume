@@ -458,14 +458,14 @@
 // YES DATE, NO DEGREE
 #two-col-entry(
   left-content: [
-    #[*The University of California, Berkeley*]
+    #strong[The University of California, Berkeley]
 
-#[_Certificate in Software Development and Programming_]
+#emph[Certificate in Software Development and Programming]
   ],
   right-content: [
-    #[_Berkeley, CA_]
+    #emph[Berkeley, CA]
 
-#[_June 2023 - present_]
+#emph[June 2023 - present]
   ],
 )
 #block(
@@ -483,14 +483,14 @@
 // YES DATE, NO DEGREE
 #two-col-entry(
   left-content: [
-    #[*The University of Texas Health Science Center at Houston*]
+    #strong[The University of Texas Health Science Center at Houston]
 
-#[_Doctor of Philosophy in Biostatistics_]
+#emph[Doctor of Philosophy in Biostatistics]
   ],
   right-content: [
-    #[_Houston, TX_]
+    #emph[Houston, TX]
 
-#[_Aug 2022 - present_]
+#emph[Aug 2022 - present]
   ],
 )
 #block(
@@ -508,14 +508,14 @@
 // YES DATE, NO DEGREE
 #two-col-entry(
   left-content: [
-    #[*The University of Texas Health Science Center at Houston*]
+    #strong[The University of Texas Health Science Center at Houston]
 
-#[_Master of Science in Biostatistics_]
+#emph[Master of Science in Biostatistics]
   ],
   right-content: [
-    #[_Houston, TX_]
+    #emph[Houston, TX]
 
-#[_Jan 2020 - May 2022_]
+#emph[Jan 2020 - May 2022]
   ],
 )
 #block(
@@ -533,14 +533,14 @@
 // YES DATE, NO DEGREE
 #two-col-entry(
   left-content: [
-    #[*University of Rochester*]
+    #strong[University of Rochester]
 
-#[_Bachelor of Science in Environmental Health_]
+#emph[Bachelor of Science in Environmental Health]
   ],
   right-content: [
-    #[_Rochester, NY_]
+    #emph[Rochester, NY]
 
-#[_Sept 2014 - May 2018_]
+#emph[Sept 2014 - May 2018]
   ],
 )
 #block(
@@ -560,14 +560,14 @@
 
 #two-col-entry(
   left-content: [
-    #[*Biostatistics and Data Science - Graduate Research Assistant \(Doctoral\)*]
+    #strong[Biostatistics and Data Science - Graduate Research Assistant \(Doctoral\)]
 
-#[_The University of Texas Health Science Center at Houston, School of Public Health_]
+#emph[The University of Texas Health Science Center at Houston, School of Public Health]
   ],
   right-content: [
-    #[_Houston, TX_]
+    #emph[Houston, TX]
 
-#[_Sept 2022 - Oct 2024_]
+#emph[Sept 2022 - Oct 2024]
   ],
 )
 #one-col-entry(
@@ -579,14 +579,14 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #[*Biostatistics and Data Science - Graduate Research Assistant \(Master's\)*]
+    #strong[Biostatistics and Data Science - Graduate Research Assistant \(Master's\)]
 
-#[_The University of Texas Health Science Center at Houston, School of Public Health_]
+#emph[The University of Texas Health Science Center at Houston, School of Public Health]
   ],
   right-content: [
-    #[_Houston, TX_]
+    #emph[Houston, TX]
 
-#[_Feb 2020 - Aug 2022_]
+#emph[Feb 2020 - Aug 2022]
   ],
 )
 #one-col-entry(
@@ -598,14 +598,14 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #[*Research and Early Development, Development Sciences & Informatics - Informatics Intern*]
+    #strong[Research and Early Development, Development Sciences & Informatics - Informatics Intern]
 
-#[_Genentech_]
+#emph[Genentech]
   ],
   right-content: [
-    #[_San Francisco, CA_]
+    #emph[San Francisco, CA]
 
-#[_May 2021 - Jan 2022_]
+#emph[May 2021 - Jan 2022]
   ],
 )
 #one-col-entry(
@@ -617,14 +617,14 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #[*Consumer & Market Knowledge - Advanced Analytics Co-Op*]
+    #strong[Consumer & Market Knowledge - Advanced Analytics Co-Op]
 
-#[_Procter & Gamble_]
+#emph[Procter & Gamble]
   ],
   right-content: [
-    #[_Cincinnati, OH_]
+    #emph[Cincinnati, OH]
 
-#[_Jan 2021 - May 2021_]
+#emph[Jan 2021 - May 2021]
   ],
 )
 #one-col-entry(
@@ -636,14 +636,14 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #[*Biostatistics and Data Science - Teaching Assistant*]
+    #strong[Biostatistics and Data Science - Teaching Assistant]
 
-#[_The University of Texas Health Science Center at Houston, School of Public Health_]
+#emph[The University of Texas Health Science Center at Houston, School of Public Health]
   ],
   right-content: [
-    #[_Houston, TX_]
+    #emph[Houston, TX]
 
-#[_Sept 2020 - Dec 2020_]
+#emph[Sept 2020 - Dec 2020]
   ],
 )
 #one-col-entry(
@@ -655,14 +655,14 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #[*Data Engineering Intern*]
+    #strong[Data Engineering Intern]
 
-#[_Bristol Myers Squibb_]
+#emph[Bristol Myers Squibb]
   ],
   right-content: [
-    #[_San Francisco, CA_]
+    #emph[San Francisco, CA]
 
-#[_June 2020 - Aug 2020_]
+#emph[June 2020 - Aug 2020]
   ],
 )
 #one-col-entry(
@@ -676,19 +676,19 @@
 == Honors and Awards
 
 #one-col-entry(
-  content: [#[*Delta Omega Honors Society:*] Alpha Iota Chapter]
+  content: [#strong[Delta Omega Honors Society:] Alpha Iota Chapter]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#[*Tau Sigma Honors Society:*] Beta Rho Chapter]
+  content: [#strong[Tau Sigma Honors Society:] Beta Rho Chapter]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#[*Rochester Innovation Grant:*] University of Rochester]
+  content: [#strong[Rochester Innovation Grant:] University of Rochester]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#[*Innovation and Creativity Award:*] Rochester Institute of Technology]
+  content: [#strong[Innovation and Creativity Award:] Rochester Institute of Technology]
 )
 
 
@@ -696,154 +696,168 @@
 
 #two-col-entry(
   left-content: [
-    #link("https://www.citiprogram.org/verify/?wf64927b0-9408-4c4f-8421-642b22d809f9-54965007")[*Group 1 Biomedical Researcher and Key Personnel*]
+    #link("https://www.citiprogram.org/verify/?w7ac3ddd5-04e8-4d45-baa3-5e3b0a8a9cd2-67307097")[#strong[Good Clinical Practice \(GCP\)]]
 
     
   ],
   right-content: [
-    #[_CITI Program_]
+    #emph[CITI Program]
 
-#[_Mar 2023_]
+#emph[Jan 2025]
   ],
 )
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #link("https://www.citiprogram.org/verify/?wfb60d2d6-b559-499a-b7f9-c654c0bc3890-50620082")[*Group 2 Social and Behavioral Researchers and Key Personnel*]
+    #link("https://www.citiprogram.org/verify/?wf64927b0-9408-4c4f-8421-642b22d809f9-54965007")[#strong[Group 1 Biomedical Researcher and Key Personnel]]
 
     
   ],
   right-content: [
-    #[_CITI Program_]
+    #emph[CITI Program]
 
-#[_Mar 2023_]
+#emph[Mar 2023]
   ],
 )
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #link("https://www.citiprogram.org/verify/?wfb60d2d6-b559-499a-b7f9-c654c0bc3890-50620082")[*Data Acquisition and Management*]
+    #link("https://www.citiprogram.org/verify/?wfb60d2d6-b559-499a-b7f9-c654c0bc3890-50620082")[#strong[Group 2 Social and Behavioral Researchers and Key Personnel]]
 
     
   ],
   right-content: [
-    #[_CITI Program_]
+    #emph[CITI Program]
 
-#[_Oct 2020_]
+#emph[Mar 2023]
   ],
 )
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #link("https://www.youracclaim.com/badges/57b7fb2b-6557-40a9-b890-e48bd0bc39f3/linked_in_profile")[*Big Data Foundations - Level 1*]
+    #link("https://www.citiprogram.org/verify/?wfb60d2d6-b559-499a-b7f9-c654c0bc3890-50620082")[#strong[Data Acquisition and Management]]
 
     
   ],
   right-content: [
-    #[_IBM_]
+    #emph[CITI Program]
 
-#[_May 2020_]
+#emph[Oct 2020]
   ],
 )
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #link("https://www.youracclaim.com/badges/a050dad8-e403-4649-9f5c-c37b47adc4ed/linked_in_profile")[*Big Data Foundations - Level 2*]
+    #link("https://www.youracclaim.com/badges/57b7fb2b-6557-40a9-b890-e48bd0bc39f3/linked_in_profile")[#strong[Big Data Foundations - Level 1]]
 
     
   ],
   right-content: [
-    #[_IBM_]
+    #emph[IBM]
 
-#[_May 2020_]
+#emph[May 2020]
   ],
 )
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #link("https://www.coursera.org/account/accomplishments/certificate/S9NZUETKR2V8")[*Data Science Math Skills*]
+    #link("https://www.youracclaim.com/badges/a050dad8-e403-4649-9f5c-c37b47adc4ed/linked_in_profile")[#strong[Big Data Foundations - Level 2]]
 
     
   ],
   right-content: [
-    #[_Duke University \(Coursera\)_]
+    #emph[IBM]
 
-#[_May 2020_]
+#emph[May 2020]
   ],
 )
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #link("https://www.coursera.org/account/accomplishments/certificate/P26CB65MF373")[*AWS Machine Learning*]
+    #link("https://www.coursera.org/account/accomplishments/certificate/S9NZUETKR2V8")[#strong[Data Science Math Skills]]
 
     
   ],
   right-content: [
-    #[_AWS \(Coursera\)_]
+    #emph[Duke University \(Coursera\)]
 
-#[_May 2020_]
+#emph[May 2020]
   ],
 )
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #link("https://www.coursera.org/account/accomplishments/certificate/BX7475NG429B")[*Google Cloud IAM and Networking*]
+    #link("https://www.coursera.org/account/accomplishments/certificate/P26CB65MF373")[#strong[AWS Machine Learning]]
 
     
   ],
   right-content: [
-    #[_Google Cloud \(Coursera\)_]
+    #emph[AWS \(Coursera\)]
 
-#[_May 2020_]
+#emph[May 2020]
   ],
 )
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #link("https://www.coursera.org/account/accomplishments/certificate/2RXJGRQ7GTQS")[*Machine Learning*]
+    #link("https://www.coursera.org/account/accomplishments/certificate/BX7475NG429B")[#strong[Google Cloud IAM and Networking]]
 
     
   ],
   right-content: [
-    #[_Stanford University \(Coursera\)_]
+    #emph[Google Cloud \(Coursera\)]
 
-#[_May 2020_]
+#emph[May 2020]
   ],
 )
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #link("https://www.credly.com/badges/d4256ba1-2517-42ee-ac4f-4abd3efbf43b/linked_in_profile")[*Hadoop Foundations - Level 1*]
+    #link("https://www.coursera.org/account/accomplishments/certificate/2RXJGRQ7GTQS")[#strong[Machine Learning]]
 
     
   ],
   right-content: [
-    #[_IBM_]
+    #emph[Stanford University \(Coursera\)]
 
-#[_May 2020_]
+#emph[May 2020]
   ],
 )
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #link("https://www.credly.com/badges/adcdee7c-1e56-4e41-a4fe-1cc21059d638/linked_in_profile")[*Spark - Level 1*]
+    #link("https://www.credly.com/badges/d4256ba1-2517-42ee-ac4f-4abd3efbf43b/linked_in_profile")[#strong[Hadoop Foundations - Level 1]]
 
     
   ],
   right-content: [
-    #[_IBM_]
+    #emph[IBM]
 
-#[_May 2020_]
+#emph[May 2020]
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #link("https://www.credly.com/badges/adcdee7c-1e56-4e41-a4fe-1cc21059d638/linked_in_profile")[#strong[Spark - Level 1]]
+
+    
+  ],
+  right-content: [
+    #emph[IBM]
+
+#emph[May 2020]
   ],
 )
 
@@ -853,7 +867,7 @@
 
 #two-col-entry(
   left-content: [
-    #[*Factors associated with elevated SARS-CoV-2 immune response in children and adolescents*]
+    #strong[Factors associated with elevated SARS-CoV-2 immune response in children and adolescents]
 
   ],
   right-content: [
@@ -861,14 +875,14 @@
   ],
 )
 #one-col-entry(content:[
-#v(design-highlights-top-margin);Messiah SE, Abbas R, Bergqvist E, Swartz MD, Talebi Y, #[*Sabharwal R*], Han H, Valerio-Shewmaker MA, DeSantis SM, Yaseen A, Gandhi HA, Amavisca XF, Ross JA, Padilla LN, Gonzalez MO, Wu L, Silberman MA, Lakey D, Shuford JA, Pont SJ, Boerwinkle E
+#v(design-highlights-top-margin);Messiah SE, Abbas R, Bergqvist E, Swartz MD, Talebi Y, #strong[Sabharwal R], Han H, Valerio-Shewmaker MA, DeSantis SM, Yaseen A, Gandhi HA, Amavisca XF, Ross JA, Padilla LN, Gonzalez MO, Wu L, Silberman MA, Lakey D, Shuford JA, Pont SJ, Boerwinkle E
 
 #v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.3389/fped.2024.1393321")[10.3389/fped.2024.1393321] (Frontiers in Pediatrics)])
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #[*Baseline characteristics of SARS-CoV-2 vaccine non-responders in a large population-based sample*]
+    #strong[Baseline characteristics of SARS-CoV-2 vaccine non-responders in a large population-based sample]
 
   ],
   right-content: [
@@ -876,14 +890,14 @@
   ],
 )
 #one-col-entry(content:[
-#v(design-highlights-top-margin);Yaseen A, DeSantis SM, #[*Sabharwal R*], Talebi Y, Swartz MD, Zhang S, Leon Novelo L, Pinzon-Gomez CL, Messiah SE, Valerio-Shewmaker M, Kohl HW 3rd, Ross J, Lakey D, Shuford JA, Pont SJ, Boerwinkle E
+#v(design-highlights-top-margin);Yaseen A, DeSantis SM, #strong[Sabharwal R], Talebi Y, Swartz MD, Zhang S, Leon Novelo L, Pinzon-Gomez CL, Messiah SE, Valerio-Shewmaker M, Kohl HW 3rd, Ross J, Lakey D, Shuford JA, Pont SJ, Boerwinkle E
 
 #v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1371/journal.pone.0303420")[10.1371/journal.pone.0303420] (PLoS One)])
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #[*An Interactive Online Dashboard with COVID-19 Trends and Data Analysis in Northeast and South Texas*]
+    #strong[An Interactive Online Dashboard with COVID-19 Trends and Data Analysis in Northeast and South Texas]
 
   ],
   right-content: [
@@ -891,14 +905,14 @@
   ],
 )
 #one-col-entry(content:[
-#v(design-highlights-top-margin);Zhang Z, #[*Sabharwal R*], Lee M, Zhang K, McGaha P, Crum M, Bauer C, Fisher-Hoch SP, McCormick JB, Reininger BM, Thomas S, Guajardo E, Pinon D, Yaseen A
+#v(design-highlights-top-margin);Zhang Z, #strong[Sabharwal R], Lee M, Zhang K, McGaha P, Crum M, Bauer C, Fisher-Hoch SP, McCormick JB, Reininger BM, Thomas S, Guajardo E, Pinon D, Yaseen A
 
 #v(design-highlights-top-margin - design-text-leading)#link("https://research.ebsco.com/linkprocessor/plink?id=894625e1-7146-30bf-aa2c-9f5637dac41e")[research.ebsco.com/linkprocessor/plink?id=894625e1-7146-30bf-aa2c-9f5637dac41e] (Texas Public Health Journal)])
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #[*Long-term immune response to SARS-CoV-2 infection and vaccination in children and adolescents*]
+    #strong[Long-term immune response to SARS-CoV-2 infection and vaccination in children and adolescents]
 
   ],
   right-content: [
@@ -906,14 +920,14 @@
   ],
 )
 #one-col-entry(content:[
-#v(design-highlights-top-margin);Messiah SE, Talebi Y, Swartz MD, #[*Sabharwal R*], Han H, Bergqvist E, Kohl HW 3rd, Valerio-Shewmaker M, DeSantis SM, Yaseen A, Kelder SH, Ross J, Padilla LN, Gonzalez MO, Wu L, Lakey D, Shuford JA, Pont SJ, Boerwinkle E
+#v(design-highlights-top-margin);Messiah SE, Talebi Y, Swartz MD, #strong[Sabharwal R], Han H, Bergqvist E, Kohl HW 3rd, Valerio-Shewmaker M, DeSantis SM, Yaseen A, Kelder SH, Ross J, Padilla LN, Gonzalez MO, Wu L, Lakey D, Shuford JA, Pont SJ, Boerwinkle E
 
 #v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1038/s41390-023-02857-y")[10.1038/s41390-023-02857-y] (Pediatric Research)])
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #[*Scholarly recommendation systems: a literature survey*]
+    #strong[Scholarly recommendation systems: a literature survey]
 
   ],
   right-content: [
@@ -921,14 +935,14 @@
   ],
 )
 #one-col-entry(content:[
-#v(design-highlights-top-margin);Zhang Z, Patra BG, Yaseen A, Zhu J, #[*Sabharwal R*], Roberts K, Cao T, Wu H
+#v(design-highlights-top-margin);Zhang Z, Patra BG, Yaseen A, Zhu J, #strong[Sabharwal R], Roberts K, Cao T, Wu H
 
 #v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1007/s10115-023-01901-x")[10.1007/s10115-023-01901-x] (Knowledge and Information Systems)])
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #[*Data Cleaning for eCommerce: Standardizing Data Handling Practices for eCommerce Datasets*]
+    #strong[Data Cleaning for eCommerce: Standardizing Data Handling Practices for eCommerce Datasets]
 
   ],
   right-content: [
@@ -936,7 +950,7 @@
   ],
 )
 #one-col-entry(content:[
-  #v(design-highlights-top-margin);#[*Sabharwal R*]
+  #v(design-highlights-top-margin);#strong[Sabharwal R]
 
 #v(design-highlights-top-margin - design-text-leading)Procter & Gamble, Internal White Paper])
 
@@ -945,54 +959,54 @@
 == Skills
 
 #one-col-entry(
-  content: [#[*Languages:*] English \(Native/Bilingual\), Hindi \(Native/Bilingual\), French \(Intermediate\)]
+  content: [#strong[Languages:] English \(Native/Bilingual\), Hindi \(Native/Bilingual\), French \(Intermediate\)]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#[*Work Authorization:*] US Citizenship, Canadian Citizenship]
+  content: [#strong[Work Authorization:] US Citizenship, Canadian Citizenship]
 )
 
 
 == Technical Skills
 
 #one-col-entry(
-  content: [#[*Machine Learning:*] Scikit-learn, TidyModels, Raytune, Optuna, Pytorch, Tensorflow, Huggingface, JAX]
+  content: [#strong[Machine Learning:] Scikit-learn, TidyModels, Raytune, Optuna, Pytorch, Tensorflow, Huggingface, JAX]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#[*Programming Languages:*] Python, R, SAS, MATLAB, Javascript, C, Java, HTML, CSS]
+  content: [#strong[Programming Languages:] Python, R, SAS, MATLAB, Javascript, C, Java, HTML, CSS]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#[*Databases:*] RDBMS \(PostgreSQL, SQLite, MySQL\), NoSQL DBMS \(MongoDB, Elasticsearch, Neo4J\), BigQuery]
+  content: [#strong[Databases:] RDBMS \(PostgreSQL, SQLite, MySQL\), NoSQL DBMS \(MongoDB, Elasticsearch, Neo4J\), BigQuery]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#[*Cloud and Distributed Computing:*] AWS \(AWS HPC\), GCP, Azure, Spark, Hadoop, Slurm, On-Prem HPC]
+  content: [#strong[Cloud and Distributed Computing:] AWS \(AWS HPC\), GCP, Azure, Spark, Hadoop, Slurm, On-Prem HPC]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#[*DevOps:*] Git, GitHub, GitLab, Docker, GitHub/GitLab CI/CD, Jenkins, Kubernetes, Jira, Confluence]
+  content: [#strong[DevOps:] Git, GitHub, GitLab, Docker, GitHub/GitLab CI/CD, Jenkins, Kubernetes, Jira, Confluence]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#[*Workflow Orchestration:*] Airflow, Prefect, Cron, Luigi]
+  content: [#strong[Workflow Orchestration:] Airflow, Prefect, Cron, Luigi]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#[*Frameworks and Platforms:*] Streamlit, FastAPI, Django, Flask, Heroku, Replit, Great Expectations, PyTest]
+  content: [#strong[Frameworks and Platforms:] Streamlit, FastAPI, Django, Flask, Heroku, Replit, Great Expectations, PyTest]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#[*Tooling:*] VSCode, RStudio, Quarto, Jupyter, PyCharm, CLion, IntelliJ IDEA, Confluence, Slack, Tableau, Power BI, Stata, DBeaver]
+  content: [#strong[Tooling:] VSCode, RStudio, Quarto, Jupyter, PyCharm, CLion, IntelliJ IDEA, Confluence, Slack, Tableau, Power BI, Stata, DBeaver]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#[*Operating Systems:*] Windows, Linux \(Ubuntu, and Mint\), MacOS]
+  content: [#strong[Operating Systems:] Windows, Linux \(Ubuntu, and Mint\), MacOS]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#[*General Computing:*] Microsoft Office, Google Workspace]
+  content: [#strong[General Computing:] Microsoft Office, Google Workspace]
 )
 
 

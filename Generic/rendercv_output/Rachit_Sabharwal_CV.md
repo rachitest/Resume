@@ -108,6 +108,11 @@
 - Innovation and Creativity Award: Rochester Institute of Technology
 # Certifications
 
+## [Good Clinical Practice (GCP)](https://www.citiprogram.org/verify/?w7ac3ddd5-04e8-4d45-baa3-5e3b0a8a9cd2-67307097)
+
+- Jan 2025
+- CITI Program
+
 ## [Group 1 Biomedical Researcher and Key Personnel](https://www.citiprogram.org/verify/?wf64927b0-9408-4c4f-8421-642b22d809f9-54965007)
 
 - Mar 2023
