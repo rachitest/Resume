@@ -9,12 +9,6 @@ cv:
       username: rachitest
   sections:
     Education:
-      - institution: The University of California, Berkeley
-        area: Software Development and Programming
-        degree: Certificate
-        location: Berkeley, CA
-        start_date: 2023-06
-        end_date: 2025-04
       - institution: The University of Texas Health Science Center at Houston
         area: Biostatistics
         degree: Doctor of Philosophy
@@ -23,6 +17,12 @@ cv:
         highlights:
           - 'Advanced Certificate in Data Science'
           # - Expected Completion Date - 08/2026
+      - institution: The University of California, Berkeley
+        area: Software Development and Programming
+        degree: Certificate
+        location: Berkeley, CA
+        start_date: 2023-06
+        end_date: 2025-04
       - institution: The University of Texas Health Science Center at Houston
         area: Biostatistics
         degree: Master of Science
@@ -47,14 +47,14 @@ cv:
         location: Lake Jackson, TX
         start_date: 2025-05
         end_date: 2025-08
-        highlights: 
-          - Authored manuscript _"Trust and Uncertainty Quatification in 
-            Machine Learning Models Under Measurement Error"_ comparing the
+        highlights:  
+          - Authored manuscript *"Trust and Uncertainty Quatification in 
+            Machine Learning Models Under Measurement Error"* comparing the
             difference between frequentist and bayesian approaches in creating
             "trustworthy" models for noisy (real-world like) simulated data
-          - Created R application allowing users to automate upto 50% of LCA (
-            Life Cycle Assesment) analysis, estimated to be worth ~15MM annually
-            across Dow
+          - Created R application allowing users to automate up to 50% of LCA 
+            (Life Cycle Assesment) analysis, estimated to be worth ~15MM 
+            annually across Dow
           - Successfully presented literature review and experimental results to
             both technical and non-technical stakeholders 
       - company: The University of Texas Health Science Center at Houston,

@@ -458,31 +458,6 @@
 // YES DATE, NO DEGREE
 #two-col-entry(
   left-content: [
-    #strong[The University of California, Berkeley]
-
-#emph[Certificate in Software Development and Programming]
-  ],
-  right-content: [
-    #emph[Berkeley, CA]
-
-#emph[June 2023 - Apr 2025]
-  ],
-)
-#block(
-  [
-    #set par(spacing: 0pt)
-    
-  ],
-  inset: (
-    left: design-entries-left-and-right-margin,
-    right: design-entries-left-and-right-margin,
-  ),
-)
-
-#v(design-entries-vertical-space-between-entries)
-// YES DATE, NO DEGREE
-#two-col-entry(
-  left-content: [
     #strong[The University of Texas Health Science Center at Houston]
 
 #emph[Doctor of Philosophy in Biostatistics]
@@ -497,6 +472,31 @@
   [
     #set par(spacing: 0pt)
     #v(design-highlights-top-margin);#highlights([Advanced Certificate in Data Science],)
+  ],
+  inset: (
+    left: design-entries-left-and-right-margin,
+    right: design-entries-left-and-right-margin,
+  ),
+)
+
+#v(design-entries-vertical-space-between-entries)
+// YES DATE, NO DEGREE
+#two-col-entry(
+  left-content: [
+    #strong[The University of California, Berkeley]
+
+#emph[Certificate in Software Development and Programming]
+  ],
+  right-content: [
+    #emph[Berkeley, CA]
+
+#emph[June 2023 - Apr 2025]
+  ],
+)
+#block(
+  [
+    #set par(spacing: 0pt)
+    
   ],
   inset: (
     left: design-entries-left-and-right-margin,
@@ -572,7 +572,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Authored manuscript \_\"Trust and Uncertainty Quatification in Machine Learning Models Under Measurement Error\"\_ comparing the difference between frequentist and bayesian approaches in creating \"trustworthy\" models for noisy \(real-world like\) simulated data],[Created R application allowing users to automate upto 50\% of LCA \( Life Cycle Assesment\) analysis, estimated to be worth \~15MM annually across Dow],[Successfully presented literature review and experimental results to both technical and non-technical stakeholders],)
+    #v(design-highlights-top-margin);#highlights([Authored manuscript #emph[\"Trust and Uncertainty Quatification in Machine Learning Models Under Measurement Error\"] comparing the difference between frequentist and bayesian approaches in creating \"trustworthy\" models for noisy \(real-world like\) simulated data],[Created R application allowing users to automate up to 50\% of LCA \(Life Cycle Assesment\) analysis, estimated to be worth \~15MM annually across Dow],[Successfully presented literature review and experimental results to both technical and non-technical stakeholders],)
   ],
 )
 

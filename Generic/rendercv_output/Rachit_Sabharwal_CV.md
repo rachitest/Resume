@@ -9,16 +9,16 @@
 
 # Education
 
-## The University of California, Berkeley, Certificate in Software Development and Programming
-
-- June 2023 - Apr 2025
-- Berkeley, CA
-
 ## The University of Texas Health Science Center at Houston, Doctor of Philosophy in Biostatistics
 
 - Aug 2022 - present
 - Houston, TX
 - Advanced Certificate in Data Science
+
+## The University of California, Berkeley, Certificate in Software Development and Programming
+
+- June 2023 - Apr 2025
+- Berkeley, CA
 
 ## The University of Texas Health Science Center at Houston, Master of Science in Biostatistics
 
@@ -39,8 +39,8 @@
 
 - May 2025 - Aug 2025
 - Lake Jackson, TX
-- Authored manuscript _"Trust and Uncertainty Quatification in Machine Learning Models Under Measurement Error"_ comparing the difference between frequentist and bayesian approaches in creating "trustworthy" models for noisy (real-world like) simulated data
-- Created R application allowing users to automate upto 50% of LCA ( Life Cycle Assesment) analysis, estimated to be worth ~15MM annually across Dow
+- Authored manuscript *"Trust and Uncertainty Quatification in Machine Learning Models Under Measurement Error"* comparing the difference between frequentist and bayesian approaches in creating "trustworthy" models for noisy (real-world like) simulated data
+- Created R application allowing users to automate up to 50% of LCA (Life Cycle Assesment) analysis, estimated to be worth ~15MM annually across Dow
 - Successfully presented literature review and experimental results to both technical and non-technical stakeholders
 
 ## The University of Texas Health Science Center at Houston, School of Public Health - Dallas Campus, Graduate Research Assistant (Doctoral)
