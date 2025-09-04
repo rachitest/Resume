@@ -591,7 +591,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Establish good DevOps practices, architect repository structures, author comprehensive documentation, and implement CI/CD pipelines to streamline development and testing processes],[Perform data cleaning, wrangling and integration on medium-sized datasets containing PII using Microsoft Excel, Python, and R],[Plan and enact a test suite for both code and data spanning the entire data engineering and data science life-cycle from data ingestion to report generation],[Create, deploy, and maintain multiple dashboards for the DETECT \( Detection of Elder Abuse Through Emergency Care Technicians\) randomized clinical trial],[Author and edit manuscripts for DETECT],)
+    #v(design-highlights-top-margin);#highlights([Establish good DevOps practices, architect repository structures, author comprehensive documentation, and implement CI/CD pipelines to streamline development and testing processes],[Perform data cleaning, wrangling and integration on medium-sized datasets containing PII using Microsoft Excel, Python, and R],[Plan and enact a test suite for both code and data spanning the entire data engineering and data science life-cycle from data ingestion to report generation],[Create, deploy, and maintain multiple dashboards for the DETECT \(Detection of Elder Abuse Through Emergency Care Technicians\) randomized clinical trial],[Author and edit manuscripts for DETECT],)
   ],
 )
 
