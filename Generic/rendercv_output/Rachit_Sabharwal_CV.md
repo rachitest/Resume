@@ -11,7 +11,7 @@
 
 ## The University of California, Berkeley, Certificate in Software Development and Programming
 
-- June 2023 - present
+- June 2023 - Apr 2025
 - Berkeley, CA
 
 ## The University of Texas Health Science Center at Houston, Doctor of Philosophy in Biostatistics
@@ -35,17 +35,34 @@
 
 # Experience
 
+## The Dow Chemical Company, Research & Development Intern, MiLOS (Machine Learning, Optimization, & Statistics), Engineering & Process Sciences, Core R&D
+
+- May 2025 - Aug 2025
+- Lake Jackson, TX
+- Authored manuscript _"Trust and Uncertainty Quatification in Machine Learning Models Under Measurement Error"_ comparing the difference between frequentist and bayesian approaches in creating "trustworthy" models for noisy (real-world like) simulated data
+- Created R application allowing users to automate upto 50% of LCA ( Life Cycle Assesment) analysis, estimated to be worth ~15MM annually across Dow
+- Successfully presented literature review and experimental results to both technical and non-technical stakeholders
+
+## The University of Texas Health Science Center at Houston, School of Public Health - Dallas Campus, Graduate Research Assistant (Doctoral)
+
+- Feb 2025 - present
+- Dallas, TX
+- Establish good DevOps practices, architect repository structures, author comprehensive documentation, and implement CI/CD pipelines to streamline development and testing processes
+- Perform data cleaning, wrangling and integration on medium-sized datasets containing PII using Microsoft Excel, Python, and R
+- Plan and enact a test suite for both code and data spanning the entire data engineering and data science life-cycle from data ingestion to report generation
+- Author and edit manuscripts
+
 ## The University of Texas Health Science Center at Houston, School of Public Health, Biostatistics and Data Science - Graduate Research Assistant (Doctoral)
 
-- Sept 2022 - Oct 2024
+- Sept 2022 - Jan 2025
 - Houston, TX
-- Design and implement ETL pipelines for all sizes of datasets (small, medium, and large), ensuring efficient data munging and integration
-- Establish good DevOps practices, architect repository structures, author comprehensive documentation, and implement CI/CD pipelines to streamline development and testing processes
-- Apply a mix of classical statistical models and advanced machine learning techniques for comprehensive data analysis on varied topics including — vaccine non-response, serostatus, pediatric comorbidities arising from Covid-19, etc.
-- Develop a weekly report generation pipeline incorporating CI/CD, ensuring seamless integration of new data and automated report updates
-- Plan and enact a test suite for both code and data spanning the entire data engineering and data science life-cycle from data ingestion to report generation
-- Author and edit multiple manuscripts, contributing to the publication of at least four peer-reviewed journal articles
-- Utilize R (tidyverse, tidymodels, data.table, gt), Python (polars, pandas, duckdb, statsmodels, scikit-learn, PyTorch, TensorFlow), Quarto, SQLite, Git, Github, and Gitlab for various projects
+- Designed and implemented ETL pipelines for all sizes of datasets (small, medium, and large), ensuring efficient data munging and integration
+- Established good DevOps practices, architected repository structures, authored comprehensive documentation, and implemented CI/CD pipelines to streamline development and testing processes
+- Applied a mix of classical statistical models and advanced machine learning techniques for comprehensive data analysis on varied topics including — vaccine non-response, serostatus, pediatric comorbidities arising from Covid-19, etc.
+- Developed a weekly report generation pipeline incorporating CI/CD, ensuring seamless integration of new data and automated report updates
+- Planned and enacted a test suite for both code and data spanning the entire data engineering and data science life-cycle from data ingestion to report generation
+- Authored and edited multiple manuscripts, contributing to the publication of at least four peer-reviewed journal articles
+- Utilized R (tidyverse, tidymodels, data.table, gt), Python (polars, pandas, duckdb, statsmodels, scikit-learn, PyTorch, TensorFlow), Quarto, SQLite, Git, Github, and Gitlab for various projects
 
 ## The University of Texas Health Science Center at Houston, School of Public Health, Biostatistics and Data Science - Graduate Research Assistant (Master's)
 

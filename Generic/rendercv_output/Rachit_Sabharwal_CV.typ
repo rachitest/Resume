@@ -3,7 +3,7 @@
 
 #let name = "Rachit Sabharwal"
 #let locale-catalog-page-numbering-style = context { "Rachit Sabharwal - Page " + str(here().page()) + " of " + str(counter(page).final().first()) + "" }
-#let locale-catalog-last-updated-date-style = "Last updated in Jan 2025"
+#let locale-catalog-last-updated-date-style = "Last updated in Sept 2025"
 #let locale-catalog-language = "en"
 #let design-page-size = "us-letter"
 #let design-section-titles-font-size = 1.4em
@@ -465,7 +465,7 @@
   right-content: [
     #emph[Berkeley, CA]
 
-#emph[June 2023 - present]
+#emph[June 2023 - Apr 2025]
   ],
 )
 #block(
@@ -560,6 +560,44 @@
 
 #two-col-entry(
   left-content: [
+    #strong[Research & Development Intern, MiLOS \(Machine Learning, Optimization, & Statistics\), Engineering & Process Sciences, Core R&D]
+
+#emph[The Dow Chemical Company]
+  ],
+  right-content: [
+    #emph[Lake Jackson, TX]
+
+#emph[May 2025 - Aug 2025]
+  ],
+)
+#one-col-entry(
+  content: [
+    #v(design-highlights-top-margin);#highlights([Authored manuscript \_\"Trust and Uncertainty Quatification in Machine Learning Models Under Measurement Error\"\_ comparing the difference between frequentist and bayesian approaches in creating \"trustworthy\" models for noisy \(real-world like\) simulated data],[Created R application allowing users to automate upto 50\% of LCA \( Life Cycle Assesment\) analysis, estimated to be worth \~15MM annually across Dow],[Successfully presented literature review and experimental results to both technical and non-technical stakeholders],)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Graduate Research Assistant \(Doctoral\)]
+
+#emph[The University of Texas Health Science Center at Houston, School of Public Health - Dallas Campus]
+  ],
+  right-content: [
+    #emph[Dallas, TX]
+
+#emph[Feb 2025 - present]
+  ],
+)
+#one-col-entry(
+  content: [
+    #v(design-highlights-top-margin);#highlights([Establish good DevOps practices, architect repository structures, author comprehensive documentation, and implement CI/CD pipelines to streamline development and testing processes],[Perform data cleaning, wrangling and integration on medium-sized datasets containing PII using Microsoft Excel, Python, and R],[Plan and enact a test suite for both code and data spanning the entire data engineering and data science life-cycle from data ingestion to report generation],[Author and edit manuscripts],)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
     #strong[Biostatistics and Data Science - Graduate Research Assistant \(Doctoral\)]
 
 #emph[The University of Texas Health Science Center at Houston, School of Public Health]
@@ -567,12 +605,12 @@
   right-content: [
     #emph[Houston, TX]
 
-#emph[Sept 2022 - Oct 2024]
+#emph[Sept 2022 - Jan 2025]
   ],
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Design and implement ETL pipelines for all sizes of datasets \(small, medium, and large\), ensuring efficient data munging and integration],[Establish good DevOps practices, architect repository structures, author comprehensive documentation, and implement CI/CD pipelines to streamline development and testing processes],[Apply a mix of classical statistical models and advanced machine learning techniques for comprehensive data analysis on varied topics including — vaccine non-response, serostatus, pediatric comorbidities arising from Covid-19, etc.],[Develop a weekly report generation pipeline incorporating CI/CD, ensuring seamless integration of new data and automated report updates],[Plan and enact a test suite for both code and data spanning the entire data engineering and data science life-cycle from data ingestion to report generation],[Author and edit multiple manuscripts, contributing to the publication of at least four peer-reviewed journal articles],[Utilize R \(tidyverse, tidymodels, data.table, gt\), Python \(polars, pandas, duckdb, statsmodels, scikit-learn, PyTorch, TensorFlow\), Quarto, SQLite, Git, Github, and Gitlab for various projects],)
+    #v(design-highlights-top-margin);#highlights([Designed and implemented ETL pipelines for all sizes of datasets \(small, medium, and large\), ensuring efficient data munging and integration],[Established good DevOps practices, architected repository structures, authored comprehensive documentation, and implemented CI/CD pipelines to streamline development and testing processes],[Applied a mix of classical statistical models and advanced machine learning techniques for comprehensive data analysis on varied topics including — vaccine non-response, serostatus, pediatric comorbidities arising from Covid-19, etc.],[Developed a weekly report generation pipeline incorporating CI/CD, ensuring seamless integration of new data and automated report updates],[Planned and enacted a test suite for both code and data spanning the entire data engineering and data science life-cycle from data ingestion to report generation],[Authored and edited multiple manuscripts, contributing to the publication of at least four peer-reviewed journal articles],[Utilized R \(tidyverse, tidymodels, data.table, gt\), Python \(polars, pandas, duckdb, statsmodels, scikit-learn, PyTorch, TensorFlow\), Quarto, SQLite, Git, Github, and Gitlab for various projects],)
   ],
 )
 
