@@ -14,6 +14,7 @@ cv:
         degree: Certificate
         location: Berkeley, CA
         start_date: 2023-06
+        end_date: 2025-04
       - institution: The University of Texas Health Science Center at Houston
         area: Biostatistics
         degree: Doctor of Philosophy
@@ -40,35 +41,67 @@ cv:
         highlights:
           - 'Minor in Psychology'
     Experience:
+      - company: The Dow Chemical Company
+        position: Research & Development Intern, MiLOS (Machine Learning, 
+          Optimization, & Statistics), Engineering & Process Sciences, Core R&D
+        location: Lake Jackson, TX
+        start_date: 2025-05
+        end_date: 2025-08
+        highlights: 
+          - Authored manuscript _"Trust and Uncertainty Quatification in 
+            Machine Learning Models Under Measurement Error"_ comparing the
+            difference between frequentist and bayesian approaches in creating
+            "trustworthy" models for noisy (real-world like) simulated data
+          - Created R application allowing users to automate upto 50% of LCA (
+            Life Cycle Assesment) analysis, estimated to be worth ~15MM annually
+            across Dow
+          - Successfully presented literature review and experimental results to
+            both technical and non-technical stakeholders 
+      - company: The University of Texas Health Science Center at Houston,
+          School of Public Health - Dallas Campus
+        position: Graduate Research Assistant (Doctoral)
+        location: Dallas, TX
+        start_date: 2025-02
+        highlights:
+          - Establish good DevOps practices, architect repository structures,
+            author comprehensive documentation, and implement CI/CD pipelines to
+            streamline development and testing
+            processes
+          - Perform data cleaning, wrangling and integration on medium-sized
+            datasets containing PII using Microsoft Excel, Python, and R
+          - Plan and enact a test suite for both code and data spanning the
+            entire data engineering and data science life-cycle from data
+            ingestion to report generation
+          - Author and edit manuscripts
       - company: The University of Texas Health Science Center at Houston,
           School of Public Health
         position: Biostatistics and Data Science - Graduate Research Assistant
           (Doctoral)
         location: Houston, TX
         start_date: 2022-09
-        end_date: 2024-10
+        end_date: 2025-01
         highlights:
-          - Design and implement ETL pipelines for all sizes of datasets 
+          - Designed and implemented ETL pipelines for all sizes of datasets
             (small, medium, and large), ensuring efficient data munging and
             integration
-          - Establish good DevOps practices, architect repository structures, 
-            author comprehensive documentation, and implement CI/CD pipelines to
+          - Established good DevOps practices, architected repository structures,
+            authored comprehensive documentation, and implemented CI/CD pipelines to
             streamline development and testing
             processes
-          - Apply a mix of classical statistical models and advanced machine 
+          - Applied a mix of classical statistical models and advanced machine
             learning techniques for comprehensive data analysis on varied topics
-            including — vaccine non-response, serostatus, pediatric 
+            including — vaccine non-response, serostatus, pediatric
             comorbidities arising from Covid-19, etc.
-          - Develop a weekly report generation pipeline incorporating CI/CD, 
-            ensuring seamless integration of new data and automated report 
+          - Developed a weekly report generation pipeline incorporating CI/CD,
+            ensuring seamless integration of new data and automated report
             updates
-          - Plan and enact a test suite for both code and data spanning the 
-            entire data engineering and data science life-cycle from data 
+          - Planned and enacted a test suite for both code and data spanning the
+            entire data engineering and data science life-cycle from data
             ingestion to report generation
-          - Author and edit multiple manuscripts, contributing to the 
+          - Authored and edited multiple manuscripts, contributing to the
             publication of at least four peer-reviewed journal articles
-          - Utilize R (tidyverse, tidymodels, data.table, gt), Python (polars, 
-            pandas, duckdb, statsmodels, scikit-learn, PyTorch, TensorFlow), 
+          - Utilized R (tidyverse, tidymodels, data.table, gt), Python (polars,
+            pandas, duckdb, statsmodels, scikit-learn, PyTorch, TensorFlow),
             Quarto, SQLite, Git, Github, and Gitlab for various projects
       - company: The University of Texas Health Science Center at Houston,
           School of Public Health
@@ -78,7 +111,7 @@ cv:
         start_date: 2020-02
         end_date: 2022-08
         highlights:
-          - Performed data cleaning, wrangling and integration on medium-sized 
+          - Performed data cleaning, wrangling and integration on medium-sized
             datasets containing PII using Microsoft Excel, Python, and R
           - Maintained Covid-19 dashboards using Python and Tableau for the
             [Texas Covid-19 Dashboard Project](https://sph.uth.edu/projects/covid19/)
@@ -107,7 +140,7 @@ cv:
           - Developed a framework for the tokenization of internal documents for
             ingestion into text-mining application
           - Compared work flow management/ETL frameworks (Airflow vs.
-            Prefect vs. Luigi) for use with all NLP pipelines and presented the 
+            Prefect vs. Luigi) for use with all NLP pipelines and presented the
             results
           - Conducted literature reviews on research concerning Graph Neural
             Networks, Transfer Learning, and Natural Language Generation
@@ -142,7 +175,7 @@ cv:
             Data Science Programming
           - Assisted in instructing a class of 20 students both
             individually and in groups
-          - Provided after-class instruction, individually and in groups, 
+          - Provided after-class instruction, individually and in groups,
             including hands-on technical demonstrations for both curricular and
             extracurricular topics
           - Topics taught included (but were not limited to) — Data Types and
@@ -160,7 +193,7 @@ cv:
             multifeatured patent recommendation app to significantly improve
             scientists' workflow
           - Developed and serviced ETL pipelines using Python and Apache Airflow
-          - Performed data cleaning and data wrangling with R and Python on 
+          - Performed data cleaning and data wrangling with R and Python on
             multiple datasets of varying sizes (small, medium, and large)
           - Designed and maintained both relational and graph databases in
             PostgreSQL and Neo4j
@@ -179,42 +212,42 @@ cv:
       - label: Innovation and Creativity Award
         details: Rochester Institute of Technology
     Certifications:
-      - name: "[Good Clinical Practice (GCP)](https://www.citiprogram.org/verify/?w7ac3ddd5-04e8-4d45-baa3-5e3b0a8a9cd2-67307097)"
+      - name: '[Good Clinical Practice (GCP)](https://www.citiprogram.org/verify/?w7ac3ddd5-04e8-4d45-baa3-5e3b0a8a9cd2-67307097)'
         location: CITI Program
         date: 2025-01
-      - name: "[Group 1 Biomedical Researcher and Key Personnel](https://www.citiprogram.org/verify/?wf64927b0-9408-4c4f-8421-642b22d809f9-54965007)"
+      - name: '[Group 1 Biomedical Researcher and Key Personnel](https://www.citiprogram.org/verify/?wf64927b0-9408-4c4f-8421-642b22d809f9-54965007)'
         location: CITI Program
         date: 2023-03
-      - name: "[Group 2 Social and Behavioral Researchers and Key Personnel](https://www.citiprogram.org/verify/?wfb60d2d6-b559-499a-b7f9-c654c0bc3890-50620082)"
+      - name: '[Group 2 Social and Behavioral Researchers and Key Personnel](https://www.citiprogram.org/verify/?wfb60d2d6-b559-499a-b7f9-c654c0bc3890-50620082)'
         location: CITI Program
         date: 2023-03
-      - name: "[Data Acquisition and Management](https://www.citiprogram.org/verify/?wfb60d2d6-b559-499a-b7f9-c654c0bc3890-50620082)"
+      - name: '[Data Acquisition and Management](https://www.citiprogram.org/verify/?wfb60d2d6-b559-499a-b7f9-c654c0bc3890-50620082)'
         location: CITI Program
         date: 2020-10
-      - name: "[Big Data Foundations - Level 1](https://www.youracclaim.com/badges/57b7fb2b-6557-40a9-b890-e48bd0bc39f3/linked_in_profile)"
+      - name: '[Big Data Foundations - Level 1](https://www.youracclaim.com/badges/57b7fb2b-6557-40a9-b890-e48bd0bc39f3/linked_in_profile)'
         location: IBM
         date: 2020-05
-      - name: "[Big Data Foundations - Level 2](https://www.youracclaim.com/badges/a050dad8-e403-4649-9f5c-c37b47adc4ed/linked_in_profile)"
+      - name: '[Big Data Foundations - Level 2](https://www.youracclaim.com/badges/a050dad8-e403-4649-9f5c-c37b47adc4ed/linked_in_profile)'
         location: IBM
         date: 2020-05
-      - name: "[Data Science Math Skills](https://www.coursera.org/account/accomplishments/certificate/S9NZUETKR2V8)"
+      - name: '[Data Science Math Skills](https://www.coursera.org/account/accomplishments/certificate/S9NZUETKR2V8)'
         location: Duke University (Coursera)
         date: 2020-05
-      - name: "[AWS Machine Learning](https://www.coursera.org/account/accomplishments/certificate/P26CB65MF373)"
+      - name: '[AWS Machine Learning](https://www.coursera.org/account/accomplishments/certificate/P26CB65MF373)'
         location: AWS (Coursera)
         date: 2020-05
-      - name: "[Google Cloud IAM and Networking](https://www.coursera.org/account/accomplishments/certificate/BX7475NG429B)"
+      - name: '[Google Cloud IAM and Networking](https://www.coursera.org/account/accomplishments/certificate/BX7475NG429B)'
         location: Google Cloud (Coursera)
         date: 2020-05
-      - name: "[Machine Learning](https://www.coursera.org/account/accomplishments/certificate/2RXJGRQ7GTQS)"
+      - name: '[Machine Learning](https://www.coursera.org/account/accomplishments/certificate/2RXJGRQ7GTQS)'
         location: Stanford University (Coursera)
         date: 2020-05
-      - name: "[Hadoop Foundations - Level 1](https://www.credly.com/badges/d4256ba1-2517-42ee-ac4f-4abd3efbf43b/linked_in_profile)"
+      - name: '[Hadoop Foundations - Level 1](https://www.credly.com/badges/d4256ba1-2517-42ee-ac4f-4abd3efbf43b/linked_in_profile)'
         location: IBM
         date: 2020-05
-      - name: "[Spark - Level 1](https://www.credly.com/badges/adcdee7c-1e56-4e41-a4fe-1cc21059d638/linked_in_profile)"
+      - name: '[Spark - Level 1](https://www.credly.com/badges/adcdee7c-1e56-4e41-a4fe-1cc21059d638/linked_in_profile)'
         location: IBM
-        date: 2020-05    
+        date: 2020-05
     Publications:
       - title: Factors associated with elevated SARS-CoV-2 immune response in
           children and adolescents
@@ -248,7 +281,7 @@ cv:
         authors:
           - Yaseen A
           - DeSantis SM
-          - "**Sabharwal R**"
+          - '**Sabharwal R**'
           - Talebi Y
           - Swartz MD
           - Zhang S
@@ -265,11 +298,11 @@ cv:
         date: 2024-05
         doi: 10.1371/journal.pone.0303420
         journal: PLoS One
-      - title: An Interactive Online Dashboard with COVID-19 Trends and Data 
+      - title: An Interactive Online Dashboard with COVID-19 Trends and Data
           Analysis in Northeast and South Texas
         authors:
           - Zhang Z
-          - "**Sabharwal R**"
+          - '**Sabharwal R**'
           - Lee M
           - Zhang K
           - McGaha P
@@ -285,13 +318,13 @@ cv:
         date: 2024-04
         url: https://research.ebsco.com/linkprocessor/plink?id=894625e1-7146-30bf-aa2c-9f5637dac41e
         journal: Texas Public Health Journal
-      - title: Long-term immune response to SARS-CoV-2 infection and 
+      - title: Long-term immune response to SARS-CoV-2 infection and
           vaccination in children and adolescents
         authors:
           - Messiah SE
           - Talebi Y
           - Swartz MD
-          - "**Sabharwal R**"
+          - '**Sabharwal R**'
           - Han H
           - Bergqvist E
           - Kohl HW 3rd
@@ -310,28 +343,28 @@ cv:
         date: 2023-10
         doi: 10.1038/s41390-023-02857-y
         journal: Pediatric Research
-      - title: "Scholarly recommendation systems: a literature survey"
+      - title: 'Scholarly recommendation systems: a literature survey'
         authors:
           - Zhang Z
           - Patra BG
           - Yaseen A
           - Zhu J
-          - "**Sabharwal R**"
+          - '**Sabharwal R**'
           - Roberts K
           - Cao T
           - Wu H
         date: 2023-06
         doi: 10.1007/s10115-023-01901-x
         journal: Knowledge and Information Systems
-      - title: "Data Cleaning for eCommerce: Standardizing Data Handling 
-          Practices for eCommerce Datasets"
+      - title: 'Data Cleaning for eCommerce: Standardizing Data Handling
+          Practices for eCommerce Datasets'
         authors:
-          - "**Sabharwal R**"
+          - '**Sabharwal R**'
         date: 2021-05
         journal: Procter & Gamble, Internal White Paper
     Skills:
       - label: Languages
-        details: English (Native/Bilingual), Hindi (Native/Bilingual), 
+        details: English (Native/Bilingual), Hindi (Native/Bilingual),
           French (Intermediate)
       - label: Work Authorization
         details: US Citizenship, Canadian Citizenship
@@ -340,23 +373,23 @@ cv:
         details: Scikit-learn, TidyModels, Raytune, Optuna, Pytorch, Tensorflow,
           Huggingface, JAX
       - label: Programming Languages
-        details: Python, R, SAS, MATLAB, Javascript, C, Java, HTML, CSS 
+        details: Python, R, SAS, MATLAB, Javascript, C, Java, HTML, CSS
       - label: Databases
-        details: RDBMS (PostgreSQL, SQLite, MySQL), NoSQL DBMS (MongoDB, 
+        details: RDBMS (PostgreSQL, SQLite, MySQL), NoSQL DBMS (MongoDB,
           Elasticsearch, Neo4J), BigQuery
       - label: Cloud and Distributed Computing
-        details: AWS (AWS HPC), GCP, Azure, Spark, Hadoop, Slurm, 
+        details: AWS (AWS HPC), GCP, Azure, Spark, Hadoop, Slurm,
           On-Prem HPC
       - label: DevOps
-        details: Git, GitHub, GitLab, Docker, GitHub/GitLab CI/CD, 
+        details: Git, GitHub, GitLab, Docker, GitHub/GitLab CI/CD,
           Jenkins, Kubernetes, Jira, Confluence
       - label: Workflow Orchestration
         details: Airflow, Prefect, Cron, Luigi
       - label: Frameworks and Platforms
-        details: Streamlit, FastAPI, Django, Flask, Heroku, Replit, Great 
+        details: Streamlit, FastAPI, Django, Flask, Heroku, Replit, Great
           Expectations, PyTest
       - label: Tooling
-        details: VSCode, RStudio, Quarto, Jupyter, PyCharm, CLion, 
+        details: VSCode, RStudio, Quarto, Jupyter, PyCharm, CLion,
           IntelliJ IDEA, Confluence, Slack, Tableau, Power BI, Stata, DBeaver
       - label: Operating Systems
         details: Windows, Linux (Ubuntu, and Mint), MacOS
@@ -459,7 +492,7 @@ locale:
   year: year
   years: years
   present: present
-  to: "-"
+  to: '-'
   abbreviations_for_months:
     - Jan
     - Feb
