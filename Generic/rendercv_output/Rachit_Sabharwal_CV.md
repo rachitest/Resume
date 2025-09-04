@@ -39,7 +39,7 @@
 
 - May 2025 - Aug 2025
 - Lake Jackson, TX
-- Authored manuscript *"Trust and Uncertainty Quatification in Machine Learning Models Under Measurement Error"* comparing the difference between frequentist and bayesian approaches in creating "trustworthy" models for noisy (real-world like) simulated data
+- Authored manuscript *"Trust and Uncertainty Quantification in Machine Learning Models Under Measurement Error"* comparing the difference between frequentist and bayesian approaches in creating "trustworthy" models for noisy (real-world like) simulated data
 - Created R application allowing users to automate up to 50% of LCA (Life Cycle Assesment) analysis, estimated to be worth ~15MM annually across Dow
 - Successfully presented literature review and experimental results to both technical and non-technical stakeholders
 
@@ -50,7 +50,8 @@
 - Establish good DevOps practices, architect repository structures, author comprehensive documentation, and implement CI/CD pipelines to streamline development and testing processes
 - Perform data cleaning, wrangling and integration on medium-sized datasets containing PII using Microsoft Excel, Python, and R
 - Plan and enact a test suite for both code and data spanning the entire data engineering and data science life-cycle from data ingestion to report generation
-- Author and edit manuscripts
+- Create, deploy, and maintain multiple dashboards for the DETECT ( Detection of Elder Abuse Through Emergency Care Technicians) randomized clinical trial
+- Author and edit manuscripts for DETECT
 
 ## The University of Texas Health Science Center at Houston, School of Public Health, Biostatistics and Data Science - Graduate Research Assistant (Doctoral)
 
@@ -186,6 +187,11 @@
 - IBM
 
 # Publications
+
+## Trust and Uncertainty Quantification in Machine Learning Models Under Measurement Error 
+- Aug 2025
+- **Sabharwal R**
+- The Dow Chemical Company, Internal White Paper
 
 ## Factors associated with elevated SARS-CoV-2 immune response in children and adolescents ([10.3389/fped.2024.1393321](https://doi.org/10.3389/fped.2024.1393321))
 - Aug 2024

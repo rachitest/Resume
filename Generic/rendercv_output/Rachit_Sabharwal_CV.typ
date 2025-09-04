@@ -572,7 +572,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Authored manuscript #emph[\"Trust and Uncertainty Quatification in Machine Learning Models Under Measurement Error\"] comparing the difference between frequentist and bayesian approaches in creating \"trustworthy\" models for noisy \(real-world like\) simulated data],[Created R application allowing users to automate up to 50\% of LCA \(Life Cycle Assesment\) analysis, estimated to be worth \~15MM annually across Dow],[Successfully presented literature review and experimental results to both technical and non-technical stakeholders],)
+    #v(design-highlights-top-margin);#highlights([Authored manuscript #emph[\"Trust and Uncertainty Quantification in Machine Learning Models Under Measurement Error\"] comparing the difference between frequentist and bayesian approaches in creating \"trustworthy\" models for noisy \(real-world like\) simulated data],[Created R application allowing users to automate up to 50\% of LCA \(Life Cycle Assesment\) analysis, estimated to be worth \~15MM annually across Dow],[Successfully presented literature review and experimental results to both technical and non-technical stakeholders],)
   ],
 )
 
@@ -591,7 +591,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Establish good DevOps practices, architect repository structures, author comprehensive documentation, and implement CI/CD pipelines to streamline development and testing processes],[Perform data cleaning, wrangling and integration on medium-sized datasets containing PII using Microsoft Excel, Python, and R],[Plan and enact a test suite for both code and data spanning the entire data engineering and data science life-cycle from data ingestion to report generation],[Author and edit manuscripts],)
+    #v(design-highlights-top-margin);#highlights([Establish good DevOps practices, architect repository structures, author comprehensive documentation, and implement CI/CD pipelines to streamline development and testing processes],[Perform data cleaning, wrangling and integration on medium-sized datasets containing PII using Microsoft Excel, Python, and R],[Plan and enact a test suite for both code and data spanning the entire data engineering and data science life-cycle from data ingestion to report generation],[Create, deploy, and maintain multiple dashboards for the DETECT \( Detection of Elder Abuse Through Emergency Care Technicians\) randomized clinical trial],[Author and edit manuscripts for DETECT],)
   ],
 )
 
@@ -903,6 +903,21 @@
 
 == Publications
 
+#two-col-entry(
+  left-content: [
+    #strong[Trust and Uncertainty Quantification in Machine Learning Models Under Measurement Error]
+
+  ],
+  right-content: [
+    Aug 2025
+  ],
+)
+#one-col-entry(content:[
+  #v(design-highlights-top-margin);#strong[Sabharwal R]
+
+#v(design-highlights-top-margin - design-text-leading)The Dow Chemical Company, Internal White Paper])
+
+#v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
     #strong[Factors associated with elevated SARS-CoV-2 immune response in children and adolescents]

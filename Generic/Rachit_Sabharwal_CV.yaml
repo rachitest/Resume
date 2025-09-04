@@ -48,7 +48,7 @@ cv:
         start_date: 2025-05
         end_date: 2025-08
         highlights:  
-          - Authored manuscript *"Trust and Uncertainty Quatification in 
+          - Authored manuscript *"Trust and Uncertainty Quantification in 
             Machine Learning Models Under Measurement Error"* comparing the
             difference between frequentist and bayesian approaches in creating
             "trustworthy" models for noisy (real-world like) simulated data
@@ -72,7 +72,10 @@ cv:
           - Plan and enact a test suite for both code and data spanning the
             entire data engineering and data science life-cycle from data
             ingestion to report generation
-          - Author and edit manuscripts
+          - Create, deploy, and maintain multiple dashboards for the DETECT (
+            Detection of Elder Abuse Through Emergency Care Technicians) 
+            randomized clinical trial
+          - Author and edit manuscripts for DETECT
       - company: The University of Texas Health Science Center at Houston,
           School of Public Health
         position: Biostatistics and Data Science - Graduate Research Assistant
@@ -249,6 +252,12 @@ cv:
         location: IBM
         date: 2020-05
     Publications:
+      - title: Trust and Uncertainty Quantification in Machine Learning Models 
+          Under Measurement Error
+        authors:
+          - '**Sabharwal R**'
+        date: 2025-08
+        journal: The Dow Chemical Company, Internal White Paper
       - title: Factors associated with elevated SARS-CoV-2 immune response in
           children and adolescents
         authors:
