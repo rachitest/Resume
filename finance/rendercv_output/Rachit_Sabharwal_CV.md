@@ -8,7 +8,7 @@
 
 # Professional Summary
 
-Quantitative researcher and data scientist with a PhD background in statistics and machine learning. Specializes in building predictive models, automating complex workflows, and quantifying model uncertainty and risk. Seeking to apply advanced analytical skills to drive data-informed strategies and generate value in the financial sector.
+Quantitative researcher and data scientist with a PhD background in statistics and machine learning. Specializes in developing predictive models, automating complex workflows, and quantifying model uncertainty and risk. Seeking to apply advanced analytical skills to drive data-informed strategies and generate value in the financial sector.
 
 # Education
 
