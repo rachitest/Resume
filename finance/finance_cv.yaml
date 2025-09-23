@@ -3,11 +3,16 @@ cv:
   location: 10211 Camden Garden Lane, Katy, Texas, 77494
   email: rachit-sabharwal@outlook.com
   phone: tel:+1 585-281-1928
-  website: https://www.rachitsabharwal.me
   social_networks:
     - network: GitHub
       username: rachitest
   sections:
+    Professional Summary:
+      - Quantitative researcher and data scientist with a PhD background in 
+        statistics and machine learning. Specializes in building predictive 
+        models, automating complex workflows, and quantifying model uncertainty 
+        and risk. Seeking to apply advanced analytical skills to drive 
+        data-informed strategies and generate value in the financial sector.
     Education:
       - institution: The University of Texas Health Science Center at Houston
         area: Biostatistics
@@ -49,34 +54,34 @@ cv:
         start_date: 2025-05
         end_date: 2025-08
         highlights:  
-          - Authored manuscript *"Trust and Uncertainty Quantification in 
-            Machine Learning Models Under Measurement Error"* comparing the
-            difference between frequentist and bayesian approaches in creating
-            "trustworthy" models for noisy (real-world like) simulated data
-          - Created R application allowing users to automate up to 50% of LCA 
-            (Life Cycle Assesment) analysis, estimated to be worth ~15MM 
-            annually across Dow
-          - Successfully presented literature review and experimental results to
-            both technical and non-technical stakeholders 
+          - Developed and deployed an R application to automate 50% of the Life
+            Cycle Assessment workflow, creating a projected $15M in annual
+            operational savings and freeing up significant analyst time.
+          - Researched and compared frequentist and Bayesian uncertainty
+            quantification methods for machine learning models, delivering a
+            framework to assess model reliability and risk under noisy, 
+            real-world data conditions.
+          - Communicated complex quantitative findings on model performance and
+            business impact to diverse audiences, including senior leadership,
+            securing buy-in for project continuation.
       - company: The University of Texas Health Science Center at Houston,
           School of Public Health - Dallas Campus
         position: Graduate Research Assistant (Doctoral)
         location: Dallas, TX
         start_date: 2025-02
         highlights:
-          - Establish good DevOps practices, architect repository structures,
-            author comprehensive documentation, and implement CI/CD pipelines to
-            streamline development and testing
-            processes
-          - Perform data cleaning, wrangling and integration on medium-sized
-            datasets containing PII using Microsoft Excel, Python, and R
-          - Plan and enact a test suite for both code and data spanning the
-            entire data engineering and data science life-cycle from data
-            ingestion to report generation
-          - Create, deploy, and maintain multiple dashboards for the DETECT 
-            (Detection of Elder Abuse Through Emergency Care Technicians) 
-            randomized clinical trial
-          - Author and edit manuscripts for DETECT
+          - Engineered and implemented a full CI/CD and DevOps framework, which
+            reduced testing time and streamlined development, increasing team
+            productivity and code reliability.
+          - Processed and integrated complex, sensitive datasets using Python and
+            R, establishing a clean data foundation for subsequent predictive
+            modeling and analysis.
+          - Designed and executed a comprehensive testing suite for the entire
+            data pipeline, ensuring data integrity and model accuracy from
+            ingestion to final reporting.
+          - Developed and maintained dynamic dashboards to monitor key
+            performance indicators for a large-scale clinical trial, providing
+            stakeholders with real-time insights for decision-making.
       - company: The University of Texas Health Science Center at Houston,
           School of Public Health
         position: Biostatistics and Data Science - Graduate Research Assistant
@@ -85,28 +90,17 @@ cv:
         start_date: 2022-09
         end_date: 2025-01
         highlights:
-          - Designed and implemented ETL pipelines for all sizes of datasets
-            (small, medium, and large), ensuring efficient data munging and
-            integration
-          - Established good DevOps practices, architected repository structures,
-            authored comprehensive documentation, and implemented CI/CD pipelines to
-            streamline development and testing
-            processes
-          - Applied a mix of classical statistical models and advanced machine
-            learning techniques for comprehensive data analysis on varied topics
-            including — vaccine non-response, serostatus, pediatric
-            comorbidities arising from Covid-19, etc.
-          - Developed a weekly report generation pipeline incorporating CI/CD,
-            ensuring seamless integration of new data and automated report
-            updates
-          - Planned and enacted a test suite for both code and data spanning the
-            entire data engineering and data science life-cycle from data
-            ingestion to report generation
-          - Authored and edited multiple manuscripts, contributing to the
-            publication of at least four peer-reviewed journal articles
-          - Utilized R (tidyverse, tidymodels, data.table, gt), Python (polars,
-            pandas, duckdb, statsmodels, scikit-learn, PyTorch, TensorFlow),
-            Quarto, SQLite, Git, Github, and Gitlab for various projects
+          - Designed and implemented robust ETL pipelines for datasets of
+            varying scale, increasing data processing efficiency and reliability
+            for downstream analysis.
+          - Applied advanced statistical and machine learning models to complex
+            biomedical data, uncovering key insights into vaccine efficacy and
+            disease comorbidity.
+          - Automated the generation of weekly research reports through a CI/CD
+            pipeline, ensuring stakeholders received timely and accurate updates.
+          - Co-authored four peer-reviewed journal articles, successfully
+            translating complex analytical findings into impactful scientific
+            publications.
       - company: The University of Texas Health Science Center at Houston,
           School of Public Health
         position: Biostatistics and Data Science - Graduate Research Assistant
@@ -115,20 +109,18 @@ cv:
         start_date: 2020-02
         end_date: 2022-08
         highlights:
-          - Performed data cleaning, wrangling and integration on medium-sized
-            datasets containing PII using Microsoft Excel, Python, and R
-          - Maintained Covid-19 dashboards using Python and Tableau for the
-            [Texas Covid-19 Dashboard Project](https://sph.uth.edu/projects/covid19/)
-          - Created, deployed, and maintained accessible and responsive web apps
-            on multiple platforms (Streamlit and Heroku) for academic conference
-            recommender systems
-          - Built and serviced high content ETL pipelines using Python, R, and
-            Cron to feed recommender systems and Covid-19 dashboards
-          - Created recommendation systems models using Python and
-            Scikit-Surprise
-          - Conducted literature reviews on research concerning Recommendation
-            Systems, and Natural Language Processing models such as word2vec and
-            doc2vec
+          - Maintained public-facing COVID-19 dashboards using Python and
+            Tableau, providing critical real-time data to health officials and
+            the public.
+          - Developed and deployed web-based recommender systems on Streamlit and
+            Heroku, enhancing user engagement and content discovery at academic
+            conferences.
+          - Engineered and maintained ETL pipelines to power real-time dashboards
+            and recommender systems, ensuring high data availability and
+            performance.
+          - Conducted in-depth literature reviews on NLP and recommendation
+            systems, informing model selection and development strategy for multiple
+            projects.
       - company: Genentech
         position: Research and Early Development, Development Sciences &
           Informatics - Informatics Intern
@@ -136,38 +128,36 @@ cv:
         start_date: 2021-05
         end_date: 2022-01
         highlights:
-          - Used Deep Transfer Learning via PyTorch and Raytune to create a
-            neural network to predict adverse events for drugs
-          - Created a Knowledge Graph with Neo4j and a Graph Neural Network
-            using NetworkX and PyTorch to generate gene expression
-            signature-likes for drugs
-          - Developed a framework for the tokenization of internal documents for
-            ingestion into text-mining application
-          - Compared work flow management/ETL frameworks (Airflow vs.
-            Prefect vs. Luigi) for use with all NLP pipelines and presented the
-            results
-          - Conducted literature reviews on research concerning Graph Neural
-            Networks, Transfer Learning, and Natural Language Generation
-          - Successfully presented literature review and experimental results to
-            both technical and non-technical stakeholders
+          - Developed a deep transfer learning model to predict adverse
+            drug events, creating a novel framework for assessing product risk and
+            safety.
+          - Engineered a Graph Neural Network to model complex relationships
+            within biomedical data, enabling the generation of predictive
+            signatures to identify high-potential drug candidates.
+          - Conducted a comparative analysis of ETL frameworks (Airflow, Prefect,
+            Luigi), delivering a data-driven recommendation that was adopted to
+            standardize the team's NLP pipelines.
+          - Presented complex research on GNNs and Transfer Learning to technical
+            and business stakeholders, influencing the adoption of new modeling
+            techniques.
       - company: Procter & Gamble
         position: Consumer & Market Knowledge - Advanced Analytics Co-Op
         location: Cincinnati, OH
         start_date: 2021-01
         end_date: 2021-05
         highlights:
-          - Created predictive models, analytics, and visualizations that
-            facilitated a deep understanding of consumer and shopper behaviors
-          - Used parallel computing (Dask and Modin) to develop both predictive
-            and explanatory models enabling insights into market trends and
-            retailer behavior
-          - Created and serviced big data ETL pipelines utilizing the Google
-            Cloud Platform, Python, and Apache Airflow
-          - Upgraded teams nascent DevOps by implementing unit-testing via
-            Pytest and Great Expectations, containerization via Poetry and
-            Docker/Kubernetes, and agile via Jira and Confluence
-          - Successfully presented experimental results and visualizations to
-            both technical and non-technical stakeholders
+          - Built predictive models to forecast consumer behavior, delivering key
+            insights into market dynamics that informed marketing strategy and
+            resource allocation.
+          - Leveraged parallel computing frameworks (Dask, Modin) to analyze
+            massive datasets, identifying key market trends and drivers of
+            retailer performance.
+          - Architected and maintained scalable ETL pipelines on Google Cloud
+            Platform, ensuring a timely and reliable data flow for all downstream
+            analytics and modeling efforts.
+          - Led the adoption of modern DevOps practices, implementing unit
+            testing, containerization (Docker), and agile methodologies (Jira)
+            to improve team velocity and code quality
       - company: The University of Texas Health Science Center at Houston,
           School of Public Health
         position: Biostatistics and Data Science - Teaching Assistant
@@ -175,37 +165,31 @@ cv:
         start_date: 2020-09
         end_date: 2020-12
         highlights:
-          - Teaching assistant for PH 1998 — Introduction to Statistical and
-            Data Science Programming
-          - Assisted in instructing a class of 20 students both
-            individually and in groups
-          - Provided after-class instruction, individually and in groups,
-            including hands-on technical demonstrations for both curricular and
-            extracurricular topics
-          - Topics taught included (but were not limited to) — Data Types and
-            Structures (R & Python), Loops (R & Python), Functional Programming
-            (R & Python), NumPy (Python), Pandas (Python), Matplotlib (Python),
-            Tidyverse (R), GGPlot2 (R)
-          - Created and assessed all assignments and exams
+          - Instructed a class of 20 graduate students on foundational data
+            science programming concepts in R and Python, improving overall class
+            comprehension and skill acquisition.
+          - Developed and delivered curriculum modules on key data science
+            libraries and paradigms, including Tidyverse, Pandas, and functional
+            programming.
+          - Designed and graded all course assignments and exams, providing
+            constructive feedback to foster student development.
       - company: Bristol Myers Squibb
         position: Data Engineering Intern
         location: San Francisco, CA
         start_date: 2020-06
         end_date: 2020-08
         highlights:
-          - Utilized Python, HTML, CSS, and Javascript in creating a
-            multifeatured patent recommendation app to significantly improve
-            scientists' workflow
-          - Developed and serviced ETL pipelines using Python and Apache Airflow
-          - Performed data cleaning and data wrangling with R and Python on
-            multiple datasets of varying sizes (small, medium, and large)
-          - Designed and maintained both relational and graph databases in
-            PostgreSQL and Neo4j
-          - Conducted literature reviews on research concerning Recommendation
-            Systems, Information Retrieval Systems, and BERT and BERT
-            variations (BioBERT, SciBERT, etc.)
-          - Successfully presented literature review and experimental results
-            to both technical and non-technical stakeholders
+          - Developed a full-stack patent recommendation application that
+            significantly improved the research workflow efficiency for research
+            scientists. 
+          - Engineered and maintained automated ETL pipelines using Python and
+            Airflow, ensuring reliable and timely data for the recommendation
+            engine.
+          - Designed and administered PostgreSQL and Neo4j databases to
+            efficiently store and query complex patent and scientific data.
+          - Researched state-of-the-art Information Retrieval and NLP models
+            (e.g., BERT variants), informing the technical direction of the patent
+            recommendation system.
     Honors and Awards:
       - label: Delta Omega Honors Society
         details: Alpha Iota Chapter
@@ -380,10 +364,10 @@ cv:
         details: US Citizenship, Canadian Citizenship
     Technical Skills:
       - label: Machine Learning
-        details: Scikit-learn, TidyModels, Raytune, Optuna, Pytorch, Tensorflow,
+        details: Scikit-learn, TidyModels, Pytorch, Tensorflow, Raytune, Optuna, 
           Huggingface, JAX
       - label: Programming Languages
-        details: Python, R, SAS, MATLAB, Javascript, C, Java, HTML, CSS
+        details: Python, R, Javascript, C, Java, HTML, CSS, SAS, MATLAB, 
       - label: Databases
         details: RDBMS (PostgreSQL, SQLite, MySQL), NoSQL DBMS (MongoDB,
           Elasticsearch, Neo4J), BigQuery
@@ -396,7 +380,7 @@ cv:
       - label: Workflow Orchestration
         details: Airflow, Prefect, Cron, Luigi
       - label: Frameworks and Platforms
-        details: Streamlit, FastAPI, Django, Flask, Heroku, Replit, Great
+        details: Shiny, Streamlit, FastAPI, Django, Flask, Heroku, Replit, Great
           Expectations, PyTest
       - label: Tooling
         details: VSCode, RStudio, Quarto, Jupyter, PyCharm, CLion,
