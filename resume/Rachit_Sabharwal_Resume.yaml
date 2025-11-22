@@ -1,0 +1,374 @@
+cv:
+  name: Rachit Sabharwal
+  location: 22626 Cassius Blue Drive, Cypress, Texas, 77433
+  email: rachit-sabharwal@outlook.com
+  phone: tel:+1 585-281-1928
+  social_networks:
+    - network: GitHub
+      username: rachitest
+  sections:
+    Professional Summary:
+      - Ph.D. Candidate in Biostatistics with dual expertise in Real-World
+        Evidence (RWE) generation and Machine Learning. Experience at Genentech,
+        BMS, and Dow developing graph neural networks, NLP pipelines, and Bayesian
+        uncertainty frameworks. Proven ability to translate complex biomedical
+        data (EHR, claims, omics) into actionable insights for drug discovery and
+        safety signal detection.
+    Education:
+      - institution: The University of Texas Health Science Center at Houston
+        area: Biostatistics
+        degree: Doctor of Philosophy
+        location: Houston, TX
+        start_date: 2022-08
+        highlights:
+          - "Dissertation: Evaluating Human-AI Interaction in Health and 
+            Enhancing LLM Reliability through Electronic Medical Record 
+            Integration" 
+      - institution: The University of California, Berkeley
+        area: Software Development and Programming
+        degree: Certificate
+        location: Berkeley, CA
+        start_date: 2023-06
+        end_date: 2025-04
+      - institution: The University of Texas Health Science Center at Houston
+        area: Biostatistics
+        degree: Master of Science
+        location: Houston, TX
+        start_date: 2020-01
+        end_date: 2022-05
+      - institution: University of Rochester
+        area: Environmental Health
+        degree: Bachelor of Science
+        location: Rochester, NY
+        start_date: 2014-09
+        end_date: 2018-05
+    Experience:
+      - company: The Dow Chemical Company
+        position: Research & Development Intern, MiLOS (Machine Learning,
+          Optimization, & Statistics), Engineering & Process Sciences, Core R&D
+        location: Lake Jackson, TX
+        start_date: 2025-05
+        end_date: 2025-08
+        highlights:
+          - Authored manuscript comparing the difference between frequentist and
+            bayesian approaches in creating trustworthy models for "real-world"
+            simulated data
+          - Created R application allowing users to automate up to 50% of LCA
+            (Life Cycle Assessment) analysis, estimated to be worth ~15MM
+            annually across Dow
+      - company: Genentech
+        position: Research and Early Development, Development Sciences &
+          Informatics - Informatics Intern
+        location: San Francisco, CA
+        start_date: 2021-05
+        end_date: 2022-01
+        highlights:
+          - Used Deep Transfer Learning via PyTorch and Raytune to create a
+            DNN to predict ADEs for DILI (Drug-induced Liver Injury)
+          - Created a Knowledge Graph with Neo4j and a Graph Neural Network
+            using NetworkX and PyTorch to generate gene expression
+            signature-likes for drugs
+          - Developed a framework for the tokenization of internal documents for
+            ingestion into text-mining application
+      - company: Procter & Gamble
+        position: Consumer & Market Knowledge - Advanced Analytics Co-Op
+        location: Cincinnati, OH
+        start_date: 2021-01
+        end_date: 2021-05
+        highlights:
+          - Created predictive models, analytics, and visualizations that
+            facilitated a deep understanding of consumer and shopper behaviors
+          - Used parallel computing (Dask and Modin) to develop both predictive
+            and explanatory models enabling insights into market trends and
+            retailer behavior
+          - Created and serviced big data ETL pipelines utilizing the Google
+            Cloud Platform, Python, and Apache Airflow
+      - company: Bristol Myers Squibb
+        position: Data Engineering Intern
+        location: San Francisco, CA
+        start_date: 2020-06
+        end_date: 2020-08
+        highlights:
+          - Utilized Python, HTML, CSS, and Javascript in creating a
+            multifeatured patent recommendation app to significantly improve
+            scientists' workflow
+          - Developed and serviced ETL pipelines using Python and Apache Airflow
+            for multiple datasets of varying sizes (small, medium, and large)
+          - Designed and maintained both relational and graph databases in
+            PostgreSQL and Neo4j
+    Publications:
+      - title: Trust and Uncertainty Quantification in Machine Learning Models
+          Under Measurement Error
+        authors:
+          - '**Sabharwal R**'
+        date: 2025-08
+        journal: The Dow Chemical Company, Internal White Paper
+      - title: Factors associated with elevated SARS-CoV-2 immune response in
+          children and adolescents
+        authors:
+          - Messiah SE
+          - Abbas R
+          - Bergqvist E
+          - Swartz MD
+          - Talebi Y
+          - '**Sabharwal R**'
+          - Han H
+          - Valerio-Shewmaker MA
+          - DeSantis SM
+          - Yaseen A
+          - Gandhi HA
+          - Amavisca XF
+          - Ross JA
+          - Padilla LN
+          - Gonzalez MO
+          - Wu L
+          - Silberman MA
+          - Lakey D
+          - Shuford JA
+          - Pont SJ
+          - Boerwinkle E
+        date: 2024-08
+        doi: 10.3389/fped.2024.1393321
+        journal: Frontiers in Pediatrics
+      - title: Baseline characteristics of SARS-CoV-2 vaccine non-responders in
+          a large population-based sample
+        authors:
+          - Yaseen A
+          - DeSantis SM
+          - '**Sabharwal R**'
+          - Talebi Y
+          - Swartz MD
+          - Zhang S
+          - Leon Novelo L
+          - Pinzon-Gomez CL
+          - Messiah SE
+          - Valerio-Shewmaker M
+          - Kohl HW 3rd
+          - Ross J
+          - Lakey D
+          - Shuford JA
+          - Pont SJ
+          - Boerwinkle E
+        date: 2024-05
+        doi: 10.1371/journal.pone.0303420
+        journal: PLoS One
+      - title: An Interactive Online Dashboard with COVID-19 Trends and Data
+          Analysis in Northeast and South Texas
+        authors:
+          - Zhang Z
+          - '**Sabharwal R**'
+          - Lee M
+          - Zhang K
+          - McGaha P
+          - Crum M
+          - Bauer C
+          - Fisher-Hoch SP
+          - McCormick JB
+          - Reininger BM
+          - Thomas S
+          - Guajardo E
+          - Pinon D
+          - Yaseen A
+        date: 2024-04
+        url: https://research.ebsco.com/linkprocessor/plink?id=894625e1-7146-30bf-aa2c-9f5637dac41e
+        journal: Texas Public Health Journal
+      - title: Long-term immune response to SARS-CoV-2 infection and
+          vaccination in children and adolescents
+        authors:
+          - Messiah SE
+          - Talebi Y
+          - Swartz MD
+          - '**Sabharwal R**'
+          - Han H
+          - Bergqvist E
+          - Kohl HW 3rd
+          - Valerio-Shewmaker M
+          - DeSantis SM
+          - Yaseen A
+          - Kelder SH
+          - Ross J
+          - Padilla LN
+          - Gonzalez MO
+          - Wu L
+          - Lakey D
+          - Shuford JA
+          - Pont SJ
+          - Boerwinkle E
+        date: 2023-10
+        doi: 10.1038/s41390-023-02857-y
+        journal: Pediatric Research
+      - title: 'Scholarly recommendation systems: a literature survey'
+        authors:
+          - Zhang Z
+          - Patra BG
+          - Yaseen A
+          - Zhu J
+          - '**Sabharwal R**'
+          - Roberts K
+          - Cao T
+          - Wu H
+        date: 2023-06
+        doi: 10.1007/s10115-023-01901-x
+        journal: Knowledge and Information Systems
+      - title: 'Biorec: A Biomedical Recommendation System for Academic 
+          Conferences and Journals'
+        authors:
+          - '**Sabharwal, R**'
+        date: 2022-04
+        journal: UTHealth School of Public Health, MS Thesis
+      - title: 'Data Cleaning for eCommerce: Standardizing Data Handling
+          Practices for eCommerce Datasets'
+        authors:
+          - '**Sabharwal R**'
+        date: 2021-05
+        journal: Procter & Gamble, Internal White Paper
+    Skills:
+      - label: Languages
+        details: English (Native/Bilingual), Hindi (Native/Bilingual),
+          French (Intermediate)
+      - label: Work Authorization
+        details: US Citizenship, Canadian Citizenship
+    Technical Skills:
+      - label: Machine Learning Tooling
+        details: Scikit-learn, TidyModels, Raytune, Optuna, Pytorch, Tensorflow,
+          Huggingface, JAX
+      - label: Programming Languages
+        details: Python, R, SAS, MATLAB, Javascript, C, Java, HTML, CSS
+      - label: Databases
+        details: RDBMS (PostgreSQL, SQLite, MySQL), NoSQL DBMS (MongoDB,
+          Elasticsearch, Neo4J), BigQuery
+      - label: Cloud and Distributed Computing
+        details: AWS (AWS HPC), GCP, Azure, Spark, Hadoop, Slurm,
+          On-Prem HPC
+      - label: DevOps
+        details: Git, GitHub, GitLab, Docker, GitHub/GitLab CI/CD,
+          Jenkins, Kubernetes, Jira, Confluence
+      - label: Workflow Orchestration
+        details: Airflow, Prefect, Cron, Luigi
+      - label: Frameworks and Platforms
+        details: Streamlit, FastAPI, Django, Flask, Heroku, Replit, Great
+          Expectations, PyTest
+
+design:
+  theme: sb2nov
+  page:
+    size: us-letter
+    top_margin: 1cm
+    bottom_margin: 1cm
+    left_margin: 1cm
+    right_margin: 1cm
+    show_page_numbering: true
+    show_last_updated_date: true
+  colors:
+    text: black
+    name: black
+    connections: black
+    section_titles: black
+    links: '#004f90'
+    last_updated_date_and_page_numbering: grey
+  text:
+    font_family: New Computer Modern
+    font_size: 9pt
+    leading: 0.6em
+    alignment: left
+    date_and_location_column_alignment: right
+  links:
+    underline: false
+    use_external_link_icon: false
+  header:
+    name_font_size: 24pt
+    name_bold: true
+    photo_width: 3.5cm
+    vertical_space_between_name_and_connections: 0.7cm
+    vertical_space_between_connections_and_first_section: 0.7cm
+    horizontal_space_between_connections: 0.5cm
+    separator_between_connections: ''
+    use_icons_for_connections: true
+    alignment: center
+  section_titles:
+    type: with-parial-line
+    font_size: 1.4em
+    bold: true
+    small_caps: false
+    line_thickness: 0.5pt
+    vertical_space_above: 0.5cm
+    vertical_space_below: 0.3cm
+    line_type: with-full-line
+  entries:
+    date_and_location_width: 4.15cm
+    left_and_right_margin: 0.2cm
+    horizontal_space_between_columns: 0.1cm
+    vertical_space_between_entries: 1.2em
+    allow_page_break_in_entries: true
+    short_second_row: false
+    show_time_spans_in: []
+  highlights:
+    bullet: ◦
+    top_margin: 0.25cm
+    left_margin: 0.4cm
+    vertical_space_between_highlights: 0.25cm
+    horizontal_space_between_bullet_and_highlight: 0.5em
+    summary_left_margin: 0cm
+  entry_types:
+    one_line_entry:
+      template: '**LABEL:** DETAILS'
+    education_entry:
+      main_column_first_row_template: "**INSTITUTION**\n*DEGREE
+        in AREA*"
+      degree_column_width: 1cm
+      main_column_second_row_template: "SUMMARY\nHIGHLIGHTS"
+      date_and_location_column_template: "*LOCATION*\n*DATE*"
+    normal_entry:
+      main_column_first_row_template: '**NAME**'
+      main_column_second_row_template: "SUMMARY\nHIGHLIGHTS"
+      date_and_location_column_template: "*LOCATION*\n*DATE*"
+    experience_entry:
+      main_column_first_row_template: "**POSITION**\n*COMPANY*"
+      main_column_second_row_template: "SUMMARY\nHIGHLIGHTS"
+      date_and_location_column_template: "*LOCATION*\n*DATE*"
+    publication_entry:
+      main_column_first_row_template: '**TITLE**'
+      main_column_second_row_template: "AUTHORS\nURL (JOURNAL)"
+      main_column_second_row_without_journal_template: "AUTHORS\n\
+        URL"
+      main_column_second_row_without_url_template: "AUTHORS\n\
+        JOURNAL"
+      date_and_location_column_template: DATE
+locale:
+  language: en
+  phone_number_format: national
+  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  last_updated_date_template: Last updated in TODAY
+  date_template: MONTH_ABBREVIATION YEAR
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  to: '-'
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - June
+    - July
+    - Aug
+    - Sept
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
