@@ -16,7 +16,9 @@ Ph.D. Candidate in Epidemiology with dual expertise in Real-World Evidence (RWE)
 
 - Aug 2022 - present
 - Houston, TX
-- Dissertation: Evaluating Human-AI Interaction in Health and Enhancing LLM Reliability through Electronic Medical Record Integration
+- Dissertation: Evaluating Human-AI Interaction in Healthcare and Enhancing LLM Reliability through Electronic Medical Record Integration
+- Minors: Biostatistics, Health Economics
+- Certificates: Advanced Data Science
 
 ## The University of California, Berkeley, Certificate in Software Development and Programming
 
@@ -27,6 +29,7 @@ Ph.D. Candidate in Epidemiology with dual expertise in Real-World Evidence (RWE)
 
 - Jan 2020 - May 2022
 - Houston, TX
+- Certificates: Data Science
 
 ## University of Rochester, Bachelor of Science in Environmental Health
 
@@ -39,7 +42,7 @@ Ph.D. Candidate in Epidemiology with dual expertise in Real-World Evidence (RWE)
 
 - May 2025 - Aug 2025
 - Lake Jackson, TX
-- Authored manuscript comparing the difference between frequentist and bayesian approaches in creating trustworthy models for "real-world" simulated data
+- Authored internal guidance on Uncertainty Quantification (UQ), demonstrating that Bayesian frameworks improved model trustworthiness by ~20-30% compared to frequentist baselines in simulated real-world scenarios.
 - Created R application allowing users to automate up to 50% of LCA (Life Cycle Assessment) analysis, estimated to be worth ~15MM annually across Dow
 
 ## Genentech, Research and Early Development, Development Sciences & Informatics - Informatics Intern

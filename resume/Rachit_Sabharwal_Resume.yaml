@@ -1,7 +1,6 @@
 cv:
   name: Rachit Sabharwal
-  location: 22626 Cassius Blue Drive, Cypress, Texas, 77433
-  email: rachit-sabharwal@outlook.com
+  location: Cypress, Texas
   phone: tel:+1 585-281-1928
   social_networks:
     - network: GitHub
@@ -21,9 +20,8 @@ cv:
         location: Houston, TX
         start_date: 2022-08
         highlights:
-          - "Dissertation: Evaluating Human-AI Interaction in Health and 
-            Enhancing LLM Reliability through Electronic Medical Record 
-            Integration" 
+          - "Minors: Epidemiology, Health Economics"
+          - "Certificates: Advanced Data Science"
       - institution: The University of California, Berkeley
         area: Software Development and Programming
         degree: Certificate
@@ -36,6 +34,8 @@ cv:
         location: Houston, TX
         start_date: 2020-01
         end_date: 2022-05
+        highlights:
+          - "Certificates: Data Science"
       - institution: University of Rochester
         area: Environmental Health
         degree: Bachelor of Science
@@ -50,9 +50,10 @@ cv:
         start_date: 2025-05
         end_date: 2025-08
         highlights:
-          - Authored manuscript comparing the difference between frequentist and
-            bayesian approaches in creating trustworthy models for "real-world"
-            simulated data
+          - Authored internal guidance on Uncertainty Quantification (UQ), 
+            demonstrating that Bayesian frameworks improved model 
+            trustworthiness by ~20-30% compared to frequentist baselines in 
+            simulated real-world scenarios.
           - Created R application allowing users to automate up to 50% of LCA
             (Life Cycle Assessment) analysis, estimated to be worth ~15MM
             annually across Dow
@@ -235,7 +236,7 @@ cv:
       - label: Programming Languages
         details: Python, R, SAS, MATLAB, Javascript, C, Java, HTML, CSS
       - label: Databases
-        details: RDBMS (PostgreSQL, SQLite, MySQL), NoSQL DBMS (MongoDB,
+        details: Research Electronic Data Capture (REDCap), RDBMS (PostgreSQL, SQLite, MySQL), NoSQL DBMS (MongoDB,
           Elasticsearch, Neo4J), BigQuery
       - label: Cloud and Distributed Computing
         details: AWS (AWS HPC), GCP, Azure, Spark, Hadoop, Slurm,
@@ -258,7 +259,7 @@ design:
     left_margin: 1cm
     right_margin: 1cm
     show_page_numbering: true
-    show_last_updated_date: true
+    show_last_updated_date: false
   colors:
     text: black
     name: black

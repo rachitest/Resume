@@ -477,7 +477,7 @@
 #block(
   [
     #set par(spacing: 0pt)
-    #v(design-highlights-top-margin);#highlights([Dissertation: Evaluating Human-AI Interaction in Health and Enhancing LLM Reliability through Electronic Medical Record Integration],)
+    #v(design-highlights-top-margin);#highlights([Dissertation: Evaluating Human-AI Interaction in Healthcare and Enhancing LLM Reliability through Electronic Medical Record Integration],[Minors: Biostatistics, Health Economics],[Certificates: Advanced Data Science],)
   ],
   inset: (
     left: design-entries-left-and-right-margin,
@@ -527,7 +527,7 @@
 #block(
   [
     #set par(spacing: 0pt)
-    
+    #v(design-highlights-top-margin);#highlights([Certificates: Data Science],)
   ],
   inset: (
     left: design-entries-left-and-right-margin,
@@ -578,7 +578,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Authored manuscript comparing the difference between frequentist and bayesian approaches in creating trustworthy models for \"real-world\" simulated data],[Created R application allowing users to automate up to 50\% of LCA \(Life Cycle Assessment\) analysis, estimated to be worth \~15MM annually across Dow],)
+    #v(design-highlights-top-margin);#highlights([Authored internal guidance on Uncertainty Quantification \(UQ\), demonstrating that Bayesian frameworks improved model trustworthiness by \~20-30\% compared to frequentist baselines in simulated real-world scenarios.],[Created R application allowing users to automate up to 50\% of LCA \(Life Cycle Assessment\) analysis, estimated to be worth \~15MM annually across Dow],)
   ],
 )
 
