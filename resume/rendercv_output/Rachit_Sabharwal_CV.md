@@ -1,14 +1,13 @@
 # Rachit Sabharwal's CV
 
 - Phone: +1 585 281 1928
-- Email: [rachit-sabharwal@outlook.com](mailto:rachit-sabharwal@outlook.com)
-- Location: 22626 Cassius Blue Drive, Cypress, Texas, 77433
+- Location: Cypress, Texas
 - GitHub: [rachitest](https://github.com/rachitest)
 
 
 # Professional Summary
 
-Ph.D. Candidate in Epidemiology with dual expertise in Real-World Evidence (RWE) generation and Machine Learning. Experience at Genentech, BMS, and Dow developing graph neural networks, NLP pipelines, and Bayesian uncertainty frameworks. Proven ability to translate complex biomedical data (EHR, claims, omics) into actionable insights for drug discovery and safety signal detection.
+Ph.D. Student in Epidemiology with dual expertise in Real-World Evidence (RWE) generation and Machine Learning. Experience at Genentech, BMS, and Dow developing graph neural networks, NLP pipelines, and Bayesian uncertainty frameworks. Proven ability to translate complex biomedical data (EHR, claims, omics) into actionable insights for drug discovery and safety signal detection.
 
 # Education
 
@@ -16,7 +15,6 @@ Ph.D. Candidate in Epidemiology with dual expertise in Real-World Evidence (RWE)
 
 - Aug 2022 - present
 - Houston, TX
-- Dissertation: Evaluating Human-AI Interaction in Healthcare and Enhancing LLM Reliability through Electronic Medical Record Integration
 - Minors: Biostatistics, Health Economics
 - Certificates: Advanced Data Science
 
@@ -119,7 +117,7 @@ Ph.D. Candidate in Epidemiology with dual expertise in Real-World Evidence (RWE)
 
 - Machine Learning Tooling: Scikit-learn, TidyModels, Raytune, Optuna, Pytorch, Tensorflow, Huggingface, JAX
 - Programming Languages: Python, R, SAS, MATLAB, Javascript, C, Java, HTML, CSS
-- Databases: RDBMS (PostgreSQL, SQLite, MySQL), NoSQL DBMS (MongoDB, Elasticsearch, Neo4J), BigQuery
+- Databases: Research Electronic Data Capture (REDCap), RDBMS (PostgreSQL, SQLite, MySQL), NoSQL DBMS (MongoDB, Elasticsearch, Neo4J), BigQuery
 - Cloud and Distributed Computing: AWS (AWS HPC), GCP, Azure, Spark, Hadoop, Slurm, On-Prem HPC
 - DevOps: Git, GitHub, GitLab, Docker, GitHub/GitLab CI/CD, Jenkins, Kubernetes, Jira, Confluence
 - Workflow Orchestration: Airflow, Prefect, Cron, Luigi

@@ -3,7 +3,7 @@
 
 #let name = "Rachit Sabharwal"
 #let locale-catalog-page-numbering-style = context { "Rachit Sabharwal - Page " + str(here().page()) + " of " + str(counter(page).final().first()) + "" }
-#let locale-catalog-last-updated-date-style = "Last updated in Nov 2025"
+#let locale-catalog-last-updated-date-style = "Last updated in Feb 2026"
 #let locale-catalog-language = "en"
 #let design-page-size = "us-letter"
 #let design-section-titles-font-size = 1.4em
@@ -51,7 +51,7 @@
 #let design-page-bottom-margin = 1cm
 #let design-page-left-margin = 1cm
 #let design-page-right-margin = 1cm
-#let design-page-show-last-updated-date = true
+#let design-page-show-last-updated-date = false
 #let design-page-show-page-numbering = true
 #let design-links-underline = false
 #let design-entry-types-education-entry-degree-column-width = 1cm
@@ -443,8 +443,7 @@
 
 // Print connections:
 #let connections-list = (
-  [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)22626 Cassius Blue Drive, Cypress, Texas, 77433],
-  [#box(original-link("mailto:rachit-sabharwal@outlook.com")[#fa-icon("envelope", size: 0.9em) #h(0.05cm)rachit-sabharwal\@outlook.com])],
+  [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Cypress, Texas],
   [#box(original-link("tel:+1-585-281-1928")[#fa-icon("phone", size: 0.9em) #h(0.05cm)\(585\) 281-1928])],
   [#box(original-link("https://github.com/rachitest")[#fa-icon("github", size: 0.9em) #h(0.05cm)rachitest])],
 )
@@ -455,7 +454,7 @@
 == Professional Summary
 
 #one-col-entry(
-  content: [Ph.D. Candidate in Epidemiology with dual expertise in Real-World Evidence \(RWE\) generation and Machine Learning. Experience at Genentech, BMS, and Dow developing graph neural networks, NLP pipelines, and Bayesian uncertainty frameworks. Proven ability to translate complex biomedical data \(EHR, claims, omics\) into actionable insights for drug discovery and safety signal detection.]
+  content: [Ph.D. Student in Epidemiology with dual expertise in Real-World Evidence \(RWE\) generation and Machine Learning. Experience at Genentech, BMS, and Dow developing graph neural networks, NLP pipelines, and Bayesian uncertainty frameworks. Proven ability to translate complex biomedical data \(EHR, claims, omics\) into actionable insights for drug discovery and safety signal detection.]
 )
 
 
@@ -477,7 +476,7 @@
 #block(
   [
     #set par(spacing: 0pt)
-    #v(design-highlights-top-margin);#highlights([Dissertation: Evaluating Human-AI Interaction in Healthcare and Enhancing LLM Reliability through Electronic Medical Record Integration],[Minors: Biostatistics, Health Economics],[Certificates: Advanced Data Science],)
+    #v(design-highlights-top-margin);#highlights([Minors: Biostatistics, Health Economics],[Certificates: Advanced Data Science],)
   ],
   inset: (
     left: design-entries-left-and-right-margin,
@@ -786,7 +785,7 @@
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Databases:] RDBMS \(PostgreSQL, SQLite, MySQL\), NoSQL DBMS \(MongoDB, Elasticsearch, Neo4J\), BigQuery]
+  content: [#strong[Databases:] Research Electronic Data Capture \(REDCap\), RDBMS \(PostgreSQL, SQLite, MySQL\), NoSQL DBMS \(MongoDB, Elasticsearch, Neo4J\), BigQuery]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
