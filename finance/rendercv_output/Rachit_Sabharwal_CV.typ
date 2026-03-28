@@ -3,7 +3,7 @@
 
 #let name = "Rachit Sabharwal"
 #let locale-catalog-page-numbering-style = context { "Rachit Sabharwal - Page " + str(here().page()) + " of " + str(counter(page).final().first()) + "" }
-#let locale-catalog-last-updated-date-style = "Last updated in Sept 2025"
+#let locale-catalog-last-updated-date-style = "Last updated in Mar 2026"
 #let locale-catalog-language = "en"
 #let design-page-size = "us-letter"
 #let design-section-titles-font-size = 1.4em
@@ -21,14 +21,14 @@
 #let design-section-titles-vertical-space-below = 0.3cm
 #let design-section-titles-small-caps = false
 #let design-links-use-external-link-icon = false
-#let design-text-font-size = 10pt
+#let design-text-font-size = 9pt
 #let design-text-leading = 0.6em
 #let design-text-font-family = "New Computer Modern"
 #let design-text-alignment = "left"
 #let design-text-date-and-location-column-alignment = right
 #let design-header-photo-width = 3.5cm
 #let design-header-use-icons-for-connections = true
-#let design-header-name-font-size = 30pt
+#let design-header-name-font-size = 24pt
 #let design-header-name-bold = true
 #let design-header-vertical-space-between-name-and-connections = 0.7cm
 #let design-header-vertical-space-between-connections-and-first-section = 0.7cm
@@ -47,11 +47,11 @@
 #let design-entries-allow-page-break-in-entries = true
 #let design-entries-horizontal-space-between-columns = 0.1cm
 #let design-entries-left-and-right-margin = 0.2cm
-#let design-page-top-margin = 2cm
-#let design-page-bottom-margin = 2cm
-#let design-page-left-margin = 2cm
-#let design-page-right-margin = 2cm
-#let design-page-show-last-updated-date = true
+#let design-page-top-margin = 1cm
+#let design-page-bottom-margin = 1cm
+#let design-page-left-margin = 1cm
+#let design-page-right-margin = 1cm
+#let design-page-show-last-updated-date = false
 #let design-page-show-page-numbering = true
 #let design-links-underline = false
 #let design-entry-types-education-entry-degree-column-width = 1cm
@@ -443,8 +443,7 @@
 
 // Print connections:
 #let connections-list = (
-  [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)10211 Camden Garden Lane, Katy, Texas, 77494],
-  [#box(original-link("mailto:rachit-sabharwal@outlook.com")[#fa-icon("envelope", size: 0.9em) #h(0.05cm)rachit-sabharwal\@outlook.com])],
+  [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Cypress, Texas],
   [#box(original-link("tel:+1-585-281-1928")[#fa-icon("phone", size: 0.9em) #h(0.05cm)\(585\) 281-1928])],
   [#box(original-link("https://github.com/rachitest")[#fa-icon("github", size: 0.9em) #h(0.05cm)rachitest])],
 )
@@ -455,7 +454,7 @@
 == Professional Summary
 
 #one-col-entry(
-  content: [Quantitative researcher and data scientist with a PhD background in statistics and machine learning. Specializes in developing predictive models, automating complex workflows, and quantifying model uncertainty and risk. Seeking to apply advanced analytical skills to drive data-informed strategies and generate value in the financial sector.]
+  content: [Data Scientist and Ph.D. Candidate with a proven track record of translating complex data into actionable business solutions. Seeking to leverage expertise in predictive modeling, advanced analytics, and cross-functional leadership to drive strategic decision-making and operational efficiency.]
 )
 
 
@@ -477,12 +476,28 @@
 #block(
   [
     #set par(spacing: 0pt)
-    #v(design-highlights-top-margin);#highlights([Advanced Certificate in Data Science],)
+    #v(design-highlights-top-margin);#highlights([Minors: Epidemiology, Health Economics],[Certificates: Advanced Data Science],)
   ],
   inset: (
     left: design-entries-left-and-right-margin,
     right: design-entries-left-and-right-margin,
   ),
+)
+
+#v(design-entries-vertical-space-between-entries)
+// YES DATE, NO DEGREE
+#two-col-entry(
+  left-content: [
+    #emph[Master of Science in Biostatistics]
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Certificates: Data Science],)
+  ],
+  right-content: [
+    #emph[Houston, TX]
+
+#emph[Jan 2020 - May 2022]
+  ],
 )
 
 #v(design-entries-vertical-space-between-entries)
@@ -514,31 +529,6 @@
 // YES DATE, NO DEGREE
 #two-col-entry(
   left-content: [
-    #strong[The University of Texas Health Science Center at Houston]
-
-#emph[Master of Science in Biostatistics]
-  ],
-  right-content: [
-    #emph[Houston, TX]
-
-#emph[Jan 2020 - May 2022]
-  ],
-)
-#block(
-  [
-    #set par(spacing: 0pt)
-    #v(design-highlights-top-margin);#highlights([Thesis — BioRec: A Biomedical Recommendation System for Academic Conferences and Journals],[Certificate in Data Science],)
-  ],
-  inset: (
-    left: design-entries-left-and-right-margin,
-    right: design-entries-left-and-right-margin,
-  ),
-)
-
-#v(design-entries-vertical-space-between-entries)
-// YES DATE, NO DEGREE
-#two-col-entry(
-  left-content: [
     #strong[University of Rochester]
 
 #emph[Bachelor of Science in Environmental Health]
@@ -552,7 +542,7 @@
 #block(
   [
     #set par(spacing: 0pt)
-    #v(design-highlights-top-margin);#highlights([Minor in Psychology],)
+    
   ],
   inset: (
     left: design-entries-left-and-right-margin,
@@ -566,7 +556,7 @@
 
 #two-col-entry(
   left-content: [
-    #strong[Research & Development Intern, MiLOS \(Machine Learning, Optimization, & Statistics\), Engineering & Process Sciences, Core R&D]
+    #strong[Machine Learning R&D Intern]
 
 #emph[The Dow Chemical Company]
   ],
@@ -578,64 +568,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Developed and deployed an R application to automate 50\% of the Life Cycle Assessment workflow, creating a projected \$15M in annual operational savings and freeing up significant analyst time.],[Researched and compared frequentist and Bayesian uncertainty quantification methods for machine learning models, delivering a framework to assess model reliability and risk under noisy, real-world data conditions.],[Communicated complex quantitative findings on model performance and business impact to diverse audiences, including senior leadership, securing buy-in for project continuation.],)
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Graduate Research Assistant \(Doctoral\)]
-
-#emph[The University of Texas Health Science Center at Houston, School of Public Health - Dallas Campus]
-  ],
-  right-content: [
-    #emph[Dallas, TX]
-
-#emph[Feb 2025 - present]
-  ],
-)
-#one-col-entry(
-  content: [
-    #v(design-highlights-top-margin);#highlights([Engineered and implemented a full CI/CD and DevOps framework, which reduced testing time and streamlined development, increasing team productivity and code reliability.],[Processed and integrated complex, sensitive datasets using Python and R, establishing a clean data foundation for subsequent predictive modeling and analysis.],[Designed and executed a comprehensive testing suite for the entire data pipeline, ensuring data integrity and model accuracy from ingestion to final reporting.],[Developed and maintained dynamic dashboards to monitor key performance indicators for a large-scale clinical trial, providing stakeholders with real-time insights for decision-making.],)
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Biostatistics and Data Science - Graduate Research Assistant \(Doctoral\)]
-
-#emph[The University of Texas Health Science Center at Houston, School of Public Health]
-  ],
-  right-content: [
-    #emph[Houston, TX]
-
-#emph[Sept 2022 - Jan 2025]
-  ],
-)
-#one-col-entry(
-  content: [
-    #v(design-highlights-top-margin);#highlights([Designed and implemented robust ETL pipelines for datasets of varying scale, increasing data processing efficiency and reliability for downstream analysis.],[Applied advanced statistical and machine learning models to complex biomedical data, uncovering key insights into vaccine efficacy and disease comorbidity.],[Automated the generation of weekly research reports through a CI/CD pipeline, ensuring stakeholders received timely and accurate updates.],[Co-authored four peer-reviewed journal articles, successfully translating complex analytical findings into impactful scientific publications.],)
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Biostatistics and Data Science - Graduate Research Assistant \(Master's\)]
-
-#emph[The University of Texas Health Science Center at Houston, School of Public Health]
-  ],
-  right-content: [
-    #emph[Houston, TX]
-
-#emph[Feb 2020 - Aug 2022]
-  ],
-)
-#one-col-entry(
-  content: [
-    #v(design-highlights-top-margin);#highlights([Maintained public-facing COVID-19 dashboards using Python and Tableau, providing critical real-time data to health officials and the public.],[Developed and deployed web-based recommender systems on Streamlit and Heroku, enhancing user engagement and content discovery at academic conferences.],[Engineered and maintained ETL pipelines to power real-time dashboards and recommender systems, ensuring high data availability and performance.],[Conducted in-depth literature reviews on NLP and recommendation systems, informing model selection and development strategy for multiple projects.],)
+    #v(design-highlights-top-margin);#highlights([Generated \$15M in annual cost savings by developing an R application that automated 50\% of enterprise-wide Life Cycle Assessment \(LCA\) workflows.],[Improved predictive model reliability by 20-30\% through the development and implementation of a novel Bayesian Uncertainty Quantification \(UQ\) framework for real-world simulation data.],)
   ],
 )
 
@@ -654,7 +587,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Developed a deep transfer learning model to predict adverse drug events, creating a novel framework for assessing product risk and safety.],[Engineered a Graph Neural Network to model complex relationships within biomedical data, enabling the generation of predictive signatures to identify high-potential drug candidates.],[Conducted a comparative analysis of ETL frameworks \(Airflow, Prefect, Luigi\), delivering a data-driven recommendation that was adopted to standardize the team's NLP pipelines.],[Presented complex research on GNNs and Transfer Learning to technical and business stakeholders, influencing the adoption of new modeling techniques.],)
+    #v(design-highlights-top-margin);#highlights([Accelerated drug safety screening by building a deep neural network to predict adverse drug events, improving early-stage toxicity detection capabilities.],[Mapped complex drug-gene interactions by engineering a scalable Knowledge Graph and Graph Neural Network, enabling faster identification of novel therapeutic signatures.],[Streamlined internal data discovery by developing a document tokenization framework for a scalable text-mining application.],)
   ],
 )
 
@@ -673,26 +606,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Built predictive models to forecast consumer behavior, delivering key insights into market dynamics that informed marketing strategy and resource allocation.],[Leveraged parallel computing frameworks \(Dask, Modin\) to analyze massive datasets, identifying key market trends and drivers of retailer performance.],[Architected and maintained scalable ETL pipelines on Google Cloud Platform, ensuring a timely and reliable data flow for all downstream analytics and modeling efforts.],[Led the adoption of modern DevOps practices, implementing unit testing, containerization \(Docker\), and agile methodologies \(Jira\) to improve team velocity and code quality],)
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Biostatistics and Data Science - Teaching Assistant]
-
-#emph[The University of Texas Health Science Center at Houston, School of Public Health]
-  ],
-  right-content: [
-    #emph[Houston, TX]
-
-#emph[Sept 2020 - Dec 2020]
-  ],
-)
-#one-col-entry(
-  content: [
-    #v(design-highlights-top-margin);#highlights([Instructed a class of 20 graduate students on foundational data science programming concepts in R and Python, improving overall class comprehension and skill acquisition.],[Developed and delivered curriculum modules on key data science libraries and paradigms, including Tidyverse, Pandas, and functional programming.],[Designed and graded all course assignments and exams, providing constructive feedback to foster student development.],)
+    #v(design-highlights-top-margin);#highlights([Drove strategic marketing decisions by developing predictive models and interactive visualizations to map consumer and shopper behavioral trends.],[Unlocked new insights into market dynamics and retailer behavior by engineering high-performance predictive models using parallel computing frameworks.],[Ensured high-availability data access for analytics teams by architecting and maintaining big data ETL pipelines on Google Cloud Platform.],)
   ],
 )
 
@@ -711,203 +625,13 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Developed a full-stack patent recommendation application that significantly improved the research workflow efficiency for research scientists.],[Engineered and maintained automated ETL pipelines using Python and Airflow, ensuring reliable and timely data for the recommendation engine.],[Designed and administered PostgreSQL and Neo4j databases to efficiently store and query complex patent and scientific data.],[Researched state-of-the-art Information Retrieval and NLP models \(e.g., BERT variants\), informing the technical direction of the patent recommendation system.],)
+    #v(design-highlights-top-margin);#highlights([Significantly improved R&D workflow efficiency by full-stack developing a multi-featured patent recommendation application.],[Optimized data infrastructure by developing and maintaining automated ETL pipelines for diverse, multi-scale datasets.],[Enhanced data querying performance and relationship mapping by designing robust relational \(PostgreSQL\) and graph \(Neo4j\) database architectures.],)
   ],
 )
 
 
 
-== Honors and Awards
-
-#one-col-entry(
-  content: [#strong[Delta Omega Honors Society:] Alpha Iota Chapter]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [#strong[Tau Sigma Honors Society:] Beta Rho Chapter]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [#strong[Rochester Innovation Grant:] University of Rochester]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [#strong[Innovation and Creativity Award:] Rochester Institute of Technology]
-)
-
-
-== Certifications
-
-#two-col-entry(
-  left-content: [
-    #link("https://www.citiprogram.org/verify/?w7ac3ddd5-04e8-4d45-baa3-5e3b0a8a9cd2-67307097")[#strong[Good Clinical Practice \(GCP\)]]
-
-    
-  ],
-  right-content: [
-    #emph[CITI Program]
-
-#emph[Jan 2025]
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #link("https://www.citiprogram.org/verify/?wf64927b0-9408-4c4f-8421-642b22d809f9-54965007")[#strong[Group 1 Biomedical Researcher and Key Personnel]]
-
-    
-  ],
-  right-content: [
-    #emph[CITI Program]
-
-#emph[Mar 2023]
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #link("https://www.citiprogram.org/verify/?wfb60d2d6-b559-499a-b7f9-c654c0bc3890-50620082")[#strong[Group 2 Social and Behavioral Researchers and Key Personnel]]
-
-    
-  ],
-  right-content: [
-    #emph[CITI Program]
-
-#emph[Mar 2023]
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #link("https://www.citiprogram.org/verify/?wfb60d2d6-b559-499a-b7f9-c654c0bc3890-50620082")[#strong[Data Acquisition and Management]]
-
-    
-  ],
-  right-content: [
-    #emph[CITI Program]
-
-#emph[Oct 2020]
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #link("https://www.youracclaim.com/badges/57b7fb2b-6557-40a9-b890-e48bd0bc39f3/linked_in_profile")[#strong[Big Data Foundations - Level 1]]
-
-    
-  ],
-  right-content: [
-    #emph[IBM]
-
-#emph[May 2020]
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #link("https://www.youracclaim.com/badges/a050dad8-e403-4649-9f5c-c37b47adc4ed/linked_in_profile")[#strong[Big Data Foundations - Level 2]]
-
-    
-  ],
-  right-content: [
-    #emph[IBM]
-
-#emph[May 2020]
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #link("https://www.coursera.org/account/accomplishments/certificate/S9NZUETKR2V8")[#strong[Data Science Math Skills]]
-
-    
-  ],
-  right-content: [
-    #emph[Duke University \(Coursera\)]
-
-#emph[May 2020]
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #link("https://www.coursera.org/account/accomplishments/certificate/P26CB65MF373")[#strong[AWS Machine Learning]]
-
-    
-  ],
-  right-content: [
-    #emph[AWS \(Coursera\)]
-
-#emph[May 2020]
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #link("https://www.coursera.org/account/accomplishments/certificate/BX7475NG429B")[#strong[Google Cloud IAM and Networking]]
-
-    
-  ],
-  right-content: [
-    #emph[Google Cloud \(Coursera\)]
-
-#emph[May 2020]
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #link("https://www.coursera.org/account/accomplishments/certificate/2RXJGRQ7GTQS")[#strong[Machine Learning]]
-
-    
-  ],
-  right-content: [
-    #emph[Stanford University \(Coursera\)]
-
-#emph[May 2020]
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #link("https://www.credly.com/badges/d4256ba1-2517-42ee-ac4f-4abd3efbf43b/linked_in_profile")[#strong[Hadoop Foundations - Level 1]]
-
-    
-  ],
-  right-content: [
-    #emph[IBM]
-
-#emph[May 2020]
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #link("https://www.credly.com/badges/adcdee7c-1e56-4e41-a4fe-1cc21059d638/linked_in_profile")[#strong[Spark - Level 1]]
-
-    
-  ],
-  right-content: [
-    #emph[IBM]
-
-#emph[May 2020]
-  ],
-)
-
-
-
-== Publications
+== Selected Publications
 
 #two-col-entry(
   left-content: [
@@ -922,36 +646,6 @@
   #v(design-highlights-top-margin);#strong[Sabharwal R]
 
 #v(design-highlights-top-margin - design-text-leading)The Dow Chemical Company, Internal White Paper])
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Factors associated with elevated SARS-CoV-2 immune response in children and adolescents]
-
-  ],
-  right-content: [
-    Aug 2024
-  ],
-)
-#one-col-entry(content:[
-#v(design-highlights-top-margin);Messiah SE, Abbas R, Bergqvist E, Swartz MD, Talebi Y, #strong[Sabharwal R], Han H, Valerio-Shewmaker MA, DeSantis SM, Yaseen A, Gandhi HA, Amavisca XF, Ross JA, Padilla LN, Gonzalez MO, Wu L, Silberman MA, Lakey D, Shuford JA, Pont SJ, Boerwinkle E
-
-#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.3389/fped.2024.1393321")[10.3389/fped.2024.1393321] (Frontiers in Pediatrics)])
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Baseline characteristics of SARS-CoV-2 vaccine non-responders in a large population-based sample]
-
-  ],
-  right-content: [
-    May 2024
-  ],
-)
-#one-col-entry(content:[
-#v(design-highlights-top-margin);Yaseen A, DeSantis SM, #strong[Sabharwal R], Talebi Y, Swartz MD, Zhang S, Leon Novelo L, Pinzon-Gomez CL, Messiah SE, Valerio-Shewmaker M, Kohl HW 3rd, Ross J, Lakey D, Shuford JA, Pont SJ, Boerwinkle E
-
-#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1371/journal.pone.0303420")[10.1371/journal.pone.0303420] (PLoS One)])
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
@@ -971,32 +665,17 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[Long-term immune response to SARS-CoV-2 infection and vaccination in children and adolescents]
+    #strong[Biorec: A Biomedical Recommendation System for Academic Conferences and Journals]
 
   ],
   right-content: [
-    Oct 2023
+    Apr 2022
   ],
 )
 #one-col-entry(content:[
-#v(design-highlights-top-margin);Messiah SE, Talebi Y, Swartz MD, #strong[Sabharwal R], Han H, Bergqvist E, Kohl HW 3rd, Valerio-Shewmaker M, DeSantis SM, Yaseen A, Kelder SH, Ross J, Padilla LN, Gonzalez MO, Wu L, Lakey D, Shuford JA, Pont SJ, Boerwinkle E
+  #v(design-highlights-top-margin);#strong[Sabharwal, R]
 
-#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1038/s41390-023-02857-y")[10.1038/s41390-023-02857-y] (Pediatric Research)])
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Scholarly recommendation systems: a literature survey]
-
-  ],
-  right-content: [
-    June 2023
-  ],
-)
-#one-col-entry(content:[
-#v(design-highlights-top-margin);Zhang Z, Patra BG, Yaseen A, Zhu J, #strong[Sabharwal R], Roberts K, Cao T, Wu H
-
-#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1007/s10115-023-01901-x")[10.1007/s10115-023-01901-x] (Knowledge and Information Systems)])
+#v(design-highlights-top-margin - design-text-leading)UTHealth, Technical Project])
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
@@ -1018,54 +697,19 @@
 == Skills
 
 #one-col-entry(
-  content: [#strong[Languages:] English \(Native/Bilingual\), Hindi \(Native/Bilingual\), French \(Intermediate\)]
+  content: [#strong[Core Competencies:] Predictive Analytics, Machine Learning, Real-World Evidence \(RWE\), Data Strategy, Cross-Functional Leadership, Rapid Prototyping]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Work Authorization:] US Citizenship, Canadian Citizenship]
-)
-
-
-== Technical Skills
-
-#one-col-entry(
-  content: [#strong[Machine Learning:] Scikit-learn, TidyModels, Pytorch, Tensorflow, Raytune, Optuna, Huggingface, JAX]
+  content: [#strong[Programming & Cloud:] Python, R, SQL, SAS, MATLAB, Google Cloud Platform \(GCP\), AWS, Azure, Apache Spark]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Programming Languages:] Python, R, Javascript, C, Java, HTML, CSS, SAS, MATLAB]
+  content: [#strong[Machine Learning & AI:] Scikit-learn, PyTorch, TensorFlow, Huggingface, Raytune, NLP, Graph Neural Networks]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Databases:] RDBMS \(PostgreSQL, SQLite, MySQL\), NoSQL DBMS \(MongoDB, Elasticsearch, Neo4J\), BigQuery]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [#strong[Cloud and Distributed Computing:] AWS \(AWS HPC\), GCP, Azure, Spark, Hadoop, Slurm, On-Prem HPC]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [#strong[DevOps:] Git, GitHub, GitLab, Docker, GitHub/GitLab CI/CD, Jenkins, Kubernetes, Jira, Confluence]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [#strong[Workflow Orchestration:] Airflow, Prefect, Cron, Luigi]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [#strong[Frameworks and Platforms:] Shiny, Streamlit, FastAPI, Django, Flask, Heroku, Replit, Great Expectations, PyTest]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [#strong[Tooling:] VSCode, RStudio, Quarto, Jupyter, PyCharm, CLion, IntelliJ IDEA, Confluence, Slack, Tableau, Power BI, Stata, DBeaver]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [#strong[Operating Systems:] Windows, Linux \(Ubuntu, and Mint\), MacOS]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [#strong[General Computing:] Microsoft Office, Google Workspace]
+  content: [#strong[Data Engineering & DevOps:] Apache Airflow, Docker, Git/GitHub CI/CD, PostgreSQL, Neo4J, BigQuery, Kubernetes]
 )
 
 

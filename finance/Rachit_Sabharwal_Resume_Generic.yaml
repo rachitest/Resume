@@ -1,0 +1,271 @@
+cv:
+  name: Rachit Sabharwal
+  location: Cypress, Texas
+  phone: tel:+1 585-281-1928
+  social_networks:
+    - network: GitHub
+      username: rachitest
+  sections:
+    Professional Summary:
+      - Data Scientist and Ph.D. Candidate with a proven track record of translating complex data into actionable business solutions. Seeking to leverage expertise in predictive modeling, advanced analytics, and cross-functional leadership to drive strategic decision-making and operational efficiency.
+    Education:
+      - institution: The University of Texas Health Science Center at Houston
+        area: Biostatistics
+        degree: Doctor of Philosophy
+        location: Houston, TX
+        start_date: 2022-08
+        highlights:
+          - "Minors: Epidemiology, Health Economics"
+          - "Certificates: Advanced Data Science"
+      - institution: ""
+        area: Biostatistics
+        degree: Master of Science
+        location: Houston, TX
+        start_date: 2020-01
+        end_date: 2022-05
+        highlights:
+          - "Certificates: Data Science"
+      - institution: The University of California, Berkeley
+        area: Software Development and Programming
+        degree: Certificate
+        location: Berkeley, CA
+        start_date: 2023-06
+        end_date: 2025-04
+      
+      - institution: University of Rochester
+        area: Environmental Health
+        degree: Bachelor of Science
+        location: Rochester, NY
+        start_date: 2014-09
+        end_date: 2018-05
+    Experience:
+      - company: The Dow Chemical Company
+        position: Machine Learning R&D Intern
+        location: Lake Jackson, TX
+        start_date: 2025-05
+        end_date: 2025-08
+        highlights:
+          - Generated $15M in annual cost savings by developing an R application
+            that automated 50% of enterprise-wide Life Cycle Assessment (LCA) 
+            workflows.
+          - Improved predictive model reliability by 20-30% through the 
+            development and implementation of a novel Bayesian Uncertainty 
+            Quantification (UQ) framework for real-world simulation data.
+      - company: Genentech
+        position: Research and Early Development, Development Sciences &
+          Informatics - Informatics Intern
+        location: San Francisco, CA
+        start_date: 2021-05
+        end_date: 2022-01
+        highlights:
+          - Accelerated drug safety screening by building a deep neural network 
+            to predict adverse drug events, improving early-stage toxicity 
+            detection capabilities.
+          - Mapped complex drug-gene interactions by engineering a scalable 
+            Knowledge Graph and Graph Neural Network, enabling faster 
+            identification of novel therapeutic signatures.
+          - Streamlined internal data discovery by developing a document 
+            tokenization framework for a scalable text-mining application.
+      - company: Procter & Gamble
+        position: Consumer & Market Knowledge - Advanced Analytics Co-Op
+        location: Cincinnati, OH
+        start_date: 2021-01
+        end_date: 2021-05
+        highlights:
+          - Drove strategic marketing decisions by developing predictive models 
+            and interactive visualizations to map consumer and shopper 
+            behavioral trends.
+          - Unlocked new insights into market dynamics and retailer behavior by 
+            engineering high-performance predictive models using parallel 
+            computing frameworks.
+          - Ensured high-availability data access for analytics teams by 
+            architecting and maintaining big data ETL pipelines on Google Cloud 
+            Platform.
+      - company: Bristol Myers Squibb
+        position: Data Engineering Intern
+        location: San Francisco, CA
+        start_date: 2020-06
+        end_date: 2020-08
+        highlights:
+          - Significantly improved R&D workflow efficiency by full-stack 
+            developing a multi-featured patent recommendation application.
+          - Optimized data infrastructure by developing and maintaining 
+            automated ETL pipelines for diverse, multi-scale datasets.
+          - Enhanced data querying performance and relationship mapping by 
+            designing robust relational (PostgreSQL) and graph (Neo4j) database 
+            architectures.
+    Selected Publications:
+      - title: Trust and Uncertainty Quantification in Machine Learning Models
+          Under Measurement Error
+        authors:
+          - '**Sabharwal R**'
+        date: 2025-08
+        journal: The Dow Chemical Company, Internal White Paper
+      - title: An Interactive Online Dashboard with COVID-19 Trends and Data
+          Analysis in Northeast and South Texas
+        authors:
+          - Zhang Z
+          - '**Sabharwal R**'
+          - Lee M
+          - Zhang K
+          - McGaha P
+          - Crum M
+          - Bauer C
+          - Fisher-Hoch SP
+          - McCormick JB
+          - Reininger BM
+          - Thomas S
+          - Guajardo E
+          - Pinon D
+          - Yaseen A
+        date: 2024-04
+        url: https://research.ebsco.com/linkprocessor/plink?id=894625e1-7146-30bf-aa2c-9f5637dac41e
+        journal: Texas Public Health Journal
+      - title: 'Biorec: A Biomedical Recommendation System for Academic 
+          Conferences and Journals'
+        authors:
+          - '**Sabharwal, R**'
+        date: 2022-04
+        journal: UTHealth, Technical Project
+      - title: 'Data Cleaning for eCommerce: Standardizing Data Handling
+          Practices for eCommerce Datasets'
+        authors:
+          - '**Sabharwal R**'
+        date: 2021-05
+        journal: Procter & Gamble, Internal White Paper
+    Skills:
+      - label: "Core Competencies"
+        details: "Predictive Analytics, Machine Learning, Real-World Evidence 
+          (RWE), Data Strategy, Cross-Functional Leadership, Rapid Prototyping"
+      - label: "Programming & Cloud"
+        details: "Python, R, SQL, SAS, MATLAB, Google Cloud Platform (GCP), AWS,
+          Azure, Apache Spark"
+      - label: "Machine Learning & AI"
+        details: "Scikit-learn, PyTorch, TensorFlow, Huggingface, Raytune, NLP, 
+          Graph Neural Networks"
+      - label: "Data Engineering & DevOps"
+        details: "Apache Airflow, Docker, Git/GitHub CI/CD, PostgreSQL, Neo4J, 
+          BigQuery, Kubernetes"
+design:
+  theme: sb2nov
+  page:
+    size: us-letter
+    top_margin: 1cm
+    bottom_margin: 1cm
+    left_margin: 1cm
+    right_margin: 1cm
+    show_page_numbering: true
+    show_last_updated_date: false
+  colors:
+    text: black
+    name: black
+    connections: black
+    section_titles: black
+    links: '#004f90'
+    last_updated_date_and_page_numbering: grey
+  text:
+    font_family: New Computer Modern
+    font_size: 9pt
+    leading: 0.6em
+    alignment: left
+    date_and_location_column_alignment: right
+  links:
+    underline: false
+    use_external_link_icon: false
+  header:
+    name_font_size: 24pt
+    name_bold: true
+    photo_width: 3.5cm
+    vertical_space_between_name_and_connections: 0.7cm
+    vertical_space_between_connections_and_first_section: 0.7cm
+    horizontal_space_between_connections: 0.5cm
+    separator_between_connections: ''
+    use_icons_for_connections: true
+    alignment: center
+  section_titles:
+    type: with-parial-line
+    font_size: 1.4em
+    bold: true
+    small_caps: false
+    line_thickness: 0.5pt
+    vertical_space_above: 0.5cm
+    vertical_space_below: 0.3cm
+    line_type: with-full-line
+  entries:
+    date_and_location_width: 4.15cm
+    left_and_right_margin: 0.2cm
+    horizontal_space_between_columns: 0.1cm
+    vertical_space_between_entries: 1.2em
+    allow_page_break_in_entries: true
+    short_second_row: false
+    show_time_spans_in: []
+  highlights:
+    bullet: ◦
+    top_margin: 0.25cm
+    left_margin: 0.4cm
+    vertical_space_between_highlights: 0.25cm
+    horizontal_space_between_bullet_and_highlight: 0.5em
+    summary_left_margin: 0cm
+  entry_types:
+    one_line_entry:
+      template: '**LABEL:** DETAILS'
+    education_entry:
+      main_column_first_row_template: "**INSTITUTION**\n*DEGREE
+        in AREA*"
+      degree_column_width: 1cm
+      main_column_second_row_template: "SUMMARY\nHIGHLIGHTS"
+      date_and_location_column_template: "*LOCATION*\n*DATE*"
+    normal_entry:
+      main_column_first_row_template: '**NAME**'
+      main_column_second_row_template: "SUMMARY\nHIGHLIGHTS"
+      date_and_location_column_template: "*LOCATION*\n*DATE*"
+    experience_entry:
+      main_column_first_row_template: "**POSITION**\n*COMPANY*"
+      main_column_second_row_template: "SUMMARY\nHIGHLIGHTS"
+      date_and_location_column_template: "*LOCATION*\n*DATE*"
+    publication_entry:
+      main_column_first_row_template: '**TITLE**'
+      main_column_second_row_template: "AUTHORS\nURL (JOURNAL)"
+      main_column_second_row_without_journal_template: "AUTHORS\n\
+        URL"
+      main_column_second_row_without_url_template: "AUTHORS\n\
+        JOURNAL"
+      date_and_location_column_template: DATE
+locale:
+  language: en
+  phone_number_format: national
+  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  last_updated_date_template: Last updated in TODAY
+  date_template: MONTH_ABBREVIATION YEAR
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  to: '-'
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - June
+    - July
+    - Aug
+    - Sept
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
