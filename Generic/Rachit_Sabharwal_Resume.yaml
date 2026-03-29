@@ -7,19 +7,20 @@ cv:
       username: rachitest
   sections:
     Professional Summary:
-      - Ph.D. Candidate with dual expertise in Real-World Evidence (RWE) and 
-        Machine Learning. Experience developing graph neural networks, NLP 
-        pipelines, and Bayesian Uncertainty Quantification (UQ) frameworks. 
-        Proven ability to translate complex biomedical data (EHR, claims, omics)
-        into actionable insights for drug discovery and safety signal detection.
+      - Ph.D. Candidate in Biostatistics with dual expertise in Real-World
+        Evidence (RWE) generation and Machine Learning. Experience at Genentech,
+        BMS, and Dow developing graph neural networks, NLP pipelines, and Bayesian
+        uncertainty frameworks. Proven ability to translate complex biomedical
+        data (EHR, claims, omics) into actionable insights for drug discovery and
+        safety signal detection.
     Education:
       - institution: The University of Texas Health Science Center at Houston
-        area: Epidemiology
+        area: Biostatistics
         degree: Ph.D.
         location: Houston, TX
         start_date: 2022-08
         highlights:
-          - "Minors: Biostatistics, Health Economics"
+          - "Minors: Epidemiology, Health Economics"
           - "Certificates: Advanced Data Science"
       - institution: ""
         area: Biostatistics

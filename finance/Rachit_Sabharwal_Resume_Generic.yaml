@@ -11,7 +11,7 @@ cv:
     Education:
       - institution: The University of Texas Health Science Center at Houston
         area: Biostatistics
-        degree: Doctor of Philosophy
+        degree: Ph.D.
         location: Houston, TX
         start_date: 2022-08
         highlights:
@@ -19,7 +19,7 @@ cv:
           - "Certificates: Advanced Data Science"
       - institution: ""
         area: Biostatistics
-        degree: Master of Science
+        degree: M.S.
         location: Houston, TX
         start_date: 2020-01
         end_date: 2022-05
@@ -27,14 +27,13 @@ cv:
           - "Certificates: Data Science"
       - institution: The University of California, Berkeley
         area: Software Development and Programming
-        degree: Certificate
+        degree: Cert.
         location: Berkeley, CA
         start_date: 2023-06
         end_date: 2025-04
-      
       - institution: University of Rochester
         area: Environmental Health
-        degree: Bachelor of Science
+        degree: B.S.
         location: Rochester, NY
         start_date: 2014-09
         end_date: 2018-05
@@ -52,8 +51,7 @@ cv:
             development and implementation of a novel Bayesian Uncertainty 
             Quantification (UQ) framework for real-world simulation data.
       - company: Genentech
-        position: Research and Early Development, Development Sciences &
-          Informatics - Informatics Intern
+        position: Informatics R&D Intern
         location: San Francisco, CA
         start_date: 2021-05
         end_date: 2022-01
@@ -72,23 +70,23 @@ cv:
         start_date: 2021-01
         end_date: 2021-05
         highlights:
-          - Drove strategic marketing decisions by developing predictive models 
-            and interactive visualizations to map consumer and shopper 
-            behavioral trends.
-          - Unlocked new insights into market dynamics and retailer behavior by 
-            engineering high-performance predictive models using parallel 
-            computing frameworks.
-          - Ensured high-availability data access for analytics teams by 
-            architecting and maintaining big data ETL pipelines on Google Cloud 
-            Platform.
+          - Informed data purchasing strategies by developing 
+            predictive models that delivered actionable shopper insights to 
+            global brand teams, primarily within the Fabric Care portfolio.
+          - Analyzed ecommerce market dynamics and retailer behavior by
+            engineering high-performance explanatory models using parallel 
+            computing frameworks to justify data acquisition investments.
+          - Ensured high-availability data access for cross-functional 
+            analytics teams by architecting and maintaining big data ETL 
+            pipelines on Google Cloud Platform (GCP).
       - company: Bristol Myers Squibb
         position: Data Engineering Intern
         location: San Francisco, CA
         start_date: 2020-06
         end_date: 2020-08
         highlights:
-          - Significantly improved R&D workflow efficiency by full-stack 
-            developing a multi-featured patent recommendation application.
+          - Improved R&D workflow efficiency by full-stack developing a 
+            multi-featured patent recommendation application.
           - Optimized data infrastructure by developing and maintaining 
             automated ETL pipelines for diverse, multi-scale datasets.
           - Enhanced data querying performance and relationship mapping by 
@@ -147,35 +145,35 @@ cv:
         details: "Apache Airflow, Docker, Git/GitHub CI/CD, PostgreSQL, Neo4J, 
           BigQuery, Kubernetes"
 design:
-  theme: sb2nov
+  theme: harvard
   page:
     size: us-letter
-    top_margin: 1cm
-    bottom_margin: 1cm
-    left_margin: 1cm
-    right_margin: 1cm
+    top_margin: 0.5in
+    bottom_margin: 0.5in
+    left_margin: 0.5in
+    right_margin: 0.5in
     show_footer: true
     show_top_note: false
   colors:
-    body: black
-    name: black
-    headline: black
-    connections: black
-    section_titles: black
-    links: '#004f90'
-    footer: grey
-    top_note: grey
+    body: rgb(0, 0, 0)
+    name: rgb(0, 0, 0)
+    headline: rgb(0, 0, 0)
+    connections: rgb(0, 0, 0)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(0, 0, 0)
+    footer: rgb(128, 128, 128)
+    top_note: rgb(128, 128, 128)
   typography:
-    font_family: New Computer Modern
+    font_family: XCharter
     line_spacing: 0.6em
     alignment: left
     date_and_location_column_alignment: right
     font_size:
-      body: 9pt
-      name: 24pt
-      headline: 9pt
+      body: 10pt
+      name: 25pt
+      headline: 10pt
       connections: 9pt
-      section_titles: 1.4em
+      section_titles: 1.3em
     bold:
       name: true
       headline: false
@@ -192,76 +190,78 @@ design:
   header:
     alignment: center
     photo_width: 3.5cm
-    space_below_name: 0.7cm
-    space_below_headline: 0.7cm
-    space_below_connections: 0.7cm
+    space_below_name: 0.5cm
+    space_below_headline: 0.5cm
+    space_below_connections: 0.5cm
     connections:
       hyperlink: true
-      show_icons: true
+      show_icons: false
       display_urls_instead_of_usernames: true
-      separator: ''
-      space_between_connections: 0.5cm
+      separator: •
+      space_between_connections: 0.4cm
   section_titles:
-    type: with_full_line
+    type: centered_with_centered_partial_line
     line_thickness: 0.5pt
     space_above: 0.5cm
-    space_below: 0.3cm
+    space_below: 0.2cm
   sections:
     allow_page_break: true
-    space_between_regular_entries: 1.2em
+    space_between_regular_entries: 1em
     space_between_text_based_entries: 0.3em
     show_time_spans_in: []
   entries:
-    date_and_location_width: 4.15cm
+    date_and_location_width: 3.5cm
     side_space: 0.2cm
     space_between_columns: 0.1cm
-    allow_page_break: true
-    short_second_row: false
+    allow_page_break: false
+    short_second_row: true
     summary:
       space_above: 0cm
       space_left: 0cm
     highlights:
-      bullet: ◦
-      nested_bullet: ◦
-      space_left: 0.4cm
-      space_above: 0.25cm
-      space_between_items: 0.25cm
+      bullet: •
+      nested_bullet: •
+      space_left: 0.15cm
+      space_above: 0cm
+      space_between_items: 0cm
       space_between_bullet_and_text: 0.5em
   templates:
-    footer: NAME - Page PAGE_NUMBER of TOTAL_PAGES
-    top_note: Last updated in CURRENT_DATE
+    footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+    top_note: '*LAST_UPDATED CURRENT_DATE*'
+    single_date: MONTH_ABBREVIATION YEAR
+    date_range: START_DATE – END_DATE
+    time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
     one_line_entry:
       main_column: '**LABEL:** DETAILS'
     education_entry:
       main_column: |-
-        **INSTITUTION**
-        *DEGREE in AREA*
+        **INSTITUTION**, AREA
         SUMMARY
         HIGHLIGHTS
-      degree_column: ''
+      degree_column: '**DEGREE**'
       date_and_location_column: |-
-        *LOCATION*
-        *DATE*
+        LOCATION
+        DATE
     normal_entry:
       main_column: |-
         **NAME**
         SUMMARY
         HIGHLIGHTS
       date_and_location_column: |-
-        *LOCATION*
-        *DATE*
+        LOCATION
+        DATE
     experience_entry:
       main_column: |-
-        **POSITION**
-        *COMPANY*
+        **COMPANY**, POSITION
         SUMMARY
         HIGHLIGHTS
       date_and_location_column: |-
-        *LOCATION*
-        *DATE*
+        LOCATION
+        DATE
     publication_entry:
       main_column: |-
         **TITLE**
+        SUMMARY
         AUTHORS
         URL (JOURNAL)
       date_and_location_column: DATE
@@ -269,8 +269,8 @@ locale:
   language: english
 settings:
   render_command:
-    pdf_path: output\First_Last_Resume.pdf
-    html_path: output\First_Last_Resume.html
-    markdown_path: output\First_Last_Resume.md
-    typst_path: output\First_Last_Resume.typ
-    png_path: output\First_Last_Resume.png
+    pdf_path: output\Rachit_Sabharwal_Resume.pdf
+    html_path: output\Rachit_Sabharwal_Resume.html
+    markdown_path: output\Rachit_Sabharwal_Resume.md
+    typst_path: output\Rachit_Sabharwal_Resume.typ
+    png_path: output\Rachit_Sabharwal_Resume.png

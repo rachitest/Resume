@@ -9,13 +9,15 @@
 Data Scientist and Ph.D. Candidate with a proven track record of translating complex data into actionable business solutions. Seeking to leverage expertise in predictive modeling, advanced analytics, and cross-functional leadership to drive strategic decision-making and operational efficiency.
 
 # Education
-## **The University of Texas Health Science Center at Houston**
-*Houston, TX*
+## **The University of Texas Health Science Center at Houston**, Biostatistics
+
+**Ph.D.**
 
 
-*Aug 2022 – present*
+Houston, TX
 
-*Doctor of Philosophy in Biostatistics*
+
+Aug 2022 – present
 
 - Minors: Epidemiology, Health Economics
 
@@ -23,44 +25,50 @@ Data Scientist and Ph.D. Candidate with a proven track record of translating com
 
 
 
-## *Master of Science in Biostatistics*
-*Houston, TX*
+## Biostatistics
+
+**M.S.**
 
 
-*Jan 2020 – May 2022*
+Houston, TX
+
+
+Jan 2020 – May 2022
 
 - Certificates: Data Science
 
 
 
-## **The University of California, Berkeley**
-*Berkeley, CA*
+## **The University of California, Berkeley**, Software Development and Programming
+
+**Cert.**
 
 
-*June 2023 – Apr 2025*
-
-*Certificate in Software Development and Programming*
+Berkeley, CA
 
 
-
-## **University of Rochester**
-*Rochester, NY*
+June 2023 – Apr 2025
 
 
-*Sept 2014 – May 2018*
 
-*Bachelor of Science in Environmental Health*
+## **University of Rochester**, Environmental Health
+
+**B.S.**
+
+
+Rochester, NY
+
+
+Sept 2014 – May 2018
 
 
 
 # Experience
-## **Machine Learning R&D Intern**
+## **The Dow Chemical Company**, Machine Learning R&D Intern
 
-*Lake Jackson, TX*
+Lake Jackson, TX
 
-*May 2025 – Aug 2025*
-
-*The Dow Chemical Company*
+May 2025 – Aug 2025
 
 - Generated $15M in annual cost savings by developing an R application that automated 50% of enterprise-wide Life Cycle Assessment (LCA) workflows.
 
@@ -68,13 +76,11 @@ Data Scientist and Ph.D. Candidate with a proven track record of translating com
 
 
 
-## **Research and Early Development, Development Sciences & Informatics - Informatics Intern**
+## **Genentech**, Informatics R&D Intern
 
-*San Francisco, CA*
+San Francisco, CA
 
-*May 2021 – Jan 2022*
-
-*Genentech*
+May 2021 – Jan 2022
 
 - Accelerated drug safety screening by building a deep neural network to predict adverse drug events, improving early-stage toxicity detection capabilities.
 
@@ -84,31 +90,27 @@ Data Scientist and Ph.D. Candidate with a proven track record of translating com
 
 
 
-## **Consumer & Market Knowledge - Advanced Analytics Co-Op**
+## **Procter & Gamble**, Consumer & Market Knowledge - Advanced Analytics Co-Op
 
-*Cincinnati, OH*
+Cincinnati, OH
 
-*Jan 2021 – May 2021*
+Jan 2021 – May 2021
 
-*Procter & Gamble*
+- Informed data purchasing strategies by developing predictive models that delivered actionable shopper insights to global brand teams, primarily within the Fabric Care portfolio.
 
-- Drove strategic marketing decisions by developing predictive models and interactive visualizations to map consumer and shopper behavioral trends.
+- Analyzed ecommerce market dynamics and retailer behavior by engineering high-performance explanatory models using parallel computing frameworks to justify data acquisition investments.
 
-- Unlocked new insights into market dynamics and retailer behavior by engineering high-performance predictive models using parallel computing frameworks.
-
-- Ensured high-availability data access for analytics teams by architecting and maintaining big data ETL pipelines on Google Cloud Platform.
+- Ensured high-availability data access for cross-functional analytics teams by architecting and maintaining big data ETL pipelines on Google Cloud Platform (GCP).
 
 
 
-## **Data Engineering Intern**
+## **Bristol Myers Squibb**, Data Engineering Intern
 
-*San Francisco, CA*
+San Francisco, CA
 
-*June 2020 – Aug 2020*
+June 2020 – Aug 2020
 
-*Bristol Myers Squibb*
-
-- Significantly improved R&D workflow efficiency by full-stack developing a multi-featured patent recommendation application.
+- Improved R&D workflow efficiency by full-stack developing a multi-featured patent recommendation application.
 
 - Optimized data infrastructure by developing and maintaining automated ETL pipelines for diverse, multi-scale datasets.
 
