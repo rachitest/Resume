@@ -6,10 +6,10 @@
 
 
 # Professional Summary
-Ph.D. Candidate in Biostatistics with dual expertise in Real-World Evidence (RWE) generation and Machine Learning. Experience at Genentech, BMS, and Dow developing graph neural networks, NLP pipelines, and Bayesian uncertainty frameworks. Proven ability to translate complex biomedical data (EHR, claims, omics) into actionable insights for drug discovery and safety signal detection.
+Data Scientist and Ph.D. Candidate with a proven track record of translating complex data into actionable business solutions. Seeking to leverage expertise in predictive modeling, advanced analytics, and cross-functional leadership to drive strategic decision-making and operational efficiency.
 
 # Education
-## **The University of Texas Health Science Center at Houston**, Biostatistics
+## **The University of Texas Health Science Center at Houston**, Epidemiology
 
 **Ph.D.**
 
@@ -19,13 +19,25 @@ Houston, TX
 
 Aug 2022 – present
 
-- Minors: Epidemiology, Health Economics
+- Minors: Biostatistics, Health Economics
 
 - Certificates: Advanced Data Science
 
 
 
-## Biostatistics
+## **The University of California Berkeley**, Software Development and Programming
+
+**Cert.**
+
+
+Berkeley, CA
+
+
+June 2023 – Apr 2025
+
+
+
+## **The University of Texas Health Science Center at Houston**, Biostatistics
 
 **M.S.**
 
@@ -36,18 +48,6 @@ Houston, TX
 Jan 2020 – May 2022
 
 - Certificates: Data Science
-
-
-
-## **The University of California, Berkeley**, Software Development and Programming
-
-**Cert.**
-
-
-Berkeley, CA
-
-
-June 2023 – Apr 2025
 
 
 
@@ -64,29 +64,29 @@ Sept 2014 – May 2018
 
 
 # Experience
-## **The Dow Chemical Company**, Research & Development Intern, MiLOS (Machine Learning, Optimization, & Statistics), Engineering & Process Sciences, Core R&D
+## **The Dow Chemical Company**, Machine Learning R&D Intern
 
 Lake Jackson, TX
 
 May 2025 – Aug 2025
 
-- Authored internal guidance on Uncertainty Quantification (UQ), demonstrating that Bayesian frameworks improved model trustworthiness by ~20-30% compared to frequentist baselines in simulated real-world scenarios.
+- Enabled ~$15M in annual cost savings by developing an R application that automated 50% of enterprise-wide Life Cycle Assessment (LCA) workflows for cross-functional teams.
 
-- Created R application allowing users to automate up to 50% of LCA (Life Cycle Assessment) analysis, estimated to be worth ~15MM annually across Dow
+- Improved predictive model reliability by 20-30% by designing a Bayesian Uncertainty Quantification (UQ) framework, enabling leadership to make data-driven decisions on real-world simulations.
 
 
 
-## **Genentech**, Research and Early Development, Development Sciences & Informatics - Informatics Intern
+## **Genentech**, Informatics R&D Intern
 
 San Francisco, CA
 
 May 2021 – Jan 2022
 
-- Used Deep Transfer Learning via PyTorch and Raytune to create a DNN to predict ADEs for DILI (Drug-induced Liver Injury)
+- Accelerated drug safety screening pipelines by building a deep neural network to predict adverse drug events, directly improving early-stage toxicity detection capabilities.
 
-- Created a Knowledge Graph with Neo4j and a Graph Neural Network using NetworkX and PyTorch to generate gene expression signature-likes for drugs
+- Engineered a scalable Knowledge Graph and Graph Neural Network to map complex drug-gene interactions, empowering R&D teams to rapidly identify novel therapeutic signatures.
 
-- Developed a framework for the tokenization of internal documents for ingestion into text-mining application
+- Streamlined internal data discovery for enterprise users by developing a scalable document tokenization framework for text-mining applications.
 
 
 
@@ -96,11 +96,11 @@ Cincinnati, OH
 
 Jan 2021 – May 2021
 
-- Created predictive models, analytics, and visualizations that facilitated a deep understanding of consumer and shopper behaviors
+- Supported data acquisition strategies by developing explanatory models that delivered actionable shopper insights and market trends to global brand teams within the Fabric Care portfolio.
 
-- Used parallel computing (Dask and Modin) to develop both predictive and explanatory models enabling insights into market trends and retailer behavior
+- Advised ecommerce ad placement strategies by engineering high-performance predictive models using parallel computing frameworks to analyze ecommerce dynamics and retailer behavior.
 
-- Created and serviced big data ETL pipelines utilizing the Google Cloud Platform, Python, and Apache Airflow
+- Developed and maintained big data ETL pipelines on Google Cloud Platform (GCP), ensuring high-availability data access for cross-functional analytics and marketing teams.
 
 
 
@@ -110,15 +110,13 @@ San Francisco, CA
 
 June 2020 – Aug 2020
 
-- Utilized Python, HTML, CSS, and Javascript in creating a multifeatured patent recommendation app to significantly improve scientists' workflow
+- Improved cross-functional R&D workflow efficiency by full-stack developing a multi-featured patent recommendation application used by internal scientists.
 
-- Developed and serviced ETL pipelines using Python and Apache Airflow for multiple datasets of varying sizes (small, medium, and large)
-
-- Designed and maintained both relational and graph databases in PostgreSQL and Neo4j
+- Optimized team data infrastructure by developing automated ETL pipelines and designing robust relational (PostgreSQL) and graph (Neo4j) database architectures for multi-scale datasets.
 
 
 
-# Publications
+# Selected Publications
 ## **Trust and Uncertainty Quantification in Machine Learning Models Under Measurement Error**
 
 Aug 2025
@@ -200,21 +198,10 @@ May 2021
 
 
 # Skills
-**Languages:** English (Native/Bilingual), Hindi (Native/Bilingual), French (Intermediate)
+**Core Competencies:** Predictive Analytics, Machine Learning, Real-World Evidence (RWE), Data Strategy, Cross-Functional Leadership, Rapid Prototyping
 
-**Work Authorization:** US Citizenship, Canadian Citizenship
+**Programming & Cloud:** Python, R, SQL, SAS, MATLAB, Google Cloud Platform (GCP), AWS, Azure, Apache Spark
 
-# Technical Skills
-**Machine Learning Tooling:** Scikit-learn, TidyModels, Raytune, Optuna, Pytorch, Tensorflow, Huggingface, JAX
+**Machine Learning & AI:** Scikit-learn, PyTorch, TensorFlow, Huggingface, Raytune, NLP, Graph Neural Networks
 
-**Programming Languages:** Python, R, SAS, MATLAB, Javascript, C, Java, HTML, CSS
-
-**Databases:** Research Electronic Data Capture (REDCap), RDBMS (PostgreSQL, SQLite, MySQL), NoSQL DBMS (MongoDB, Elasticsearch, Neo4J), BigQuery
-
-**Cloud and Distributed Computing:** AWS (AWS HPC), GCP, Azure, Spark, Hadoop, Slurm, On-Prem HPC
-
-**DevOps:** Git, GitHub, GitLab, Docker, GitHub/GitLab CI/CD, Jenkins, Kubernetes, Jira, Confluence
-
-**Workflow Orchestration:** Airflow, Prefect, Cron, Luigi
-
-**Frameworks and Platforms:** Streamlit, FastAPI, Django, Flask, Heroku, Replit, Great Expectations, PyTest
+**Data Engineering & DevOps:** Apache Airflow, Docker, Git/GitHub CI/CD, PostgreSQL, Neo4J, BigQuery, Kubernetes
