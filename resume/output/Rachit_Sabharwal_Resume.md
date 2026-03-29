@@ -25,7 +25,19 @@ Aug 2022 – present
 
 
 
-## Biostatistics
+## **The University of California, Berkeley**, Software Development and Programming
+
+**Cert.**
+
+
+Berkeley, CA
+
+
+June 2023 – Apr 2025
+
+
+
+## **The University of Texas Health Science Center at Houston**, Biostatistics
 
 **M.S.**
 
@@ -36,18 +48,6 @@ Houston, TX
 Jan 2020 – May 2022
 
 - Certificates: Data Science
-
-
-
-## **The University of California, Berkeley**, Software Development and Programming
-
-**Cert.**
-
-
-Berkeley, CA
-
-
-June 2023 – Apr 2025
 
 
 

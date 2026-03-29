@@ -6,7 +6,7 @@
 
 
 # Professional Summary
-Data Scientist and Ph.D. Candidate with a proven track record of translating complex data into actionable business solutions. Seeking to leverage expertise in predictive modeling, advanced analytics, and cross-functional leadership to drive strategic decision-making and operational efficiency.
+Data Scientist and Ph.D. Candidate combining rigorous quantitative expertise with a proven ability to translate complex data into actionable business insights. Adept at developing predictive models and scalable data infrastructure that support strategic decision-making, cross-functional efficiency, and high-value enterprise initiatives.
 
 # Education
 ## **The University of Texas Health Science Center at Houston**, Epidemiology
@@ -25,7 +25,7 @@ Aug 2022 – present
 
 
 
-## **The University of California Berkeley**, Software Development and Programming
+## **The University of California, Berkeley**, Software Development and Programming
 
 **Cert.**
 
@@ -116,52 +116,11 @@ June 2020 – Aug 2020
 
 
 
-# Selected Publications
-## **Trust and Uncertainty Quantification in Machine Learning Models Under Measurement Error**
-
-Aug 2025
-
-**Sabharwal R**
-
- (The Dow Chemical Company, Internal White Paper)
-
-
-
-## **An Interactive Online Dashboard with COVID-19 Trends and Data Analysis in Northeast and South Texas**
-
-Apr 2024
-
-Zhang Z, **Sabharwal R**, Lee M, Zhang K, McGaha P, Crum M, Bauer C, Fisher-Hoch SP, McCormick JB, Reininger BM, Thomas S, Guajardo E, Pinon D, Yaseen A
-
-[research.ebsco.com/linkprocessor/plink?id=894625e1-7146-30bf-aa2c-9f5637dac41e](https://research.ebsco.com/linkprocessor/plink?id=894625e1-7146-30bf-aa2c-9f5637dac41e) (Texas Public Health Journal)
-
-
-
-## **Biorec: A Biomedical Recommendation System for Academic Conferences and Journals**
-
-Apr 2022
-
-**Sabharwal, R**
-
- (UTHealth, Technical Project)
-
-
-
-## **Data Cleaning for eCommerce: Standardizing Data Handling Practices for eCommerce Datasets**
-
-May 2021
-
-**Sabharwal R**
-
- (Procter & Gamble, Internal White Paper)
-
-
-
 # Skills
-**Core Competencies:** Predictive Analytics, Machine Learning, Real-World Evidence (RWE), Data Strategy, Cross-Functional Leadership, Rapid Prototyping
+**Core Competencies:** Predictive Analytics, Machine Learning, Real-World Evidence (RWE), Data Strategy, Cross-Functional Leadership, Rapid Prototyping, Stakeholder Management
 
 **Programming & Cloud:** Python, R, SQL, SAS, MATLAB, Google Cloud Platform (GCP), AWS, Azure, Apache Spark
 
 **Machine Learning & AI:** Scikit-learn, PyTorch, TensorFlow, Huggingface, Raytune, NLP, Graph Neural Networks
 
-**Data Engineering & DevOps:** Apache Airflow, Docker, Git/GitHub CI/CD, PostgreSQL, Neo4J, BigQuery, Kubernetes
+**Data Engineering:** Apache Airflow, Docker, Git/GitHub CI/CD, PostgreSQL, Neo4J, BigQuery, Kubernetes

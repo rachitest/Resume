@@ -21,7 +21,13 @@ cv:
         highlights:
           - "Minors: Biostatistics, Health Economics"
           - "Certificates: Advanced Data Science"
-      - institution: ""
+      - institution: The University of California, Berkeley
+        area: Software Development and Programming
+        degree: Cert.
+        location: Berkeley, CA
+        start_date: 2023-06
+        end_date: 2025-04
+      - institution: The University of Texas Health Science Center at Houston
         area: Biostatistics
         degree: M.S.
         location: Houston, TX
@@ -29,12 +35,6 @@ cv:
         end_date: 2022-05
         highlights:
           - "Certificates: Data Science"
-      - institution: The University of California, Berkeley
-        area: Software Development and Programming
-        degree: Cert.
-        location: Berkeley, CA
-        start_date: 2023-06
-        end_date: 2025-04
       - institution: University of Rochester
         area: Environmental Health
         degree: B.S.

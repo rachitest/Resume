@@ -123,7 +123,23 @@ Ph.D. Candidate with dual expertise in Real-World Evidence (RWE) and Machine Lea
 
 #education-entry(
   [
-    Biostatistics
+    #strong[The University of California, Berkeley], Software Development and Programming
+
+  ],
+  [
+    Berkeley, CA
+
+    June 2023 – Apr 2025
+
+  ],
+  degree-column: [
+    #strong[Cert.]
+  ],
+)
+
+#education-entry(
+  [
+    #strong[The University of Texas Health Science Center at Houston], Biostatistics
 
     - Certificates: Data Science
 
@@ -136,22 +152,6 @@ Ph.D. Candidate with dual expertise in Real-World Evidence (RWE) and Machine Lea
   ],
   degree-column: [
     #strong[M.S.]
-  ],
-)
-
-#education-entry(
-  [
-    #strong[The University of California, Berkeley], Software Development and Programming
-
-  ],
-  [
-    Berkeley, CA
-
-    June 2023 – Apr 2025
-
-  ],
-  degree-column: [
-    #strong[Cert.]
   ],
 )
 

@@ -32,7 +32,7 @@
   typography-font-family-headline: "XCharter",
   typography-font-family-connections: "XCharter",
   typography-font-family-section-titles: "XCharter",
-  typography-font-size-body: 10pt,
+  typography-font-size-body: 9.5pt,
   typography-font-size-name: 25pt,
   typography-font-size-headline: 10pt,
   typography-font-size-connections: 9pt,
@@ -97,7 +97,7 @@
 
 == Professional Summary
 
-Data Scientist and Ph.D. Candidate with a proven track record of translating complex data into actionable business solutions. Seeking to leverage expertise in predictive modeling, advanced analytics, and cross-functional leadership to drive strategic decision-making and operational efficiency.
+Data Scientist and Ph.D. Candidate combining rigorous quantitative expertise with a proven ability to translate complex data into actionable business insights. Adept at developing predictive models and scalable data infrastructure that support strategic decision-making, cross-functional efficiency, and high-value enterprise initiatives.
 
 == Education
 
@@ -123,7 +123,7 @@ Data Scientist and Ph.D. Candidate with a proven track record of translating com
 
 #education-entry(
   [
-    #strong[The University of California Berkeley], Software Development and Programming
+    #strong[The University of California, Berkeley], Software Development and Programming
 
   ],
   [
@@ -245,74 +245,12 @@ Data Scientist and Ph.D. Candidate with a proven track record of translating com
   ],
 )
 
-== Selected Publications
-
-#regular-entry(
-  [
-    #strong[Trust and Uncertainty Quantification in Machine Learning Models Under Measurement Error]
-
-    #strong[Sabharwal R]
-
-    (The Dow Chemical Company, Internal White Paper)
-
-  ],
-  [
-    Aug 2025
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[An Interactive Online Dashboard with COVID-19 Trends and Data Analysis in Northeast and South Texas]
-
-    Zhang Z, #strong[Sabharwal R], Lee M, Zhang K, McGaha P, Crum M, Bauer C, Fisher-Hoch SP, McCormick JB, Reininger BM, Thomas S, Guajardo E, Pinon D, Yaseen A
-
-    #link("https://research.ebsco.com/linkprocessor/plink?id=894625e1-7146-30bf-aa2c-9f5637dac41e")[research.ebsco.com\/linkprocessor\/plink?id=894625e1-7146-30bf-aa2c-9f5637dac41e] (Texas Public Health Journal)
-
-  ],
-  [
-    Apr 2024
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[Biorec: A Biomedical Recommendation System for Academic Conferences and Journals]
-
-    #strong[Sabharwal, R]
-
-    (UTHealth, Technical Project)
-
-  ],
-  [
-    Apr 2022
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[Data Cleaning for eCommerce: Standardizing Data Handling Practices for eCommerce Datasets]
-
-    #strong[Sabharwal R]
-
-    (Procter & Gamble, Internal White Paper)
-
-  ],
-  [
-    May 2021
-
-  ],
-)
-
 == Skills
 
-#strong[Core Competencies:] Predictive Analytics, Machine Learning, Real-World Evidence (RWE), Data Strategy, Cross-Functional Leadership, Rapid Prototyping
+#strong[Core Competencies:] Predictive Analytics, Machine Learning, Real-World Evidence (RWE), Data Strategy, Cross-Functional Leadership, Rapid Prototyping, Stakeholder Management
 
 #strong[Programming & Cloud:] Python, R, SQL, SAS, MATLAB, Google Cloud Platform (GCP), AWS, Azure, Apache Spark
 
 #strong[Machine Learning & AI:] Scikit-learn, PyTorch, TensorFlow, Huggingface, Raytune, NLP, Graph Neural Networks
 
-#strong[Data Engineering & DevOps:] Apache Airflow, Docker, Git\/GitHub CI\/CD, PostgreSQL, Neo4J, BigQuery, Kubernetes
+#strong[Data Engineering:] Apache Airflow, Docker, Git\/GitHub CI\/CD, PostgreSQL, Neo4J, BigQuery, Kubernetes
