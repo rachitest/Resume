@@ -64,7 +64,7 @@ Sept 2014 – May 2018
 
 
 # Experience
-## **The Dow Chemical Company**, Machine Learning R&D Intern
+## **The Dow Chemical Company**, Machine Learning R&D Intern (40 hours/week)
 
 Lake Jackson, TX
 
@@ -76,7 +76,7 @@ May 2025 – Aug 2025
 
 
 
-## **Genentech**, Informatics R&D Intern
+## **Genentech**, Informatics R&D Intern (40 hours/week)
 
 San Francisco, CA
 
@@ -90,7 +90,7 @@ May 2021 – Jan 2022
 
 
 
-## **Procter & Gamble**, Consumer & Market Knowledge - Advanced Analytics Co-Op
+## **Procter & Gamble**, Consumer & Market Knowledge - Advanced Analytics Co-Op (40 hours/week)
 
 Cincinnati, OH
 
@@ -104,7 +104,7 @@ Jan 2021 – May 2021
 
 
 
-## **Bristol Myers Squibb**, Data Engineering Intern
+## **Bristol Myers Squibb**, Data Engineering Intern (40 hours/week)
 
 San Francisco, CA
 

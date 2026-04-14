@@ -39,7 +39,7 @@ cv:
         end_date: 2018-05
     Experience:
       - company: The Dow Chemical Company
-        position: Machine Learning R&D Intern
+        position: Machine Learning R&D Intern (40 hours/week)
         location: Lake Jackson, TX
         start_date: 2025-05
         end_date: 2025-08
@@ -52,7 +52,7 @@ cv:
             enabling leadership to make data-driven decisions on real-world 
             simulations.
       - company: Genentech
-        position: Informatics R&D Intern
+        position: Informatics R&D Intern (40 hours/week)
         location: San Francisco, CA
         start_date: 2021-05
         end_date: 2022-01
@@ -67,7 +67,7 @@ cv:
             developing a scalable document tokenization framework for 
             text-mining applications.
       - company: Procter & Gamble
-        position: Consumer & Market Knowledge - Advanced Analytics Co-Op
+        position: Consumer & Market Knowledge - Advanced Analytics Co-Op (40 hours/week)
         location: Cincinnati, OH
         start_date: 2021-01
         end_date: 2021-05
@@ -83,7 +83,7 @@ cv:
             Platform (GCP), ensuring high-availability data access for 
             cross-functional analytics and marketing teams.
       - company: Bristol Myers Squibb
-        position: Data Engineering Intern
+        position: Data Engineering Intern (40 hours/week)
         location: San Francisco, CA
         start_date: 2020-06
         end_date: 2020-08

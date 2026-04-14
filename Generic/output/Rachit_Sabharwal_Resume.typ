@@ -6,7 +6,7 @@
   name: "Rachit Sabharwal",
   title: "Rachit Sabharwal - CV",
   footer: context { [#emph[Rachit Sabharwal -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in Mar 2026] ],
+  top-note: [ #emph[Last updated in Apr 2026] ],
   locale-catalog-language: "en",
   text-direction: ltr,
   page-size: "us-letter",
@@ -80,8 +80,8 @@
   entries-highlights-space-between-bullet-and-text: 0.5em,
   date: datetime(
     year: 2026,
-    month: 3,
-    day: 28,
+    month: 4,
+    day: 13,
   ),
 )
 
@@ -175,7 +175,7 @@ Data Scientist and Ph.D. Candidate with a proven track record of translating com
 
 #regular-entry(
   [
-    #strong[The Dow Chemical Company], Machine Learning R&D Intern
+    #strong[The Dow Chemical Company], Machine Learning R&D Intern (40 hours\/week)
 
     - Enabled \~\$15M in annual cost savings by developing an R application that automated 50\% of enterprise-wide Life Cycle Assessment (LCA) workflows for cross-functional teams.
 
@@ -192,7 +192,7 @@ Data Scientist and Ph.D. Candidate with a proven track record of translating com
 
 #regular-entry(
   [
-    #strong[Genentech], Informatics R&D Intern
+    #strong[Genentech], Informatics R&D Intern (40 hours\/week)
 
     - Accelerated drug safety screening pipelines by building a deep neural network to predict adverse drug events, directly improving early-stage toxicity detection capabilities.
 
@@ -211,7 +211,7 @@ Data Scientist and Ph.D. Candidate with a proven track record of translating com
 
 #regular-entry(
   [
-    #strong[Procter & Gamble], Consumer & Market Knowledge - Advanced Analytics Co-Op
+    #strong[Procter & Gamble], Consumer & Market Knowledge - Advanced Analytics Co-Op (40 hours\/week)
 
     - Supported data acquisition strategies by developing explanatory models that delivered actionable shopper insights and market trends to global brand teams within the Fabric Care portfolio.
 
@@ -230,7 +230,7 @@ Data Scientist and Ph.D. Candidate with a proven track record of translating com
 
 #regular-entry(
   [
-    #strong[Bristol Myers Squibb], Data Engineering Intern
+    #strong[Bristol Myers Squibb], Data Engineering Intern (40 hours\/week)
 
     - Improved cross-functional R&D workflow efficiency by full-stack developing a multi-featured patent recommendation application used by internal scientists.
 
