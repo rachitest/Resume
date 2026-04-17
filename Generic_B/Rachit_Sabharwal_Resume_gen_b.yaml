@@ -1,0 +1,365 @@
+cv:
+  name: Rachit Sabharwal
+  location: Cypress, Texas
+  phone: tel:+1 585-281-1928
+  social_networks:
+    - network: GitHub
+      username: rachitest
+  sections:
+    Professional Summary:
+      - Data Scientist and Ph.D. Candidate with a proven track record of translating complex data into actionable business solutions. Seeking to leverage expertise in predictive modeling, advanced analytics, and cross-functional leadership to drive strategic decision-making and operational efficiency.
+    Education:
+      - institution: The University of Texas Health Science Center at Houston
+        area: Biostatistics
+        degree: Ph.D.
+        location: Houston, TX
+        start_date: 2022-08
+        highlights:
+          - "Minors: Epidemiology, Health Economics"
+          - "Certificates: Advanced Data Science"
+      - institution: The University of California Berkeley
+        area: Software Development and Programming
+        degree: Cert.
+        location: Berkeley, CA
+        start_date: 2023-06
+        end_date: 2025-04
+      - institution: The University of Texas Health Science Center at Houston
+        area: Biostatistics
+        degree: M.S.
+        location: Houston, TX
+        start_date: 2020-01
+        end_date: 2022-05
+        highlights:
+          - "Certificates: Data Science"
+      - institution: University of Rochester
+        area: Environmental Health
+        degree: B.S.
+        location: Rochester, NY
+        start_date: 2014-09
+        end_date: 2018-05
+    Experience:
+      - company: The Dow Chemical Company
+        position: Machine Learning R&D Intern (40 hours/week)
+        location: Lake Jackson, TX
+        start_date: 2025-05
+        end_date: 2025-08
+        highlights:
+          - Enabled ~$15M in annual cost savings by developing an R 
+            application that automated 50% of enterprise-wide Life Cycle 
+            Assessment (LCA) workflows for cross-functional teams.
+          - Improved predictive model reliability by 20-30% by designing a 
+            Bayesian Uncertainty Quantification (UQ) framework, 
+            enabling leadership to make data-driven decisions on real-world 
+            simulations.
+      - company: Genentech
+        position: Informatics R&D Intern (40 hours/week)
+        location: San Francisco, CA
+        start_date: 2021-05
+        end_date: 2022-01
+        highlights:
+          - Accelerated drug safety screening pipelines by building a deep 
+            neural network to predict adverse drug events, directly improving 
+            early-stage toxicity detection capabilities.
+          - Engineered a scalable Knowledge Graph and Graph Neural Network to 
+            map complex drug-gene interactions, empowering R&D teams to 
+            rapidly identify novel therapeutic signatures.
+          - Streamlined internal data discovery for enterprise users by 
+            developing a scalable document tokenization framework for 
+            text-mining applications.
+      - company: Procter & Gamble
+        position: Consumer & Market Knowledge - Advanced Analytics Co-Op (40 hours/week)
+        location: Cincinnati, OH
+        start_date: 2021-01
+        end_date: 2021-05
+        highlights:
+          - Supported data acquisition strategies by developing explanatory 
+            models that delivered actionable shopper insights and market trends 
+            to global brand teams within the Fabric Care portfolio.
+          - Advised ecommerce ad placement strategies by engineering 
+            high-performance predictive models using parallel 
+            computing frameworks to analyze ecommerce dynamics and retailer 
+            behavior.
+          - Developed and maintained big data ETL pipelines on Google Cloud 
+            Platform (GCP), ensuring high-availability data access for 
+            cross-functional analytics and marketing teams.
+      - company: Bristol Myers Squibb
+        position: Data Engineering Intern (40 hours/week)
+        location: San Francisco, CA
+        start_date: 2020-06
+        end_date: 2020-08
+        highlights:
+          - Improved cross-functional R&D workflow efficiency by full-stack 
+            developing a multi-featured patent recommendation application used 
+            by internal scientists.
+          - Optimized team data infrastructure by developing automated 
+            ETL pipelines and designing robust relational (PostgreSQL) and graph
+            (Neo4j) database architectures for multi-scale datasets.
+    Selected Publications:
+      - title: Trust and Uncertainty Quantification in Machine Learning Models
+          Under Measurement Error
+        authors:
+          - '**Sabharwal R**'
+        date: 2025-08
+        journal: The Dow Chemical Company, Internal White Paper
+      - title: Factors associated with elevated SARS-CoV-2 immune response in
+          children and adolescents
+        authors:
+          - Messiah SE
+          - Abbas R
+          - Bergqvist E
+          - Swartz MD
+          - Talebi Y
+          - '**Sabharwal R**'
+          - Han H
+          - Valerio-Shewmaker MA
+          - DeSantis SM
+          - Yaseen A
+          - Gandhi HA
+          - Amavisca XF
+          - Ross JA
+          - Padilla LN
+          - Gonzalez MO
+          - Wu L
+          - Silberman MA
+          - Lakey D
+          - Shuford JA
+          - Pont SJ
+          - Boerwinkle E
+        date: 2024-08
+        doi: 10.3389/fped.2024.1393321
+        journal: Frontiers in Pediatrics
+      - title: Baseline characteristics of SARS-CoV-2 vaccine non-responders in
+          a large population-based sample
+        authors:
+          - Yaseen A
+          - DeSantis SM
+          - '**Sabharwal R**'
+          - Talebi Y
+          - Swartz MD
+          - Zhang S
+          - Leon Novelo L
+          - Pinzon-Gomez CL
+          - Messiah SE
+          - Valerio-Shewmaker M
+          - Kohl HW 3rd
+          - Ross J
+          - Lakey D
+          - Shuford JA
+          - Pont SJ
+          - Boerwinkle E
+        date: 2024-05
+        doi: 10.1371/journal.pone.0303420
+        journal: PLoS One
+      - title: An Interactive Online Dashboard with COVID-19 Trends and Data
+          Analysis in Northeast and South Texas
+        authors:
+          - Zhang Z
+          - '**Sabharwal R**'
+          - Lee M
+          - Zhang K
+          - McGaha P
+          - Crum M
+          - Bauer C
+          - Fisher-Hoch SP
+          - McCormick JB
+          - Reininger BM
+          - Thomas S
+          - Guajardo E
+          - Pinon D
+          - Yaseen A
+        date: 2024-04
+        url: https://research.ebsco.com/linkprocessor/plink?id=894625e1-7146-30bf-aa2c-9f5637dac41e
+        journal: Texas Public Health Journal
+      - title: Long-term immune response to SARS-CoV-2 infection and
+          vaccination in children and adolescents
+        authors:
+          - Messiah SE
+          - Talebi Y
+          - Swartz MD
+          - '**Sabharwal R**'
+          - Han H
+          - Bergqvist E
+          - Kohl HW 3rd
+          - Valerio-Shewmaker M
+          - DeSantis SM
+          - Yaseen A
+          - Kelder SH
+          - Ross J
+          - Padilla LN
+          - Gonzalez MO
+          - Wu L
+          - Lakey D
+          - Shuford JA
+          - Pont SJ
+          - Boerwinkle E
+        date: 2023-10
+        doi: 10.1038/s41390-023-02857-y
+        journal: Pediatric Research
+      - title: 'Scholarly recommendation systems: a literature survey'
+        authors:
+          - Zhang Z
+          - Patra BG
+          - Yaseen A
+          - Zhu J
+          - '**Sabharwal R**'
+          - Roberts K
+          - Cao T
+          - Wu H
+        date: 2023-06
+        doi: 10.1007/s10115-023-01901-x
+        journal: Knowledge and Information Systems
+      - title: 'Biorec: A Biomedical Recommendation System for Academic 
+          Conferences and Journals'
+        authors:
+          - '**Sabharwal, R**'
+        date: 2022-04
+        journal: UTHealth School of Public Health, MS Thesis
+      - title: 'Data Cleaning for eCommerce: Standardizing Data Handling
+          Practices for eCommerce Datasets'
+        authors:
+          - '**Sabharwal R**'
+        date: 2021-05
+        journal: Procter & Gamble, Internal White Paper
+    Skills:
+      - label: "Core Competencies"
+        details: "Predictive Analytics, Machine Learning, Real-World Evidence 
+          (RWE), Data Strategy, Cross-Functional Leadership, Rapid Prototyping"
+      - label: "Programming & Cloud"
+        details: "Python, R, SQL, SAS, MATLAB, Google Cloud Platform (GCP), AWS,
+          Azure, Apache Spark"
+      - label: "Machine Learning & AI"
+        details: "Scikit-learn, PyTorch, TensorFlow, Huggingface, Raytune, NLP, 
+          Graph Neural Networks"
+      - label: "Data Engineering & DevOps"
+        details: "Apache Airflow, Docker, Git/GitHub CI/CD, PostgreSQL, Neo4J, 
+          BigQuery, Kubernetes"
+design:
+  theme: harvard
+  page:
+    size: us-letter
+    top_margin: 0.5in
+    bottom_margin: 0.5in
+    left_margin: 0.5in
+    right_margin: 0.5in
+    show_footer: true
+    show_top_note: false
+  colors:
+    body: rgb(0, 0, 0)
+    name: rgb(0, 0, 0)
+    headline: rgb(0, 0, 0)
+    connections: rgb(0, 0, 0)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(0, 0, 0)
+    footer: rgb(128, 128, 128)
+    top_note: rgb(128, 128, 128)
+  typography:
+    font_family: XCharter
+    line_spacing: 0.6em
+    alignment: left
+    date_and_location_column_alignment: right
+    font_size:
+      body: 10pt
+      name: 25pt
+      headline: 10pt
+      connections: 9pt
+      section_titles: 1.3em
+    bold:
+      name: true
+      headline: false
+      connections: false
+      section_titles: true
+    small_caps:
+      name: false
+      headline: false
+      connections: false
+      section_titles: false
+  links:
+    underline: false
+    show_external_link_icon: false
+  header:
+    alignment: center
+    photo_width: 3.5cm
+    space_below_name: 0.5cm
+    space_below_headline: 0.5cm
+    space_below_connections: 0.5cm
+    connections:
+      hyperlink: true
+      show_icons: false
+      display_urls_instead_of_usernames: true
+      separator: •
+      space_between_connections: 0.4cm
+  section_titles:
+    type: centered_with_centered_partial_line
+    line_thickness: 0.5pt
+    space_above: 0.5cm
+    space_below: 0.2cm
+  sections:
+    allow_page_break: true
+    space_between_regular_entries: 1em
+    space_between_text_based_entries: 0.3em
+    show_time_spans_in: []
+  entries:
+    date_and_location_width: 3.5cm
+    side_space: 0.2cm
+    space_between_columns: 0.1cm
+    allow_page_break: false
+    short_second_row: true
+    summary:
+      space_above: 0cm
+      space_left: 0cm
+    highlights:
+      bullet: •
+      nested_bullet: •
+      space_left: 0.15cm
+      space_above: 0cm
+      space_between_items: 0cm
+      space_between_bullet_and_text: 0.5em
+  templates:
+    footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+    top_note: '*LAST_UPDATED CURRENT_DATE*'
+    single_date: MONTH_ABBREVIATION YEAR
+    date_range: START_DATE – END_DATE
+    time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+    one_line_entry:
+      main_column: '**LABEL:** DETAILS'
+    education_entry:
+      main_column: |-
+        **INSTITUTION**, AREA
+        SUMMARY
+        HIGHLIGHTS
+      degree_column: '**DEGREE**'
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    normal_entry:
+      main_column: |-
+        **NAME**
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    experience_entry:
+      main_column: |-
+        **COMPANY**, POSITION
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    publication_entry:
+      main_column: |-
+        **TITLE**
+        SUMMARY
+        AUTHORS
+        URL (JOURNAL)
+      date_and_location_column: DATE
+locale:
+  language: english
+settings:
+  render_command:
+    pdf_path: output_gen_b\Rachit_Sabharwal_Resume.pdf
+    html_path: output_gen_b\Rachit_Sabharwal_Resume.html
+    markdown_path: output_gen_b\Rachit_Sabharwal_Resume.md
+    typst_path: output_gen_b\Rachit_Sabharwal_Resume.typ
+    png_path: output_gen_b\Rachit_Sabharwal_Resume.png
