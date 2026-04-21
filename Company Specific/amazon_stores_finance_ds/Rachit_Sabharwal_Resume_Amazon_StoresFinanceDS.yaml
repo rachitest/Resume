@@ -1,0 +1,312 @@
+cv:
+  name: Rachit Sabharwal
+  location: Cypress, Texas
+  phone: tel:+1 585-281-1928
+  email: rachit-sabharwal@outlook.com
+  social_networks:
+    - network: GitHub
+      username: rachitest
+  sections:
+    Professional Summary:
+      - Ph.D. Candidate in Epidemiology and Biostatistics (expected Aug 2026)
+        with 6+ years building production forecasting, predictive, and causal
+        models across consumer goods, healthcare, life sciences, and process
+        manufacturing. Work spans shopper and retailer behavioral forecasting
+        on clickstream at P&G, Bayesian uncertainty quantification for
+        high-stakes R&D decisions at Dow ($15M annual impact), and RNN/LSTM
+        sequence models on high-frequency longitudinal data. Track record of
+        partnering with finance, engineering, and non-technical stakeholders
+        to ship CI/CD-backed pipelines and decision-support tools that scale
+        with weekly or continuous data. Interested in applying statistical
+        and causal modeling to drive financial decision-making at scale within
+        Amazon Stores.
+
+    Education:
+      - institution: The University of Texas Health Science Center at Houston
+        area: Epidemiology and Biostatistics
+        degree: Ph.D.
+        location: Houston, TX
+        start_date: 2022-08
+        end_date: 2026-08
+        highlights:
+          - "Focus: Causal Inference, Predictive Modeling, Explainable AI"
+          - "Certificates: Advanced Data Science"
+      - institution: The University of California, Berkeley
+        area: Software Development and Programming
+        degree: Cert.
+        location: Berkeley, CA
+        start_date: 2023-06
+        end_date: 2025-04
+      - institution: The University of Texas Health Science Center at Houston
+        area: Biostatistics
+        degree: M.S.
+        location: Houston, TX
+        start_date: 2020-01
+        end_date: 2022-05
+      - institution: University of Rochester
+        area: Environmental Health
+        degree: B.S.
+        location: Rochester, NY
+        start_date: 2014-09
+        end_date: 2018-05
+
+    Experience:
+
+      - company: UTHealth Houston, School of Public Health
+        position: Research Data Scientist (PhD)
+        location: Houston, TX
+        start_date: 2022-08
+        end_date: 2026-08
+        highlights:
+          - Trained and benchmarked RNN and LSTM sequence models on
+            high-frequency hourly longitudinal signals against classical-ML
+            baselines (logistic regression, gradient boosting, random forest)
+            for outcome prediction — spanning a PRISMA 2020 systematic review
+            through an explainable multimodal model.
+          - Cut data-munging turnaround 24x by re-architecting the TexasCARES
+            ETL; stood up CI/CD automated reporting in Python and R that
+            ingests new data weekly, runs quality checks, and publishes
+            stakeholder outputs without manual intervention, backed by a full
+            lifecycle test suite.
+          - Designed the multi-site star schema and SQL ETL for the R33 phase
+            of DETECT-RPC, harmonizing records from 6 sites, and built a
+            Quarto dashboard giving principal investigators real-time
+            visibility into data collection progress.
+          - Co-authored 4 peer-reviewed publications using survival analysis,
+            linear mixed models, and causal methods on large population-based
+            cohorts; supervised 2 M.S. analysts and led a 2-person teaching
+            team for PH 1976 (Fundamentals of Data Analytics and Predictions).
+
+      - company: The Dow Chemical Company
+        position: ML R&D Intern, Machine Learning, Optimization & Statistics
+          (MiLOS), Core R&D
+        location: Lake Jackson, TX
+        start_date: 2025-05
+        end_date: 2025-08
+        highlights:
+          - Shipped an R Shiny decision-support app that automated 50% of
+            enterprise Life Cycle Assessment workflows, estimated at $15M in
+            annual cost savings across Dow's global operations, and presented
+            results to technical and non-technical stakeholders across R&D
+            and commercial functions.
+          - Benchmarked Bayesian forecasting models (Gaussian process
+            regression, Bayesian neural networks, Monte Carlo dropout) against
+            frequentist counterparts across 25+ measurement-error scenarios
+            using PICP, ECE, and CI-width calibration metrics to quantify
+            model reliability for high-stakes capital and R&D decisions.
+          - Authored an internal Bayesian UQ white paper (MiLOS) adopted as
+            organizational guidance for future predictive modeling projects.
+
+      - company: UTHealth Houston, School of Public Health
+        position: Research Data Scientist (MS)
+        location: Houston, TX
+        start_date: 2020-02
+        end_date: 2022-05
+        highlights:
+          - Shipped and maintained a public-facing statewide COVID-19 dashboard
+            (Python, Tableau) ingesting case and antibody survey data
+            continuously, and translated model outputs into narratives for
+            non-technical public and state-agency audiences.
+          - Engineered ETL pipelines for TexasCARES handling PII with quality
+            controls from ingestion through publication, supporting downstream
+            modeling and reporting workloads.
+
+      - company: Procter & Gamble
+        position: Advanced Analytics Co-Op, Consumer & Market Knowledge
+        location: Cincinnati, OH
+        start_date: 2021-01
+        end_date: 2021-04
+        highlights:
+          - Delivered predictive and explanatory models forecasting shopper
+            and retailer behavior from large-scale clickstream data for global
+            Fabric Care brand teams, directly informing corporate strategy
+            and investment decisions around DTC ecommerce.
+          - Raised cross-functional analyst throughput 1.5x by building GCP
+            big-data ETL pipelines on Apache Airflow, partnering across data
+            engineering, analytics, and brand stakeholders.
+          - Raised codebase test coverage from 0% to 70% by introducing
+            containerization, unit testing, and agile practices to support
+            production-grade model deployment.
+
+      - company: Genentech
+        position: Informatics Intern, Development Sciences & Informatics
+        location: San Francisco, CA
+        start_date: 2021-05
+        end_date: 2022-01
+        highlights:
+          - Reproduced the published GLIT multimodal GNN on DILI benchmarks,
+            then prototyped a lower-complexity MLP over ECFP fingerprints and
+            drug diffusion profiles in PyTorch Lightning to test whether model
+            complexity could be reduced without meaningfully hurting
+            predictive performance — framing a parsimony-vs-accuracy tradeoff
+            for downstream stakeholders.
+
+
+    Selected Publications:
+      - title: Trust and Uncertainty Quantification in Machine Learning
+          Models Under Measurement Error
+        authors:
+          - '**Sabharwal R**'
+        date: 2025-08
+        journal: The Dow Chemical Company, Internal White Paper
+      - title: Baseline characteristics of SARS-CoV-2 vaccine non-responders
+          in a large population-based sample
+        authors:
+          - Yaseen A
+          - DeSantis SM
+          - '**Sabharwal R**'
+          - et al.
+        date: 2024-05
+        doi: 10.1371/journal.pone.0303420
+        journal: PLoS One
+
+    Skills:
+      - label: "Modeling & Statistics"
+        details: "Forecasting, Time-Series Sequence Modeling (RNN, LSTM),
+          Predictive Modeling, Causal Inference, Survival Analysis, Linear &
+          Generalized Linear Mixed Models, Bayesian Inference & Uncertainty
+          Quantification (Gaussian Processes, BNNs, MC Dropout), Measurement
+          Error Modeling, Explainable AI"
+      - label: "Programming & Querying"
+        details: "SQL, Python (polars, pandas, duckdb), R (data.table,
+          tidyverse), SAS, Bash"
+      - label: "ML/Stats Libraries"
+        details: "scikit-learn, PyTorch, PyTorch Lightning, TensorFlow
+          Probability, statsmodels, lifelines, tidymodels, brms, Optuna"
+      - label: "Data Engineering & Cloud"
+        details: "Apache Airflow, GitHub/GitLab CI/CD, Docker, Kubernetes,
+          PostgreSQL, BigQuery, AWS, GCP, Azure"
+      - label: "Visualization & Stakeholder Reporting"
+        details: "R Shiny, Quarto, Tableau, Streamlit, Python Dash, ggplot2,
+          Plotly"
+
+
+design:
+  theme: harvard
+  page:
+    size: us-letter
+    top_margin: 0.5in
+    bottom_margin: 0.5in
+    left_margin: 0.5in
+    right_margin: 0.5in
+    show_footer: true
+    show_top_note: false
+  colors:
+    body: rgb(0, 0, 0)
+    name: rgb(0, 0, 0)
+    headline: rgb(0, 0, 0)
+    connections: rgb(0, 0, 0)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(0, 0, 0)
+    footer: rgb(128, 128, 128)
+    top_note: rgb(128, 128, 128)
+  typography:
+    font_family: XCharter
+    line_spacing: 0.6em
+    alignment: left
+    date_and_location_column_alignment: right
+    font_size:
+      body: 10pt
+      name: 25pt
+      headline: 10pt
+      connections: 9pt
+      section_titles: 1.3em
+    bold:
+      name: true
+      headline: false
+      connections: false
+      section_titles: true
+    small_caps:
+      name: false
+      headline: false
+      connections: false
+      section_titles: false
+  links:
+    underline: false
+    show_external_link_icon: false
+  header:
+    alignment: center
+    photo_width: 3.5cm
+    space_below_name: 0.5cm
+    space_below_connections: 0.5cm
+    connections:
+      hyperlink: true
+      show_icons: false
+      display_urls_instead_of_usernames: true
+      separator: •
+      space_between_connections: 0.4cm
+  section_titles:
+    type: centered_with_centered_partial_line
+    line_thickness: 0.5pt
+    space_above: 0.5cm
+    space_below: 0.2cm
+  sections:
+    allow_page_break: true
+    space_between_regular_entries: 1em
+    space_between_text_based_entries: 0.3em
+    show_time_spans_in: []
+  entries:
+    date_and_location_width: 3.5cm
+    side_space: 0.2cm
+    space_between_columns: 0.1cm
+    allow_page_break: true
+    short_second_row: true
+    summary:
+      space_above: 0cm
+      space_left: 0cm
+    highlights:
+      bullet: •
+      nested_bullet: •
+      space_left: 0.15cm
+      space_above: 0cm
+      space_between_items: 0cm
+      space_between_bullet_and_text: 0.5em
+  templates:
+    footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+    top_note: '*LAST_UPDATED CURRENT_DATE*'
+    single_date: MONTH_ABBREVIATION YEAR
+    date_range: START_DATE – END_DATE
+    time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+    one_line_entry:
+      main_column: '**LABEL:** DETAILS'
+    education_entry:
+      main_column: |-
+        **INSTITUTION**, AREA
+        SUMMARY
+        HIGHLIGHTS
+      degree_column: '**DEGREE**'
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    normal_entry:
+      main_column: |-
+        **NAME**
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    experience_entry:
+      main_column: |-
+        **COMPANY**, POSITION
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    publication_entry:
+      main_column: |-
+        **TITLE**
+        SUMMARY
+        AUTHORS
+        URL (JOURNAL)
+      date_and_location_column: DATE
+locale:
+  language: english
+settings:
+  render_command:
+    pdf_path: output\Rachit_Sabharwal_Resume_Amazon_StoresFinanceDS.pdf
+    html_path: output\Rachit_Sabharwal_Resume_Amazon_StoresFinanceDS.html
+    markdown_path: output\Rachit_Sabharwal_Resume_Amazon_StoresFinanceDS.md
+    typst_path: output\Rachit_Sabharwal_Resume_Amazon_StoresFinanceDS.typ
+    png_path: output\Rachit_Sabharwal_Resume_Amazon_StoresFinanceDS.png

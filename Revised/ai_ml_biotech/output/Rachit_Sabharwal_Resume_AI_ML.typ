@@ -81,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 4,
-    day: 20,
+    day: 21,
   ),
 )
 
@@ -174,6 +174,29 @@ Ph.D. Candidate (expected Aug 2026) and 6+ years shipping production models, age
 
 #regular-entry(
   [
+    #strong[The University of Texas Health Science Center at Houston], Research Data Scientist, School of Public Health
+
+    - Dissertation on explainable multimodal deep learning for severe TBI outcome prediction, spanning a systematic review of ML\/DL methods, unimodal deep learning on TBI ICU signals benchmarked against classical-ML baselines, and an XAI multimodal model.
+
+    - Built an agentic LLM pipeline (ellmer, Groq, DeepSeek R1 70B) that migrated the r4epi open textbook from R Markdown to Quarto, chaining file transfer, code reformatting, and grammar transformation.
+
+    - Led a team evaluating LLM feasibility for free-text physician-note classification in DETECT-RPC, informing the project's NLP pipeline design.
+
+    - Cut data-munging turnaround 24x by re-architecting the TexasCARES ETL pipelines; stood up CI\/CD automated reporting that ingests new data weekly, runs quality checks, and publishes stakeholder outputs without manual intervention.
+
+    - Co-authored 4 peer-reviewed publications on SARS-CoV-2 vaccine non-response and pediatric COVID comorbidities using survival analysis, linear mixed models, and other statistical methods on population-based cohorts.
+
+  ],
+  [
+    Houston, TX
+
+    Feb 2020 – present
+
+  ],
+)
+
+#regular-entry(
+  [
     #strong[The Dow Chemical Company], R&D Intern, Machine Learning, Optimization & Statistics (MiLOS), Core R&D
 
     - Benchmarked Bayesian models (Gaussian process regression, Bayesian neural networks, Monte Carlo dropout) against frequentist counterparts across 25+ measurement-error scenarios using UQ calibration metrics.
@@ -187,29 +210,6 @@ Ph.D. Candidate (expected Aug 2026) and 6+ years shipping production models, age
     Lake Jackson, TX
 
     May 2025 – Aug 2025
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[The University of Texas Health Science Center at Houston], Research Data Scientist, School of Public Health
-
-    - Dissertation on explainable multimodal deep learning for severe TBI outcome prediction, spanning a systematic review of ML\/DL methods, unimodal deep learning on TBI ICU signals benchmarked against classical-ML baselines, and an XAI multimodal model.
-
-    - Built an agentic LLM pipeline (ellmer, Groq, DeepSeek R1 70B) that migrated the r4epi open textbook from R Markdown to Quarto, chaining file transfer, code reformatting, and grammar transformation.
-
-    - Led a team evaluating LLM feasibility for free-text physician-note classification in DETECT-RPC, informing the project's NLP pipeline design.
-
-    - Cut data-munging turnaround 24x by re-architecting the TexasCARES ETL pipelines; stood up CI\/CD automated reporting that ingests new data weekly, runs quality checks, and publishes stakeholder outputs without manual intervention.
-
-    - Co-authored 4 peer-reviewed publications on SARS-CoV-2 vaccine non-response and pediatric COVID comorbidities using survival analysis, linear mixed models, and otehr statistical methods on population-based cohorts.
-
-  ],
-  [
-    Houston, TX
-
-    Feb 2020 – Aug 2026
 
   ],
 )

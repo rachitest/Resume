@@ -8,13 +8,13 @@ cv:
       username: rachitest
   sections:
     Professional Summary:
-      - Ph.D. Candidate (expected Aug 2026) and 6+ years developing production
-        models, agentic LLM pipelines, and multimodal deep learning systems
-        across regulated enterprise environments (FDA-regulated biotech,
-        Fortune-50 chemicals, population-health research). Dissertation focuses
-        on explainable multimodal AI for severe TBI outcome prediction.
-        Seeking applied GenAI / LLM R&D roles focused on conversational AI
-        and intelligent digital-assistant development.
+      - Ph.D. candidate (expected Aug 2026) with 6+ years delivering
+        production data systems, predictive and generative AI models, and
+        stakeholder-facing decision-support tools across regulated enterprise
+        settings (chemicals, pharma, CPG, public health). Owns work end-to-end
+        from SQL and ETL through modeling, governance, and dashboards.
+        Hands-on with Python, SQL, LLM agentic pipelines, Bayesian
+        uncertainty quantification, and causal inference.
 
     Education:
       - institution: The University of Texas Health Science Center at Houston
@@ -38,9 +38,6 @@ cv:
         location: Houston, TX
         start_date: 2020-01
         end_date: 2022-05
-        highlights:
-          - "Thesis: BioRec — a biomedical recommendation system for academic
-            conferences and journals"
       - institution: University of Rochester
         area: Environmental Health
         degree: B.S.
@@ -55,48 +52,45 @@ cv:
         start_date: 2020-02
         end_date: present
         highlights:
-          - Dissertation on explainable multimodal deep learning for severe TBI
-            outcome prediction, spanning a systematic review of ML/DL methods,
-            unimodal deep learning on TBI ICU signals benchmarked against
-            classical-ML baselines, and an XAI multimodal model.
-          - Architected an agentic LLM orchestration pipeline (multi-step
-            tool-calling) using ellmer, Groq, and DeepSeek R1 70B to migrate textbooks from R Markdown to Quarto
-          - Applied soft prompt-tuning to adapt the agent to r4epi textbook   conventions, improving formatting accuracy over zero-shot prompting while   chaining file transfer, code reformatting, and grammar transformation.
-          - Designed the multi-site star schema and ETL for the R33 phase of
-            DETECT-RPC, harmonizing clinical records from 6 academic medical
-            centers; led a team prototyping LLM-based free-text physician-note
-            classification, evaluating retrieval-augmented and
-            prompt-engineering strategies to inform the project's NLP pipeline
-            design.
-          - Deployed BioRec as a Streamlit application, making biomedical
-            conference and journal recommendations accessible through an
-            interactive UI — translating a retrieval-system research prototype
-            into a user-facing product.
-          - Cut data-munging turnaround 24x by re-architecting the TexasCARES ETL
-            pipelines; stood up CI/CD automated reporting that ingests new data
-            weekly, runs quality checks, and publishes stakeholder outputs
-            without manual intervention.
-          - Co-authored 4 peer-reviewed publications on SARS-CoV-2 vaccine
-            non-response and pediatric COVID comorbidities using survival
-            analysis, linear mixed models, and other statistical methods on
+          - Dissertation on explainable multimodal deep learning for severe
+            TBI outcome prediction, spanning a PRISMA systematic review,
+            temporal deep models on hourly ICU physiological signals
+            benchmarked against classical-ML baselines, and an explainable
+            multimodal model.
+          - Built an agentic LLM pipeline (ellmer, Groq, DeepSeek R1 70B)
+            that migrated the r4epi open textbook from R Markdown to Quarto,
+            chaining file transfer, code reformatting, and grammar
+            transformation through a prompt-engineered multi-step workflow.
+          - Led a team evaluating LLM feasibility for free-text
+            physician-note classification in DETECT-RPC, informing the
+            project's NLP pipeline design
+          - Stood up CI/CD automated reporting that ingests new data weekly, runs
+            quality checks, and publishes stakeholder outputs
+          - Shipped a public-facing statewide COVID-19 dashboard ingesting case and antibody-survey data continuously,
+            plus internal dashboards giving PIs real-time visibility
+            into multi-site data collection.
+          - Co-authored 4 peer-reviewed publications using survival analysis,
+            linear mixed models, and causal-inference methods on
             population-based cohorts.
-      
-      - company: Dow Chemical
+
+      - company: The Dow Chemical Company
         position: R&D Intern, Machine Learning, Optimization & Statistics
           (MiLOS), Core R&D
         location: Lake Jackson, TX
         start_date: 2025-05
         end_date: 2025-08
         highlights:
-          - Benchmarked Bayesian models (Gaussian process regression, Bayesian
-            neural networks, Monte Carlo dropout) against frequentist counterparts
-            across 25+ measurement-error scenarios using UQ calibration metrics.
-          - Shipped an R Shiny decision-support app automating 50% of enterprise
-            LCA workflows, estimated at $15M in annual cost savings across Dow's
-            global operations.
+          - Benchmarked Bayesian models (Gaussian process regression,
+            Bayesian neural networks, Monte Carlo dropout) against
+            frequentist counterparts across 25+ measurement-error scenarios
+            using PICP, ECE, and CI-width calibration metrics.
+          - Shipped an R Shiny decision-support app automating 50% of
+            enterprise Life Cycle Assessment workflows, estimated at $15M in
+            annual cost savings across Dow's global operations.
           - Authored an internal Bayesian UQ white paper (MiLOS) adopted as
-            organizational guidance for future predictive modeling projects.
-      
+            organizational guidance for future predictive modeling projects,
+            covering validation, calibration, and responsible-AI practices.
+
       - company: Genentech
         position: Informatics R&D Intern, Development Sciences & Informatics
         location: San Francisco, CA
@@ -105,9 +99,9 @@ cv:
         highlights:
           - Reproduced the published GLIT multimodal GNN to benchmark DILI
             prediction, then prototyped an alternative MLP combining ECFP
-            fingerprints with drug diffusion profiles.
-          - Built a document tokenization framework that feeds into downstream
-            NLP annotation and text-mining pipelines.
+            fingerprints with drug diffusion profiles in PyTorch Lightning.
+          - Built a document tokenization framework feeding downstream NLP
+            annotation and text-mining pipelines.
 
       - company: Procter & Gamble
         position: Advanced Analytics Co-Op, Consumer & Market Knowledge
@@ -115,11 +109,13 @@ cv:
         start_date: 2021-01
         end_date: 2021-05
         highlights:
-          - Delivered predictive and explanatory models on shopper and retailer
-            behavior for global Fabric Care brand teams, informing corporate focus
-            shift toward DTC ecommerce.
+          - Delivered predictive and explanatory models on shopper and
+            retailer behavior for global Fabric Care brand teams, informing
+            a corporate focus shift toward DTC ecommerce.
           - Raised cross-functional analyst throughput 1.5x by building GCP
-            big-data ETL pipelines using Apache Airflow.
+            big-data ETL pipelines on Apache Airflow; raised codebase test
+            coverage from 0% to 70% by introducing containerization, unit
+            testing, and agile practices.
 
       - company: Bristol Myers Squibb
         position: Data Engineering Intern
@@ -128,11 +124,12 @@ cv:
         end_date: 2020-08
         highlights:
           - Built PatRec, a full-stack patent recommendations app chaining
-            chemical-entity NER, NCBI federated search, and BERT-based semantic
-            similarity with TF-IDF cosine-similarity ranking to curate relevant
-            patents from an 80M-patent corpus for internal BMS scientists.
+            chemical-entity NER, NCBI federated search, and TF-IDF
+            cosine-similarity ranking to curate relevant patents from an
+            80M-patent corpus for internal BMS scientists.
           - Designed relational (PostgreSQL) and graph (Neo4j) database
-            architectures supporting multiple internal R&D analytical workloads.
+            architectures supporting multiple internal R&D analytical
+            workloads.
 
     Selected Publications:
       - title: Trust and Uncertainty Quantification in Machine Learning
@@ -141,16 +138,17 @@ cv:
           - '**Sabharwal R**'
         date: 2025-08
         journal: The Dow Chemical Company, Internal White Paper
-      - title: Baseline characteristics of SARS-CoV-2 vaccine non-responders
-          in a large population-based sample
+      - title: Long-term immune response to SARS-CoV-2 infection and
+          vaccination in children and adolescents
         authors:
-          - Yaseen A
-          - DeSantis SM
+          - Messiah SE
+          - Talebi Y
+          - Swartz MD
           - '**Sabharwal R**'
           - et al.
-        date: 2024-05
-        doi: 10.1371/journal.pone.0303420
-        journal: PLoS One
+        date: 2023-10
+        doi: 10.1038/s41390-023-02857-y
+        journal: Pediatric Research
       - title: 'Scholarly recommendation systems: a literature survey'
         authors:
           - Zhang Z
@@ -162,22 +160,26 @@ cv:
         journal: Knowledge and Information Systems
 
     Skills:
-      - label: "AI & Machine Learning"
-        details: "LLM Agentic Pipelines, LLM APIs (Groq, Claude, Gemini,
-          OpenAI-compatible), Retrieval-Augmented Generation (RAG), Soft
-          Prompt-Tuning, Knowledge Graphs, Multimodal Deep Learning, Explainable
-          AI, Graph Neural Networks, NLP, Bayesian Inference & UQ, Recommender
-          Systems, Survival Analysis, Mixed Models"
-      - label: "ML/AI Libraries"
-        details: "PyTorch, PyTorch Lightning, Hugging Face (BERT / Transformer
-          fine-tuning), TensorFlow Probability, scikit-learn, tidymodels, brms,
-          Optuna"
+      - label: "Machine Learning & AI"
+        details: "Supervised & Unsupervised ML, Time-Series Forecasting,
+          Multimodal Deep Learning, NLP, LLM Agentic Pipelines, Prompt
+          Engineering, Embeddings & Retrieval, LLM APIs (Groq, Claude,
+          Gemini, OpenAI-compatible), Bayesian Inference & UQ, Causal
+          Inference, Measurement Error Modeling, Explainable & Responsible
+          AI, Recommender Systems, Survival Analysis, Mixed Models"
+      - label: "ML/Stats Libraries"
+        details: "PyTorch, PyTorch Lightning, Hugging Face, TensorFlow
+          Probability, scikit-learn, statsmodels, lifelines, tidymodels,
+          brms, Optuna"
       - label: "Programming & Data"
-        details: "Python (polars, pandas, duckdb), R (data.table, tidyverse,
-          ellmer), SQL, Bash"
-      - label: "MLOps & Cloud"
+        details: "Python (polars, pandas, duckdb), SQL, R (data.table,
+          tidyverse, ellmer), SAS, Bash"
+      - label: "Data Platforms & MLOps"
         details: "Docker, Kubernetes, Apache Airflow, GitHub/GitLab CI/CD,
-          GCP, AWS, Azure, PostgreSQL, Neo4j, BigQuery"
+          GCP, AWS, Azure, BigQuery, PostgreSQL, Neo4j"
+      - label: "Visualization & Reporting"
+        details: "Tableau, R Shiny, Streamlit, Python Dash, Quarto, Plotly,
+          ggplot2"
 
 design:
   theme: harvard
@@ -303,8 +305,8 @@ locale:
   language: english
 settings:
   render_command:
-    pdf_path: output\Rachit_Sabharwal_Resume_CapitalOne_AIFoundations.pdf
-    html_path: output\Rachit_Sabharwal_Resume_CapitalOne_AIFoundations.html
-    markdown_path: output\Rachit_Sabharwal_Resume_CapitalOne_AIFoundations.md
-    typst_path: output\Rachit_Sabharwal_Resume_CapitalOne_AIFoundations.typ
-    png_path: output\Rachit_Sabharwal_Resume_CapitalOne_AIFoundations.png
+    pdf_path: output\Rachit_Sabharwal_Resume_Vanguard_LeadDS.pdf
+    html_path: output\Rachit_Sabharwal_Resume_Vanguard_LeadDS.html
+    markdown_path: output\Rachit_Sabharwal_Resume_Vanguard_LeadDS.md
+    typst_path: output\Rachit_Sabharwal_Resume_Vanguard_LeadDS.typ
+    png_path: output\Rachit_Sabharwal_Resume_Vanguard_LeadDS.png

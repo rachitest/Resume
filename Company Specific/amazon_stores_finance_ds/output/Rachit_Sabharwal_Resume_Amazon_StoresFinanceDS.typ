@@ -67,7 +67,7 @@
   entries-date-and-location-width: 3.5cm,
   entries-side-space: 0.2cm,
   entries-space-between-columns: 0.1cm,
-  entries-allow-page-break: false,
+  entries-allow-page-break: true,
   entries-short-second-row: true,
   entries-degree-width: 1cm,
   entries-summary-space-left: 0cm,
@@ -98,15 +98,15 @@
 
 == Professional Summary
 
-Ph.D. candidate (expected Aug 2026) with 6+ years developing machine learning models, LLM-powered pipelines, and large-scale data systems across biotech, chemicals, and healthcare research. Hands-on with PyTorch, scikit-learn, and Hugging Face for cross-sectional and time-series prediction, feature engineering on raw multimodal data, and LLM prompt engineering. Seeking to apply quantitative ML methodology to alpha signal research.
+Ph.D. Candidate in Epidemiology and Biostatistics (expected Aug 2026) with 6+ years building production forecasting, predictive, and causal models across consumer goods, healthcare, life sciences, and process manufacturing. Work spans shopper and retailer behavioral forecasting on clickstream at P&G, Bayesian uncertainty quantification for high-stakes R&D decisions at Dow (\$15M annual impact), and RNN\/LSTM sequence models on high-frequency longitudinal data. Track record of partnering with finance, engineering, and non-technical stakeholders to ship CI\/CD-backed pipelines and decision-support tools that scale with weekly or continuous data. Interested in applying statistical and causal modeling to drive financial decision-making at scale within Amazon Stores.
 
 == Education
 
 #education-entry(
   [
-    #strong[The University of Texas Health Science Center at Houston], Biostatistics and Epidemiology
+    #strong[The University of Texas Health Science Center at Houston], Epidemiology and Biostatistics
 
-    - Focus: Explainable AI
+    - Focus: Causal Inference, Predictive Modeling, Explainable AI
 
     - Certificates: Advanced Data Science
 
@@ -174,34 +174,32 @@ Ph.D. candidate (expected Aug 2026) with 6+ years developing machine learning mo
 
 #regular-entry(
   [
-    #strong[The University of Texas Health Science Center at Houston], Research Data Scientist
+    #strong[UTHealth Houston, School of Public Health], Research Data Scientist (PhD)
 
-    - Dissertation on explainable multimodal deep learning for severe TBI outcome prediction, spanning a systematic review of ML\/DL methods, time-series deep models on ICU signals (PyTorch Lightning) benchmarked against classical-ML baselines, and a cross-sectional multimodal XAI fusion model.
+    - Trained and benchmarked RNN and LSTM sequence models on high-frequency hourly longitudinal signals against classical-ML baselines (logistic regression, gradient boosting, random forest) for outcome prediction — spanning a PRISMA 2020 systematic review through an explainable multimodal model.
 
-    - Built an agentic LLM pipeline (ellmer, Groq, DeepSeek R1 70B) that migrated the r4epi open textbook from R Markdown to Quarto using a prompt-engineered multi-step chain for file transfer, code reformatting, and grammar transformation.
+    - Cut data-munging turnaround 24x by re-architecting the TexasCARES ETL; stood up CI\/CD automated reporting in Python and R that ingests new data weekly, runs quality checks, and publishes stakeholder outputs without manual intervention, backed by a full lifecycle test suite.
 
-    - Led a team evaluating LLM feasibility for free-text physician-note classification in DETECT-RPC, informing the project's NLP pipeline design.
+    - Designed the multi-site star schema and SQL ETL for the R33 phase of DETECT-RPC, harmonizing records from 6 sites, and built a Quarto dashboard giving principal investigators real-time visibility into data collection progress.
 
-    - Cut data-munging turnaround 24x by re-architecting the TexasCARES ETL pipelines; stood up CI\/CD automated reporting that ingests new data weekly, runs quality checks, and publishes stakeholder outputs without manual intervention.
-
-    - Co-authored 4 peer-reviewed publications on SARS-CoV-2 vaccine non-response and pediatric COVID comorbidities using survival analysis, linear mixed models, and other statistical methods on population-based cohorts.
+    - Co-authored 4 peer-reviewed publications using survival analysis, linear mixed models, and causal methods on large population-based cohorts; supervised 2 M.S. analysts and led a 2-person teaching team for PH 1976 (Fundamentals of Data Analytics and Predictions).
 
   ],
   [
     Houston, TX
 
-    Feb 2020 – Aug 2026
+    Aug 2022 – Aug 2026
 
   ],
 )
 
 #regular-entry(
   [
-    #strong[The Dow Chemical Company], ML R&D Intern
+    #strong[The Dow Chemical Company], ML R&D Intern, Machine Learning, Optimization & Statistics (MiLOS), Core R&D
 
-    - Benchmarked Bayesian models (Gaussian process regression, Bayesian neural networks, Monte Carlo dropout) against frequentist counterparts across 25+ measurement-error scenarios using UQ calibration metrics.
+    - Shipped an R Shiny decision-support app that automated 50\% of enterprise Life Cycle Assessment workflows, estimated at \$15M in annual cost savings across Dow's global operations, and presented results to technical and non-technical stakeholders across R&D and commercial functions.
 
-    - Shipped an R Shiny decision-support app automating 50\% of enterprise LCA workflows, estimated at \$15M in annual cost savings across Dow's global operations.
+    - Benchmarked Bayesian forecasting models (Gaussian process regression, Bayesian neural networks, Monte Carlo dropout) against frequentist counterparts across 25+ measurement-error scenarios using PICP, ECE, and CI-width calibration metrics to quantify model reliability for high-stakes capital and R&D decisions.
 
     - Authored an internal Bayesian UQ white paper (MiLOS) adopted as organizational guidance for future predictive modeling projects.
 
@@ -216,51 +214,51 @@ Ph.D. candidate (expected Aug 2026) with 6+ years developing machine learning mo
 
 #regular-entry(
   [
-    #strong[Genentech], Informatics R&D Intern
+    #strong[UTHealth Houston, School of Public Health], Research Data Scientist (MS)
 
-    - Reproduced the published GLIT multimodal GNN to benchmark DILI prediction, then prototyped an alternative MLP combining ECFP fingerprints with drug diffusion profiles, implemented in PyTorch with full train\/test methodology.
+    - Shipped and maintained a public-facing statewide COVID-19 dashboard (Python, Tableau) ingesting case and antibody survey data continuously, and translated model outputs into narratives for non-technical public and state-agency audiences.
 
-    - Built a document tokenization framework feeding downstream NLP annotation and text-mining pipelines.
+    - Engineered ETL pipelines for TexasCARES handling PII with quality controls from ingestion through publication, supporting downstream modeling and reporting workloads.
+
+  ],
+  [
+    Houston, TX
+
+    Feb 2020 – May 2022
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Procter & Gamble], Advanced Analytics Co-Op, Consumer & Market Knowledge
+
+    - Delivered predictive and explanatory models forecasting shopper and retailer behavior from large-scale clickstream data for global Fabric Care brand teams, directly informing corporate strategy and investment decisions around DTC ecommerce.
+
+    - Raised cross-functional analyst throughput 1.5x by building GCP big-data ETL pipelines on Apache Airflow, partnering across data engineering, analytics, and brand stakeholders.
+
+    - Raised codebase test coverage from 0\% to 70\% by introducing containerization, unit testing, and agile practices to support production-grade model deployment.
+
+  ],
+  [
+    Cincinnati, OH
+
+    Jan 2021 – Apr 2021
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Genentech], Informatics Intern, Development Sciences & Informatics
+
+    - Reproduced the published GLIT multimodal GNN on DILI benchmarks, then prototyped a lower-complexity MLP over ECFP fingerprints and drug diffusion profiles in PyTorch Lightning to test whether model complexity could be reduced without meaningfully hurting predictive performance — framing a parsimony-vs-accuracy tradeoff for downstream stakeholders.
 
   ],
   [
     San Francisco, CA
 
     May 2021 – Jan 2022
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[Procter & Gamble], Advanced Analytics Co-Op
-
-    - Delivered predictive and explanatory models on shopper and retailer behavior for global Fabric Care brand teams, informing a corporate focus shift toward DTC ecommerce.
-
-    - Raised cross-functional analyst throughput 1.5x by building GCP big-data ETL pipelines on Apache Airflow.
-
-  ],
-  [
-    Cincinnati, OH
-
-    Jan 2021 – May 2021
-
-  ],
-)
-
-#regular-entry(
-  [
-    #strong[Bristol Myers Squibb], Data Engineering Intern
-
-    - Built PatRec, a full-stack patent recommendations app chaining chemical-entity NER, NCBI federated search, and TF-IDF cosine-similarity ranking to curate relevant patents from an 80M-patent corpus for internal BMS scientists.
-
-    - Designed relational (PostgreSQL) and graph (Neo4j) database architectures supporting multiple internal R&D analytical workloads.
-
-  ],
-  [
-    San Francisco, CA
-
-    June 2020 – Aug 2020
 
   ],
 )
@@ -297,29 +295,14 @@ Ph.D. candidate (expected Aug 2026) with 6+ years developing machine learning mo
   ],
 )
 
-#regular-entry(
-  [
-    #strong[Scholarly recommendation systems: a literature survey]
-
-    Zhang Z, Patra BG, #strong[Sabharwal R], et al.
-
-    #link("https://doi.org/10.1007/s10115-023-01901-x")[10.1007\/s10115-023-01901-x] (Knowledge and Information Systems)
-
-  ],
-  [
-    June 2023
-
-  ],
-)
-
 == Skills
 
-#strong[Machine Learning:] Cross-sectional & Time-Series Prediction, Multimodal Deep Learning, Graph Neural Networks, NLP, LLM Agentic Pipelines, Prompt Engineering, LLM APIs (Groq, Claude, Gemini, OpenAI-compatible), Bayesian Inference & Uncertainty Quantification, Explainable AI, Recommender Systems, Survival Analysis, Mixed Models
+#strong[Modeling & Statistics:] Forecasting, Time-Series Sequence Modeling (RNN, LSTM), Predictive Modeling, Causal Inference, Survival Analysis, Linear & Generalized Linear Mixed Models, Bayesian Inference & Uncertainty Quantification (Gaussian Processes, BNNs, MC Dropout), Measurement Error Modeling, Explainable AI
 
-#strong[ML\/AI Libraries:] PyTorch, PyTorch Lightning, scikit-learn, Hugging Face, TensorFlow Probability, tidymodels, brms, Optuna
+#strong[Programming & Querying:] SQL, Python (polars, pandas, duckdb), R (data.table, tidyverse), SAS, Bash
 
-#strong[Programming & Data:] Python (NumPy, polars, pandas, duckdb), R (data.table, tidyverse, ellmer), SQL, Bash
+#strong[ML\/Stats Libraries:] scikit-learn, PyTorch, PyTorch Lightning, TensorFlow Probability, statsmodels, lifelines, tidymodels, brms, Optuna
 
-#strong[Data Engineering & Infra:] Apache Airflow, Docker, Kubernetes, GitHub\/GitLab CI\/CD, GCP, AWS, Azure, PostgreSQL, Neo4j, BigQuery
+#strong[Data Engineering & Cloud:] Apache Airflow, GitHub\/GitLab CI\/CD, Docker, Kubernetes, PostgreSQL, BigQuery, AWS, GCP, Azure
 
-#strong[Citizenship:] US Citizen
+#strong[Visualization & Stakeholder Reporting:] R Shiny, Quarto, Tableau, Streamlit, Python Dash, ggplot2, Plotly

@@ -171,6 +171,8 @@ cv:
       - label: "Data Engineering & Infra"
         details: "Apache Airflow, Docker, Kubernetes, GitHub/GitLab CI/CD,
           GCP, AWS, Azure, PostgreSQL, Neo4j, BigQuery"
+      - label: "Citizenship"
+        details: "US Citizen"
 
 design:
   theme: harvard

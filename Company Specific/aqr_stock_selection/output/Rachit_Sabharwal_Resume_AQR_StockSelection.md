@@ -170,3 +170,5 @@ Zhang Z, Patra BG, **Sabharwal R**, et al.
 **Programming & Data:** Python (NumPy, polars, pandas, duckdb), R (data.table, tidyverse, ellmer), SQL, Bash
 
 **Data Engineering & Infra:** Apache Airflow, Docker, Kubernetes, GitHub/GitLab CI/CD, GCP, AWS, Azure, PostgreSQL, Neo4j, BigQuery
+
+**Citizenship:** US Citizen

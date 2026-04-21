@@ -15,7 +15,9 @@
       "Bash(curl -sS -k \"https://boards-api.greenhouse.io/v1/boards/aqr/jobs/7728026\")",
       "Bash(curl -sS -k \"https://boards-api.greenhouse.io/v1/boards/aqrcapitalmanagement/jobs/7728026\")",
       "Bash(curl -sS -k https://boards-api.greenhouse.io/v1/boards/aqr/jobs/__TRACKED_VAR__)",
-      "WebFetch(domain:www.capitalonecareers.com)"
+      "WebFetch(domain:www.capitalonecareers.com)",
+      "WebFetch(domain:www.amazon.jobs)",
+      "Bash(rendercv render *)"
     ]
   },
   "model": "opusplan"

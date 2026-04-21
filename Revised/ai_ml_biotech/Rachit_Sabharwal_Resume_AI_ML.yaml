@@ -44,27 +44,11 @@ cv:
         end_date: 2018-05
 
     Experience:
-      - company: The Dow Chemical Company
-        position: R&D Intern, Machine Learning, Optimization & Statistics
-          (MiLOS), Core R&D
-        location: Lake Jackson, TX
-        start_date: 2025-05
-        end_date: 2025-08
-        highlights:
-          - Benchmarked Bayesian models (Gaussian process regression, Bayesian
-            neural networks, Monte Carlo dropout) against frequentist counterparts
-            across 25+ measurement-error scenarios using UQ calibration metrics.
-          - Shipped an R Shiny decision-support app automating 50% of enterprise
-            LCA workflows, estimated at $15M in annual cost savings across Dow's
-            global operations.
-          - Authored an internal Bayesian UQ white paper (MiLOS) adopted as
-            organizational guidance for future predictive modeling projects.
-
       - company: The University of Texas Health Science Center at Houston
         position: Research Data Scientist, School of Public Health
         location: Houston, TX
         start_date: 2020-02
-        end_date: 2026-08
+        end_date: present
         highlights:
           - Dissertation on explainable multimodal deep learning for severe TBI
             outcome prediction, spanning a systematic review of ML/DL methods, 
@@ -84,6 +68,22 @@ cv:
             non-response and pediatric COVID comorbidities using survival 
             analysis, linear mixed models, and other statistical methods on
             population-based cohorts.
+
+      - company: The Dow Chemical Company
+        position: R&D Intern, Machine Learning, Optimization & Statistics
+          (MiLOS), Core R&D
+        location: Lake Jackson, TX
+        start_date: 2025-05
+        end_date: 2025-08
+        highlights:
+          - Benchmarked Bayesian models (Gaussian process regression, Bayesian
+            neural networks, Monte Carlo dropout) against frequentist counterparts
+            across 25+ measurement-error scenarios using UQ calibration metrics.
+          - Shipped an R Shiny decision-support app automating 50% of enterprise
+            LCA workflows, estimated at $15M in annual cost savings across Dow's
+            global operations.
+          - Authored an internal Bayesian UQ white paper (MiLOS) adopted as
+            organizational guidance for future predictive modeling projects.
 
       - company: Genentech
         position: Informatics R&D Intern, Development Sciences & Informatics
