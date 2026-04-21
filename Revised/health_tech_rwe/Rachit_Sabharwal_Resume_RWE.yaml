@@ -1,0 +1,380 @@
+cv:
+  name: Rachit Sabharwal
+  location: Cypress, Texas
+  phone: tel:+1 585-281-1928
+  email: rachit-sabharwal@outlook.com
+  social_networks:
+    - network: GitHub
+      username: rachitest
+  sections:
+    Professional Summary:
+      - Ph.D. candidate (expected Aug 2026, UTHealth) with
+        6+ years generating real-world evidence from EHR, claims, and survey
+        data. Deep expertise in causal inference, biostatistics, and ML
+        applied to clinical outcomes research including vaccine effectiveness,
+        pediatric comorbidities, and disability in AYA populations. Published
+        in Frontiers in Pediatrics, PLoS One, and Pediatric Research.
+
+    Education:
+      - institution: The University of Texas Health Science Center at Houston
+        area: Epidemiology and Biostatistics
+        degree: Ph.D.
+        location: Houston, TX
+        start_date: 2022-08
+        end_date: 2026-08
+        highlights:
+          - "Certificates: Advanced Data Science"
+      - institution: The University of California, Berkeley
+        area: Software Development and Programming
+        degree: Cert.
+        location: Berkeley, CA
+        start_date: 2023-06
+        end_date: 2025-04
+      - institution: The University of Texas Health Science Center at Houston
+        area: Biostatistics
+        degree: M.S.
+        location: Houston, TX
+        start_date: 2020-01
+        end_date: 2022-05
+        highlights:
+          - "Thesis: BioRec, a biomedical recommendation system for academic
+            conferences and journals"
+          - "Certificates: Data Science"
+      - institution: University of Rochester
+        area: Environmental Health
+        degree: B.S.
+        location: Rochester, NY
+        start_date: 2014-09
+        end_date: 2018-05
+        highlights:
+          - "Minor: Psychology"
+
+    Experience:
+      - company: The University of Texas Health Science Center at Houston
+        position: Data Scientist & Epidemiologist, School of Public Health
+          (TXCares, DETECT-RPC, Disability in AYA R01)
+        location: Houston, TX
+        start_date: 2022-09
+        end_date: 2026-08
+        highlights:
+          - Co-authored 4 peer-reviewed publications on SARS-CoV-2 vaccine
+            non-response and pediatric COVID comorbidities (2 under review)
+            using survival analysis, mixed models, and tidymodels on
+            population-based cohorts.
+          - Designed the multi-site star schema and ETL for the R33 phase of
+            DETECT-RPC, supervising 2 M.S. students while harmonizing
+            clinical records from 6 academic medical centers (UCSF, UAB,
+            UTSW, JHU, UTH, BCM).
+          - Contributed quantitative analyses on EHR and claims data to an
+            R01 grant proposal on disability in adolescents and young adults.
+          - Cut data-munging turnaround 24x by re-architecting the TXCares
+            ETL, directing 2 M.S. students through the rebuild and freeing
+            the team to iterate on models weekly instead of monthly.
+
+      - company: The University of Texas Health Science Center at Houston
+        position: Graduate Research Assistant, School of Public Health
+          (TXCares, M.S.)
+        location: Houston, TX
+        start_date: 2020-02
+        end_date: 2022-08
+        highlights:
+          - Shipped and maintained a public-facing statewide COVID-19
+            dashboard (Python, Tableau) for the Texas COVID-19 Dashboard
+            Project, ingesting case and antibody survey data continuously.
+          - Engineered ETL pipelines for the Texas Coronavirus Antibody
+            Response Survey handling PII with quality controls from
+            ingestion to publication.
+
+      - company: The Dow Chemical Company
+        position: R&D Intern, Machine Learning, Optimization & Statistics
+          (MiLOS), Core R&D
+        location: Lake Jackson, TX
+        start_date: 2025-05
+        end_date: 2025-08
+        highlights:
+          - Authored an internal Bayesian UQ white paper adopted by the
+            MiLOS team as organizational guidance for future predictive
+            modeling projects.
+          - Shipped an R Shiny decision-support app automating 50% of
+            enterprise LCA workflows, estimated at $15M in annual cost
+            savings.
+
+      - company: Genentech
+        position: Informatics R&D Intern, Development Sciences & Informatics
+        location: San Francisco, CA
+        start_date: 2021-05
+        end_date: 2022-01
+        highlights:
+          - Reproduced the published GLIT multimodal model to benchmark DILI
+            prediction, then prototyped an alternative MLP combining ECFP
+            fingerprints with drug diffusion profiles (PyTorch Lightning).
+          - Contributed to an internal Neo4j knowledge graph of drug-gene
+            interactions used by R&D teams for therapeutic signature work.
+
+      - company: Bristol Myers Squibb
+        position: Data Engineering Intern
+        location: San Francisco, CA
+        start_date: 2020-06
+        end_date: 2020-08
+        highlights:
+          - Built PatRec, a full-stack patent recommendations app chaining
+            chemical-entity NER, NCBI federated search, and TF-IDF
+            cosine-similarity ranking to curate relevant patents from an
+            80M-patent corpus for internal BMS scientists.
+          - Designed relational (PostgreSQL) and graph (Neo4j) database
+            architectures supporting multiple internal R&D analytical
+            workloads.
+
+    Publications:
+      - title: Factors associated with elevated SARS-CoV-2 immune response
+          in children and adolescents
+        authors:
+          - Messiah SE
+          - Abbas R
+          - Bergqvist E
+          - Swartz MD
+          - Talebi Y
+          - '**Sabharwal R**'
+          - Han H
+          - Valerio-Shewmaker MA
+          - DeSantis SM
+          - Yaseen A
+          - Gandhi HA
+          - Amavisca XF
+          - Ross JA
+          - Padilla LN
+          - Gonzalez MO
+          - Wu L
+          - Silberman MA
+          - Lakey D
+          - Shuford JA
+          - Pont SJ
+          - Boerwinkle E
+        date: 2024-08
+        doi: 10.3389/fped.2024.1393321
+        journal: Frontiers in Pediatrics
+      - title: Baseline characteristics of SARS-CoV-2 vaccine non-responders
+          in a large population-based sample
+        authors:
+          - Yaseen A
+          - DeSantis SM
+          - '**Sabharwal R**'
+          - Talebi Y
+          - Swartz MD
+          - Zhang S
+          - Leon Novelo L
+          - Pinzon-Gomez CL
+          - Messiah SE
+          - Valerio-Shewmaker M
+          - Kohl HW 3rd
+          - Ross J
+          - Lakey D
+          - Shuford JA
+          - Pont SJ
+          - Boerwinkle E
+        date: 2024-05
+        doi: 10.1371/journal.pone.0303420
+        journal: PLoS One
+      - title: An Interactive Online Dashboard with COVID-19 Trends and Data
+          Analysis in Northeast and South Texas
+        authors:
+          - Zhang Z
+          - '**Sabharwal R**'
+          - Lee M
+          - Zhang K
+          - McGaha P
+          - Crum M
+          - Bauer C
+          - Fisher-Hoch SP
+          - McCormick JB
+          - Reininger BM
+          - Thomas S
+          - Guajardo E
+          - Pinon D
+          - Yaseen A
+        date: 2024-04
+        url: https://research.ebsco.com/linkprocessor/plink?id=894625e1-7146-30bf-aa2c-9f5637dac41e
+        journal: Texas Public Health Journal
+      - title: Long-term immune response to SARS-CoV-2 infection and
+          vaccination in children and adolescents
+        authors:
+          - Messiah SE
+          - Talebi Y
+          - Swartz MD
+          - '**Sabharwal R**'
+          - Han H
+          - Bergqvist E
+          - Kohl HW 3rd
+          - Valerio-Shewmaker M
+          - DeSantis SM
+          - Yaseen A
+          - Kelder SH
+          - Ross J
+          - Padilla LN
+          - Gonzalez MO
+          - Wu L
+          - Lakey D
+          - Shuford JA
+          - Pont SJ
+          - Boerwinkle E
+        date: 2023-10
+        doi: 10.1038/s41390-023-02857-y
+        journal: Pediatric Research
+      - title: 'Scholarly recommendation systems: a literature survey'
+        authors:
+          - Zhang Z
+          - Patra BG
+          - Yaseen A
+          - Zhu J
+          - '**Sabharwal R**'
+          - Roberts K
+          - Cao T
+          - Wu H
+        date: 2023-06
+        doi: 10.1007/s10115-023-01901-x
+        journal: Knowledge and Information Systems
+
+    Skills:
+      - label: "Epidemiology & Biostatistics"
+        details: "Causal Inference, Survival Analysis, Mixed Models, Logistic
+          Regression, Survey Analysis, Real-World Evidence (RWE), SAS, R
+          (tidyverse, tidymodels, survival), Python (statsmodels, lifelines)"
+      - label: "Data Engineering & Infrastructure"
+        details: "ETL Pipeline Design, CI/CD, Docker, Git/GitHub, PostgreSQL,
+          SQLite, REDCap (REDCapR), Apache Airflow, GCP, BigQuery"
+      - label: "Machine Learning & AI"
+        details: "Scikit-learn, PyTorch, Hugging Face, Graph Neural Networks,
+          NLP, Bayesian Inference, TensorFlow Probability"
+      - label: "Visualization & Reporting"
+        details: "R Shiny, Quarto, Tableau, ggplot2, Plotly, highcharter,
+          Python Dash"
+
+design:
+  theme: harvard
+  page:
+    size: us-letter
+    top_margin: 0.5in
+    bottom_margin: 0.5in
+    left_margin: 0.5in
+    right_margin: 0.5in
+    show_footer: true
+    show_top_note: false
+  colors:
+    body: rgb(0, 0, 0)
+    name: rgb(0, 0, 0)
+    headline: rgb(0, 0, 0)
+    connections: rgb(0, 0, 0)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(0, 0, 0)
+    footer: rgb(128, 128, 128)
+    top_note: rgb(128, 128, 128)
+  typography:
+    font_family: XCharter
+    line_spacing: 0.6em
+    alignment: left
+    date_and_location_column_alignment: right
+    font_size:
+      body: 10pt
+      name: 25pt
+      headline: 10pt
+      connections: 9pt
+      section_titles: 1.3em
+    bold:
+      name: true
+      headline: false
+      connections: false
+      section_titles: true
+    small_caps:
+      name: false
+      headline: false
+      connections: false
+      section_titles: false
+  links:
+    underline: false
+    show_external_link_icon: false
+  header:
+    alignment: center
+    photo_width: 3.5cm
+    space_below_name: 0.5cm
+    space_below_connections: 0.5cm
+    connections:
+      hyperlink: true
+      show_icons: false
+      display_urls_instead_of_usernames: true
+      separator: •
+      space_between_connections: 0.4cm
+  section_titles:
+    type: centered_with_centered_partial_line
+    line_thickness: 0.5pt
+    space_above: 0.5cm
+    space_below: 0.2cm
+  sections:
+    allow_page_break: true
+    space_between_regular_entries: 1em
+    space_between_text_based_entries: 0.3em
+    show_time_spans_in: []
+  entries:
+    date_and_location_width: 3.5cm
+    side_space: 0.2cm
+    space_between_columns: 0.1cm
+    allow_page_break: false
+    short_second_row: true
+    summary:
+      space_above: 0cm
+      space_left: 0cm
+    highlights:
+      bullet: •
+      nested_bullet: •
+      space_left: 0.15cm
+      space_above: 0cm
+      space_between_items: 0cm
+      space_between_bullet_and_text: 0.5em
+  templates:
+    footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+    top_note: '*LAST_UPDATED CURRENT_DATE*'
+    single_date: MONTH_ABBREVIATION YEAR
+    date_range: START_DATE – END_DATE
+    time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+    one_line_entry:
+      main_column: '**LABEL:** DETAILS'
+    education_entry:
+      main_column: |-
+        **INSTITUTION**, AREA
+        SUMMARY
+        HIGHLIGHTS
+      degree_column: '**DEGREE**'
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    normal_entry:
+      main_column: |-
+        **NAME**
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    experience_entry:
+      main_column: |-
+        **COMPANY**, POSITION
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    publication_entry:
+      main_column: |-
+        **TITLE**
+        SUMMARY
+        AUTHORS
+        URL (JOURNAL)
+      date_and_location_column: DATE
+locale:
+  language: english
+settings:
+  render_command:
+    pdf_path: output\Rachit_Sabharwal_Resume_RWE.pdf
+    html_path: output\Rachit_Sabharwal_Resume_RWE.html
+    markdown_path: output\Rachit_Sabharwal_Resume_RWE.md
+    typst_path: output\Rachit_Sabharwal_Resume_RWE.typ
+    png_path: output\Rachit_Sabharwal_Resume_RWE.png

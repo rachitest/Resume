@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(uv pip:*)",
+      "Bash(uv run python -c ':*)",
+      "Bash(uv run:*)",
+      "Bash(uv add:*)",
+      "Bash(python -c \"from docx import Document; d=Document\\('TBI 2.0 Technical Review - Roadmap.docx'\\); print\\('\\\\n'.join\\(p.text for p in d.paragraphs if p.text.strip\\(\\)\\)\\)\")",
+      "Bash(cd /tmp)",
+      "Bash(cp \"E:/Dell_Desktop/Documents/UTHSC Biostats/Dissertation/Aim 1/TBI 2.0 Technical Review - Roadmap.docx\" roadmap.zip)",
+      "Bash(unzip -p roadmap.zip word/document.xml)",
+      "Bash(python -c \"import sys,re; t=sys.stdin.read\\(\\); t=re.sub\\(r'<[^>]+>',' ',t\\); t=re.sub\\(r'\\\\s+',' ',t\\); print\\(t[:3000]\\)\")",
+      "WebFetch(domain:careers.aqr.com)",
+      "WebFetch(domain:boards-api.greenhouse.io)",
+      "Bash(curl -sS -k \"https://boards-api.greenhouse.io/v1/boards/aqr/jobs/7728026\")",
+      "Bash(curl -sS -k \"https://boards-api.greenhouse.io/v1/boards/aqrcapitalmanagement/jobs/7728026\")",
+      "Bash(curl -sS -k https://boards-api.greenhouse.io/v1/boards/aqr/jobs/__TRACKED_VAR__)",
+      "WebFetch(domain:www.capitalonecareers.com)"
+    ]
+  },
+  "model": "opusplan"
+}

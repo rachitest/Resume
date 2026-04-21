@@ -1,0 +1,288 @@
+cv:
+  name: Rachit Sabharwal
+  location: Cypress, Texas
+  phone: tel:+1 585-281-1928
+  email: rachit-sabharwal@outlook.com
+  social_networks:
+    - network: GitHub
+      username: rachitest
+  sections:
+    Professional Summary:
+      - Ph.D. candidate (expected Aug 2026)
+        with 6+ years translating complex data into decisions across
+        healthcare, life sciences, CPG, and chemicals. Builds quantitative
+        frameworks, leads cross-functional analytical teams, and delivers
+        client-facing outputs ranging from dashboards and white papers to
+        multi-million-dollar grant proposals.
+
+    Education:
+      - institution: The University of Texas Health Science Center at Houston
+        area: Epidemiology and Biostatistics
+        degree: Ph.D.
+        location: Houston, TX
+        start_date: 2022-08
+        end_date: 2026-08
+        highlights:
+          - "Minor: Health Economics"
+          - "Certificates: Advanced Data Science"
+      - institution: The University of California, Berkeley
+        area: Software Development and Programming
+        degree: Cert.
+        location: Berkeley, CA
+        start_date: 2023-06
+        end_date: 2025-04
+      - institution: The University of Texas Health Science Center at Houston
+        area: Biostatistics
+        degree: M.S.
+        location: Houston, TX
+        start_date: 2020-01
+        end_date: 2022-05
+        highlights:
+          - "Certificates: Data Science"
+      - institution: University of Rochester
+        area: Environmental Health
+        degree: B.S.
+        location: Rochester, NY
+        start_date: 2014-09
+        end_date: 2018-05
+
+    Experience:
+      - company: The Dow Chemical Company
+        position: R&D Intern, Machine Learning, Optimization & Statistics
+          (MiLOS), Core R&D
+        location: Lake Jackson, TX
+        start_date: 2025-05
+        end_date: 2025-08
+        highlights:
+          - Shipped an R Shiny decision-support app automating 50% of
+            enterprise LCA workflows, estimated at $15M in annual cost
+            savings, handed directly to stakeholders at project close.
+          - Authored an internal Bayesian UQ white paper adopted by the
+            MiLOS team as organizational guidance for future modeling work.
+          - Benchmarked a Bayesian neural network across 25+ measurement-error
+            scenarios, translating calibration results into guidance for
+            leadership decisions on real-world simulations.
+
+      - company: The University of Texas Health Science Center at Houston
+        position: Research Consultant & Scientist, School of Public Health
+          (TXCares, DETECT-RPC, Disability in AYA R01)
+        location: Houston, TX
+        start_date: 2022-09
+        end_date: 2026-08
+        highlights:
+          - Contributed quantitative analyses on EHR and claims data to an
+            R01 grant proposal on disability in adolescents and young adults,
+            directing 2 M.S. students through data preparation and analysis.
+          - Designed the multi-site star schema and ETL for the R33 phase of
+            DETECT-RPC, supervising 2 M.S. students while harmonizing
+            clinical records from 6 academic medical centers.
+          - Led a 2-person TA team for PH 1976 (Fundamentals of Data
+            Analytics and Predictions, 2025), managing course delivery and
+            assessment for a graduate analytics cohort.
+          - Stood up CI/CD automated reporting that ingests new data weekly,
+            runs quality checks, and publishes stakeholder outputs without
+            manual intervention.
+
+      - company: Procter & Gamble
+        position: Advanced Analytics Co-Op, Consumer & Market Knowledge
+        location: Cincinnati, OH
+        start_date: 2021-01
+        end_date: 2021-05
+        highlights:
+          - Delivered predictive and explanatory models on shopper and
+            retailer behavior for global Fabric Care brand teams, shifting
+            corporate focus toward DTC ecommerce.
+          - Raised cross-functional analyst throughput 1.5x by building GCP
+            big-data ETL pipelines using Apache Airflow.
+
+      - company: Genentech
+        position: Informatics R&D Intern, Development Sciences & Informatics
+        location: San Francisco, CA
+        start_date: 2021-05
+        end_date: 2022-01
+        highlights:
+          - Built a document tokenization framework that feeds Genentech's
+            internal NLP annotation and text-mining pipelines.
+          - Contributed to an internal Neo4j knowledge graph of drug-gene
+            interactions used by R&D teams for therapeutic signature work.
+
+      - company: Bristol Myers Squibb
+        position: Data Engineering Intern
+        location: San Francisco, CA
+        start_date: 2020-06
+        end_date: 2020-08
+        highlights:
+          - Built PatRec, a full-stack patent recommendations app chaining
+            chemical-entity NER, NCBI federated search, and TF-IDF
+            cosine-similarity ranking for internal BMS scientists.
+          - Designed relational (PostgreSQL) and graph (Neo4j) database
+            architectures supporting multiple internal R&D analytical
+            workloads.
+
+    Publications:
+      - title: Trust and Uncertainty Quantification in Machine Learning
+          Models Under Measurement Error
+        authors:
+          - '**Sabharwal R**'
+        date: 2025-08
+        journal: The Dow Chemical Company, Internal White Paper
+      - title: 'Data Cleaning for eCommerce: Standardizing Data Handling
+          Practices for eCommerce Datasets'
+        authors:
+          - '**Sabharwal R**'
+        date: 2021-05
+        journal: Procter & Gamble, Internal White Paper
+      - title: Factors associated with elevated SARS-CoV-2 immune response
+          in children and adolescents
+        authors:
+          - Messiah SE
+          - '**Sabharwal R**'
+          - et al.
+        date: 2024-08
+        doi: 10.3389/fped.2024.1393321
+        journal: Frontiers in Pediatrics
+
+    Skills:
+      - label: "Analytics & Quantitative Methods"
+        details: "Bayesian Inference & UQ, Causal Inference, Predictive
+          Modeling, Regression, Survival Analysis, Mixed Models, Scikit-learn,
+          tidymodels, R (brms, tidyverse), Python (statsmodels)"
+      - label: "Programming & Data"
+        details: "Python, R, SQL, SAS, GCP, AWS, PostgreSQL, Apache Airflow,
+          Docker, Git/GitHub"
+      - label: "Visualization & Reporting"
+        details: "R Shiny, Quarto, Tableau, ggplot2, Plotly, white papers,
+          grant writing (R01), executive reporting"
+      - label: "Domain"
+        details: "Real-World Evidence (EHR, claims, survey), Healthcare
+          Economics, Life Cycle Assessment, CPG Analytics"
+
+design:
+  theme: harvard
+  page:
+    size: us-letter
+    top_margin: 0.5in
+    bottom_margin: 0.5in
+    left_margin: 0.5in
+    right_margin: 0.5in
+    show_footer: true
+    show_top_note: false
+  colors:
+    body: rgb(0, 0, 0)
+    name: rgb(0, 0, 0)
+    headline: rgb(0, 0, 0)
+    connections: rgb(0, 0, 0)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(0, 0, 0)
+    footer: rgb(128, 128, 128)
+    top_note: rgb(128, 128, 128)
+  typography:
+    font_family: XCharter
+    line_spacing: 0.6em
+    alignment: left
+    date_and_location_column_alignment: right
+    font_size:
+      body: 10pt
+      name: 25pt
+      headline: 10pt
+      connections: 9pt
+      section_titles: 1.3em
+    bold:
+      name: true
+      headline: false
+      connections: false
+      section_titles: true
+    small_caps:
+      name: false
+      headline: false
+      connections: false
+      section_titles: false
+  links:
+    underline: false
+    show_external_link_icon: false
+  header:
+    alignment: center
+    photo_width: 3.5cm
+    space_below_name: 0.5cm
+    space_below_connections: 0.5cm
+    connections:
+      hyperlink: true
+      show_icons: false
+      display_urls_instead_of_usernames: true
+      separator: •
+      space_between_connections: 0.4cm
+  section_titles:
+    type: centered_with_centered_partial_line
+    line_thickness: 0.5pt
+    space_above: 0.5cm
+    space_below: 0.2cm
+  sections:
+    allow_page_break: true
+    space_between_regular_entries: 1em
+    space_between_text_based_entries: 0.3em
+    show_time_spans_in: []
+  entries:
+    date_and_location_width: 3.5cm
+    side_space: 0.2cm
+    space_between_columns: 0.1cm
+    allow_page_break: false
+    short_second_row: true
+    summary:
+      space_above: 0cm
+      space_left: 0cm
+    highlights:
+      bullet: •
+      nested_bullet: •
+      space_left: 0.15cm
+      space_above: 0cm
+      space_between_items: 0cm
+      space_between_bullet_and_text: 0.5em
+  templates:
+    footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+    top_note: '*LAST_UPDATED CURRENT_DATE*'
+    single_date: MONTH_ABBREVIATION YEAR
+    date_range: START_DATE – END_DATE
+    time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+    one_line_entry:
+      main_column: '**LABEL:** DETAILS'
+    education_entry:
+      main_column: |-
+        **INSTITUTION**, AREA
+        SUMMARY
+        HIGHLIGHTS
+      degree_column: '**DEGREE**'
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    normal_entry:
+      main_column: |-
+        **NAME**
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    experience_entry:
+      main_column: |-
+        **COMPANY**, POSITION
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    publication_entry:
+      main_column: |-
+        **TITLE**
+        SUMMARY
+        AUTHORS
+        URL (JOURNAL)
+      date_and_location_column: DATE
+locale:
+  language: english
+settings:
+  render_command:
+    pdf_path: output\Rachit_Sabharwal_Resume_Consulting.pdf
+    html_path: output\Rachit_Sabharwal_Resume_Consulting.html
+    markdown_path: output\Rachit_Sabharwal_Resume_Consulting.md
+    typst_path: output\Rachit_Sabharwal_Resume_Consulting.typ
+    png_path: output\Rachit_Sabharwal_Resume_Consulting.png

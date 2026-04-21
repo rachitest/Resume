@@ -1,0 +1,267 @@
+cv:
+  name: Rachit Sabharwal
+  location: Cypress, Texas
+  phone: tel:+1 585-281-1928
+  email: rachit-sabharwal@outlook.com
+  social_networks:
+    - network: GitHub
+      username: rachitest
+  sections:
+    Professional Summary:
+      - Ph.D. candidate (expected Aug 2026) and data engineer with 6+ years
+        designing and operating production data pipelines, multi-site
+        database architectures, and CI/CD-tested data infrastructure across
+        healthcare, life sciences, CPG, and chemicals. Experienced with
+        cloud (GCP, AWS, Azure), orchestration (Airflow, Cron), and
+        relational/graph database design (PostgreSQL, Neo4j, SQLite).
+
+    Education:
+      - institution: The University of Texas Health Science Center at Houston
+        area: Epidemiology and Biostatistics
+        degree: Ph.D.
+        location: Houston, TX
+        start_date: 2022-08
+        end_date: 2026-08
+        highlights:
+          - "Certificates: Advanced Data Science"
+      - institution: The University of California, Berkeley
+        area: Software Development and Programming
+        degree: Cert.
+        location: Berkeley, CA
+        start_date: 2023-06
+        end_date: 2025-04
+      - institution: The University of Texas Health Science Center at Houston
+        area: Biostatistics
+        degree: M.S.
+        location: Houston, TX
+        start_date: 2020-01
+        end_date: 2022-05
+        highlights:
+          - "Certificates: Data Science"
+      - institution: University of Rochester
+        area: Environmental Health
+        degree: B.S.
+        location: Rochester, NY
+        start_date: 2014-09
+        end_date: 2018-05
+
+    Experience:
+      - company: The University of Texas Health Science Center at Houston
+        position: Data Engineer & Research Scientist, School of Public Health
+          (TXCares, DETECT-RPC, Disability in AYA R01)
+        location: Houston, TX
+        start_date: 2022-09
+        end_date: 2026-08
+        highlights:
+          - Cut data-munging turnaround 24x by re-architecting the TXCares
+            ETL, directing 2 M.S. students through the rebuild and freeing
+            the team to iterate on models weekly instead of monthly.
+          - Designed the multi-site star schema and ETL for the R33 phase of
+            DETECT-RPC, supervising 2 M.S. students while harmonizing
+            clinical records from 6 academic medical centers (UCSF, UAB,
+            UTSW, JHU, UTH, BCM).
+          - Stood up CI/CD automated reporting that ingests new data weekly,
+            runs quality checks, and publishes stakeholder outputs without
+            manual intervention, backed by a full lifecycle test suite.
+          - Built a REDCap submission monitoring dashboard (Quarto,
+            highcharter) giving PIs real-time visibility into multi-site data
+            collection across 3 sites.
+
+      - company: The University of Texas Health Science Center at Houston
+        position: Graduate Research Assistant, School of Public Health
+          (TXCares, M.S.)
+        location: Houston, TX
+        start_date: 2020-02
+        end_date: 2022-08
+        highlights:
+          - Shipped and maintained a public-facing statewide COVID-19
+            dashboard (Python, Tableau) for the Texas COVID-19 Dashboard
+            Project, ingesting case and antibody survey data continuously.
+          - Engineered ETL pipelines for the Texas Coronavirus Antibody
+            Response Survey handling PII with quality controls from
+            ingestion to publication.
+
+      - company: Procter & Gamble
+        position: Advanced Analytics Co-Op, Consumer & Market Knowledge
+        location: Cincinnati, OH
+        start_date: 2021-01
+        end_date: 2021-05
+        highlights:
+          - Raised cross-functional analyst throughput 1.5x by building GCP
+            big-data ETL pipelines using Apache Airflow.
+          - Raised codebase test coverage from 0% to 70% by introducing
+            containerization, unit testing, and agile practices.
+
+      - company: Bristol Myers Squibb
+        position: Data Engineering Intern
+        location: San Francisco, CA
+        start_date: 2020-06
+        end_date: 2020-08
+        highlights:
+          - Designed relational (PostgreSQL) and graph (Neo4j) database
+            architectures supporting multiple internal R&D analytical
+            workloads.
+          - Built PatRec, a full-stack patent recommendations app chaining
+            chemical-entity NER, NCBI federated search, and TF-IDF
+            cosine-similarity ranking to curate relevant patents from an
+            80M-patent corpus for internal BMS scientists.
+
+      - company: The Dow Chemical Company
+        position: R&D Intern, Machine Learning, Optimization & Statistics
+          (MiLOS), Core R&D
+        location: Lake Jackson, TX
+        start_date: 2025-05
+        end_date: 2025-08
+        highlights:
+          - Shipped an R Shiny decision-support app automating 50% of
+            enterprise LCA workflows, estimated at $15M in annual cost
+            savings.
+          - Authored an internal Bayesian UQ white paper adopted by the
+            MiLOS team as organizational guidance for future predictive
+            modeling projects.
+
+    Skills:
+      - label: "Languages"
+        details: "Python (polars, pandas, duckdb, SQLAlchemy), R (data.table,
+          tidyverse), SQL, Bash"
+      - label: "Orchestration & Infrastructure"
+        details: "Apache Airflow, Cron, Docker, Kubernetes, GitHub/GitLab
+          CI/CD, Jenkins"
+      - label: "Databases"
+        details: "PostgreSQL, SQLite, MySQL, Neo4j, MongoDB,
+          Elasticsearch, BigQuery"
+      - label: "Cloud"
+        details: "GCP (BigQuery, Cloud Storage, Compute Engine), AWS, Azure"
+      - label: "Data Quality & Testing"
+        details: "Great Expectations, pytest, Unit/Integration Testing,
+          Schema Validation, Data Profiling"
+
+design:
+  theme: harvard
+  page:
+    size: us-letter
+    top_margin: 0.5in
+    bottom_margin: 0.5in
+    left_margin: 0.5in
+    right_margin: 0.5in
+    show_footer: true
+    show_top_note: false
+  colors:
+    body: rgb(0, 0, 0)
+    name: rgb(0, 0, 0)
+    headline: rgb(0, 0, 0)
+    connections: rgb(0, 0, 0)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(0, 0, 0)
+    footer: rgb(128, 128, 128)
+    top_note: rgb(128, 128, 128)
+  typography:
+    font_family: XCharter
+    line_spacing: 0.6em
+    alignment: left
+    date_and_location_column_alignment: right
+    font_size:
+      body: 10pt
+      name: 25pt
+      headline: 10pt
+      connections: 9pt
+      section_titles: 1.3em
+    bold:
+      name: true
+      headline: false
+      connections: false
+      section_titles: true
+    small_caps:
+      name: false
+      headline: false
+      connections: false
+      section_titles: false
+  links:
+    underline: false
+    show_external_link_icon: false
+  header:
+    alignment: center
+    photo_width: 3.5cm
+    space_below_name: 0.5cm
+    space_below_connections: 0.5cm
+    connections:
+      hyperlink: true
+      show_icons: false
+      display_urls_instead_of_usernames: true
+      separator: •
+      space_between_connections: 0.4cm
+  section_titles:
+    type: centered_with_centered_partial_line
+    line_thickness: 0.5pt
+    space_above: 0.5cm
+    space_below: 0.2cm
+  sections:
+    allow_page_break: true
+    space_between_regular_entries: 1em
+    space_between_text_based_entries: 0.3em
+    show_time_spans_in: []
+  entries:
+    date_and_location_width: 3.5cm
+    side_space: 0.2cm
+    space_between_columns: 0.1cm
+    allow_page_break: false
+    short_second_row: true
+    summary:
+      space_above: 0cm
+      space_left: 0cm
+    highlights:
+      bullet: •
+      nested_bullet: •
+      space_left: 0.15cm
+      space_above: 0cm
+      space_between_items: 0cm
+      space_between_bullet_and_text: 0.5em
+  templates:
+    footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+    top_note: '*LAST_UPDATED CURRENT_DATE*'
+    single_date: MONTH_ABBREVIATION YEAR
+    date_range: START_DATE – END_DATE
+    time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+    one_line_entry:
+      main_column: '**LABEL:** DETAILS'
+    education_entry:
+      main_column: |-
+        **INSTITUTION**, AREA
+        SUMMARY
+        HIGHLIGHTS
+      degree_column: '**DEGREE**'
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    normal_entry:
+      main_column: |-
+        **NAME**
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    experience_entry:
+      main_column: |-
+        **COMPANY**, POSITION
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    publication_entry:
+      main_column: |-
+        **TITLE**
+        SUMMARY
+        AUTHORS
+        URL (JOURNAL)
+      date_and_location_column: DATE
+locale:
+  language: english
+settings:
+  render_command:
+    pdf_path: output\Rachit_Sabharwal_Resume_DE.pdf
+    html_path: output\Rachit_Sabharwal_Resume_DE.html
+    markdown_path: output\Rachit_Sabharwal_Resume_DE.md
+    typst_path: output\Rachit_Sabharwal_Resume_DE.typ
+    png_path: output\Rachit_Sabharwal_Resume_DE.png

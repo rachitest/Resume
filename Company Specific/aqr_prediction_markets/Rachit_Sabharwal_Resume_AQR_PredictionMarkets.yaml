@@ -1,0 +1,305 @@
+cv:
+  name: Rachit Sabharwal
+  location: Cypress, Texas
+  phone: tel:+1 585-281-1928
+  email: rachit-sabharwal@outlook.com
+  social_networks:
+    - network: GitHub
+      username: rachitest
+  sections:
+    Professional Summary:
+      - Ph.D. candidate (expected Aug 2026) with 6+ years of end-to-end
+        quantitative research across biotech, chemicals, and healthcare.
+        Experienced in developing forecasting models, uncertainty-aware signals,
+        and large-scale data pipelines. Owns the full research lifecycle, data
+        ingestion and processing, exploratory analysis, methodology selection,
+        prototyping, and out-of-sample evaluation. Seeking to apply rigorous
+        statistical modeling and signal development to prediction-market
+        research.
+
+    Education:
+      - institution: The University of Texas Health Science Center at Houston
+        area: Epidemiology and Biostatistics
+        degree: Ph.D.
+        location: Houston, TX
+        start_date: 2022-08
+        end_date: 2026-08
+        highlights:
+          - "Focus: Explainable AI"
+          - "Certificates: Advanced Data Science"
+      - institution: The University of California, Berkeley
+        area: Software Development and Programming
+        degree: Cert.
+        location: Berkeley, CA
+        start_date: 2023-06
+        end_date: 2025-04
+      - institution: The University of Texas Health Science Center at Houston
+        area: Biostatistics
+        degree: M.S.
+        location: Houston, TX
+        start_date: 2020-01
+        end_date: 2022-05
+      - institution: University of Rochester
+        area: Environmental Health
+        degree: B.S.
+        location: Rochester, NY
+        start_date: 2014-09
+        end_date: 2018-05
+
+    Experience:
+      - company: The University of Texas Health Science Center at Houston
+        position: Research Data Scientist, School of Public Health
+        location: Houston, TX
+        start_date: 2020-02
+        end_date: 2026-08
+        highlights:
+          - Dissertation on explainable multimodal deep learning for severe
+            TBI outcome prediction, running the full research process from a
+            systematic review of methods, to time-series modeling on ICU
+            signals benchmarked against classical-ML baselines, to a
+            cross-sectional multimodal XAI model evaluated out-of-sample.
+          - Led a team evaluating LLM feasibility for free-text physician-note
+            classification in DETECT-RPC, informing the project's NLP pipeline
+            design through a structured accuracy, latency, and cost analysis.
+          - Built an agentic LLM pipeline (ellmer, Groq, DeepSeek R1 70B) that
+            migrated the r4epi open textbook from R Markdown to Quarto,
+            chaining file transfer, code reformatting, and grammar
+            transformation.
+          - Cut data-munging turnaround 24x by re-architecting the TexasCARES
+            ETL pipelines; stood up CI/CD automated reporting that ingests new
+            data weekly, runs quality checks, and publishes stakeholder
+            outputs without manual intervention.
+          - Co-authored 4 peer-reviewed publications on SARS-CoV-2 vaccine
+            non-response and pediatric COVID comorbidities using survival
+            analysis, linear mixed models, and other statistical methods on
+            population-based cohorts.
+
+      - company: The Dow Chemical Company
+        position: R&D Intern, Machine Learning, Optimization & Statistics
+          (MiLOS), Core R&D
+        location: Lake Jackson, TX
+        start_date: 2025-05
+        end_date: 2025-08
+        highlights:
+          - Benchmarked Bayesian models (Gaussian process regression, Bayesian
+            neural networks, Monte Carlo dropout) against frequentist
+            counterparts across 25+ measurement-error scenarios using
+            uncertainty-quantification calibration metrics (PICP, ECE, CI
+            width).
+          - Authored an internal Bayesian UQ white paper (MiLOS) adopted as
+            organizational guidance for future predictive modeling projects.
+          - Shipped an R Shiny decision-support app automating 50% of
+            enterprise LCA workflows, estimated at $15M in annual cost
+            savings across Dow's global operations.
+
+      - company: Genentech
+        position: Informatics R&D Intern, Development Sciences & Informatics
+        location: San Francisco, CA
+        start_date: 2021-05
+        end_date: 2022-01
+        highlights:
+          - Reproduced the published GLIT multimodal GNN as a prediction
+            benchmark, then prototyped an alternative MLP combining ECFP
+            fingerprints with diffusion-based profiles with full train/test
+            methodology and performance evaluation in PyTorch.
+          - Built a document tokenization framework feeding downstream NLP
+            annotation and text-mining pipelines over a large-scale corpus.
+
+      - company: Procter & Gamble
+        position: Advanced Analytics Co-Op, Consumer & Market Knowledge
+        location: Cincinnati, OH
+        start_date: 2021-01
+        end_date: 2021-05
+        highlights:
+          - Delivered predictive and explanatory models on shopper and
+            retailer behavior for global Fabric Care brand teams, informing
+            a corporate strategy shift toward DTC ecommerce.
+          - Raised cross-functional analyst throughput 1.5x by building GCP
+            big-data ETL pipelines on Apache Airflow.
+
+      - company: Bristol Myers Squibb
+        position: Data Engineering Intern
+        location: San Francisco, CA
+        start_date: 2020-06
+        end_date: 2020-08
+        highlights:
+          - Built PatRec, a full-stack ranking application chaining
+            chemical-entity NER, NCBI federated search, and TF-IDF
+            cosine-similarity scoring to rank relevant patents from an
+            80M-document corpus for internal BMS scientists.
+          - Designed relational (PostgreSQL) and graph (Neo4j) database
+            architectures supporting multiple internal R&D analytical
+            workloads.
+
+    Selected Publications:
+      - title: Trust and Uncertainty Quantification in Machine Learning
+          Models Under Measurement Error
+        authors:
+          - '**Sabharwal R**'
+        date: 2025-08
+        journal: The Dow Chemical Company, Internal White Paper
+      - title: Baseline characteristics of SARS-CoV-2 vaccine non-responders
+          in a large population-based sample
+        authors:
+          - Yaseen A
+          - DeSantis SM
+          - '**Sabharwal R**'
+          - et al.
+        date: 2024-05
+        doi: 10.1371/journal.pone.0303420
+        journal: PLoS One
+      - title: 'Scholarly recommendation systems: a literature survey'
+        authors:
+          - Zhang Z
+          - Patra BG
+          - '**Sabharwal R**'
+          - et al.
+        date: 2023-06
+        doi: 10.1007/s10115-023-01901-x
+        journal: Knowledge and Information Systems
+
+    Skills:
+      - label: "Quantitative Research & Modeling"
+        details: "Forecasting, Time-Series Prediction, Bayesian Inference &
+          Uncertainty Quantification, Calibration & Backtesting, Survival
+          Analysis, Mixed Models, Causal Inference, Explainable AI, Graph
+          Neural Networks, Recommender & Ranking Systems"
+      - label: "ML/AI Libraries"
+        details: "PyTorch, PyTorch Lightning, scikit-learn, Hugging Face,
+          TensorFlow Probability, tidymodels, brms, Optuna"
+      - label: "Programming & Data"
+        details: "Python (NumPy, polars, pandas, duckdb), R (data.table,
+          tidyverse, ellmer), SQL, Bash"
+      - label: "Data Engineering & Infra"
+        details: "Apache Airflow, Docker, Kubernetes, GitHub/GitLab CI/CD,
+          GCP, AWS, Azure, PostgreSQL, Neo4j, BigQuery"
+
+design:
+  theme: harvard
+  page:
+    size: us-letter
+    top_margin: 0.5in
+    bottom_margin: 0.5in
+    left_margin: 0.5in
+    right_margin: 0.5in
+    show_footer: true
+    show_top_note: false
+  colors:
+    body: rgb(0, 0, 0)
+    name: rgb(0, 0, 0)
+    headline: rgb(0, 0, 0)
+    connections: rgb(0, 0, 0)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(0, 0, 0)
+    footer: rgb(128, 128, 128)
+    top_note: rgb(128, 128, 128)
+  typography:
+    font_family: XCharter
+    line_spacing: 0.6em
+    alignment: left
+    date_and_location_column_alignment: right
+    font_size:
+      body: 10pt
+      name: 25pt
+      headline: 10pt
+      connections: 9pt
+      section_titles: 1.3em
+    bold:
+      name: true
+      headline: false
+      connections: false
+      section_titles: true
+    small_caps:
+      name: false
+      headline: false
+      connections: false
+      section_titles: false
+  links:
+    underline: false
+    show_external_link_icon: false
+  header:
+    alignment: center
+    photo_width: 3.5cm
+    space_below_name: 0.5cm
+    space_below_connections: 0.5cm
+    connections:
+      hyperlink: true
+      show_icons: false
+      display_urls_instead_of_usernames: true
+      separator: •
+      space_between_connections: 0.4cm
+  section_titles:
+    type: centered_with_centered_partial_line
+    line_thickness: 0.5pt
+    space_above: 0.5cm
+    space_below: 0.2cm
+  sections:
+    allow_page_break: true
+    space_between_regular_entries: 1em
+    space_between_text_based_entries: 0.3em
+    show_time_spans_in: []
+  entries:
+    date_and_location_width: 3.5cm
+    side_space: 0.2cm
+    space_between_columns: 0.1cm
+    allow_page_break: false
+    short_second_row: true
+    summary:
+      space_above: 0cm
+      space_left: 0cm
+    highlights:
+      bullet: •
+      nested_bullet: •
+      space_left: 0.15cm
+      space_above: 0cm
+      space_between_items: 0cm
+      space_between_bullet_and_text: 0.5em
+  templates:
+    footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+    top_note: '*LAST_UPDATED CURRENT_DATE*'
+    single_date: MONTH_ABBREVIATION YEAR
+    date_range: START_DATE – END_DATE
+    time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+    one_line_entry:
+      main_column: '**LABEL:** DETAILS'
+    education_entry:
+      main_column: |-
+        **INSTITUTION**, AREA
+        SUMMARY
+        HIGHLIGHTS
+      degree_column: '**DEGREE**'
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    normal_entry:
+      main_column: |-
+        **NAME**
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    experience_entry:
+      main_column: |-
+        **COMPANY**, POSITION
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    publication_entry:
+      main_column: |-
+        **TITLE**
+        SUMMARY
+        AUTHORS
+        URL (JOURNAL)
+      date_and_location_column: DATE
+locale:
+  language: english
+settings:
+  render_command:
+    pdf_path: output\Rachit_Sabharwal_Resume_AQR_PredictionMarkets.pdf
+    html_path: output\Rachit_Sabharwal_Resume_AQR_PredictionMarkets.html
+    markdown_path: output\Rachit_Sabharwal_Resume_AQR_PredictionMarkets.md
+    typst_path: output\Rachit_Sabharwal_Resume_AQR_PredictionMarkets.typ
+    png_path: output\Rachit_Sabharwal_Resume_AQR_PredictionMarkets.png
