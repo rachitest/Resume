@@ -81,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 4,
-    day: 21,
+    day: 23,
   ),
 )
 
@@ -98,7 +98,7 @@
 
 == Professional Summary
 
-Ph.D. Candidate (expected Aug 2026) and 6+ years shipping production models, agentic LLM pipelines, and multimodal deep learning systems across biotech, chemicals, and healthcare research. Dissertation focuses on explainable multimodal AI for severe TBI outcome prediction. Interested in applied AI\/ML research and development roles.
+Ph.D. Candidate (expected Aug 2026) and 6+ years shipping production models, agentic LLM pipelines, and multimodal deep learning systems across biotech, chemicals, and healthcare research. Dissertation focuses on explainable multimodal AI for severe TBI outcome prediction.
 
 == Education
 
@@ -114,7 +114,7 @@ Ph.D. Candidate (expected Aug 2026) and 6+ years shipping production models, age
   [
     Houston, TX
 
-    Aug 2022 – Aug 2026
+    Expected Aug 2026
 
   ],
   degree-column: [
@@ -130,7 +130,7 @@ Ph.D. Candidate (expected Aug 2026) and 6+ years shipping production models, age
   [
     Berkeley, CA
 
-    June 2023 – Apr 2025
+    Apr 2025
 
   ],
   degree-column: [
@@ -146,7 +146,7 @@ Ph.D. Candidate (expected Aug 2026) and 6+ years shipping production models, age
   [
     Houston, TX
 
-    Jan 2020 – May 2022
+    May 2022
 
   ],
   degree-column: [
@@ -162,7 +162,7 @@ Ph.D. Candidate (expected Aug 2026) and 6+ years shipping production models, age
   [
     Rochester, NY
 
-    Sept 2014 – May 2018
+    May 2018
 
   ],
   degree-column: [
@@ -174,11 +174,13 @@ Ph.D. Candidate (expected Aug 2026) and 6+ years shipping production models, age
 
 #regular-entry(
   [
-    #strong[The University of Texas Health Science Center at Houston], Research Data Scientist, School of Public Health
+    #strong[The University of Texas Health Science Center at Houston]
+
+    Research Data Scientist
 
     - Dissertation on explainable multimodal deep learning for severe TBI outcome prediction, spanning a systematic review of ML\/DL methods, unimodal deep learning on TBI ICU signals benchmarked against classical-ML baselines, and an XAI multimodal model.
 
-    - Built an agentic LLM pipeline (ellmer, Groq, DeepSeek R1 70B) that migrated the r4epi open textbook from R Markdown to Quarto, chaining file transfer, code reformatting, and grammar transformation.
+    - Built an agentic LLM pipeline (ellmer, Groq, DeepSeek R1 70B) to migrate the r4epi epidemiology textbook from R Markdown to Quarto, chaining file transfer, code reformatting, and grammar transformation, producing the edition now adopted as official course material at UTHealth and TCU.
 
     - Led a team evaluating LLM feasibility for free-text physician-note classification in DETECT-RPC, informing the project's NLP pipeline design.
 
@@ -197,7 +199,9 @@ Ph.D. Candidate (expected Aug 2026) and 6+ years shipping production models, age
 
 #regular-entry(
   [
-    #strong[The Dow Chemical Company], R&D Intern, Machine Learning, Optimization & Statistics (MiLOS), Core R&D
+    #strong[The Dow Chemical Company]
+
+    ML R&D Intern
 
     - Benchmarked Bayesian models (Gaussian process regression, Bayesian neural networks, Monte Carlo dropout) against frequentist counterparts across 25+ measurement-error scenarios using UQ calibration metrics.
 
@@ -216,9 +220,11 @@ Ph.D. Candidate (expected Aug 2026) and 6+ years shipping production models, age
 
 #regular-entry(
   [
-    #strong[Genentech], Informatics R&D Intern, Development Sciences & Informatics
+    #strong[Genentech]
 
-    - Reproduced the published GLIT multimodal GNN to benchmark DILI prediction, then prototyped an alternative MLP combining ECFP fingerprints with drug diffusion profiles.
+    Informatics R&D Intern
+
+    - Reproduced the published GLIT multimodal GNN to benchmark DILI prediction, then prototyped an alternative MLP combining ECFP fingerprints with drug diffusion profiles that matched GLIT within 10\% predictive performance at substantially reduced model complexity.
 
     - Built a document tokenization framework that feeds into downstream NLP annotation and text-mining pipelines.
 
@@ -233,7 +239,9 @@ Ph.D. Candidate (expected Aug 2026) and 6+ years shipping production models, age
 
 #regular-entry(
   [
-    #strong[Procter & Gamble], Advanced Analytics Co-Op, Consumer & Market Knowledge
+    #strong[Procter & Gamble]
+
+    Advanced Analytics Co-Op
 
     - Delivered predictive and explanatory models on shopper and retailer behavior for global Fabric Care brand teams, informing corporate focus shift toward DTC ecommerce.
 
@@ -250,7 +258,9 @@ Ph.D. Candidate (expected Aug 2026) and 6+ years shipping production models, age
 
 #regular-entry(
   [
-    #strong[Bristol Myers Squibb], Data Engineering Intern
+    #strong[Bristol Myers Squibb]
+
+    Data Engineering Intern
 
     - Built PatRec, a full-stack patent recommendations app chaining chemical-entity NER, NCBI federated search, and TF-IDF cosine-similarity ranking to curate relevant patents from an 80M-patent corpus for internal BMS scientists.
 
@@ -316,8 +326,8 @@ Ph.D. Candidate (expected Aug 2026) and 6+ years shipping production models, age
 
 #strong[AI & Machine Learning:] LLM Agentic Pipelines, LLM APIs (Groq, Claude, Gemini, OpenAI-compatible), Multimodal Deep Learning, Explainable AI, Graph Neural Networks, NLP, Bayesian Inference & UQ, Recommender Systems, Survival Analysis, Mixed Models
 
-#strong[ML\/AI Libraries:] PyTorch, PyTorch Lightning, Hugging Face, TensorFlow Probability, scikit-learn, tidymodels, brms, Optuna
+#strong[ML\/AI Libraries:] PyTorch, PyTorch Lightning, Hugging Face, TensorFlow, TensorFlow Probability, scikit-learn, tidymodels, brms, Optuna, SHAP, RDKit
 
-#strong[Programming & Data:] Python (polars, pandas, duckdb), R (data.table, tidyverse, ellmer), SQL, Bash
+#strong[Programming & Data:] Python, R, SQL, Bash
 
-#strong[MLOps & Cloud:] Docker, Kubernetes, Apache Airflow, GitHub\/GitLab CI\/CD, GCP, AWS, Azure, PostgreSQL, Neo4j, BigQuery
+#strong[MLOps & Cloud:] Docker, Kubernetes, Apache Airflow, GitHub\/GitLab CI\/CD, GCP, AWS, Azure, PostgreSQL, pgvector, Neo4j, BigQuery

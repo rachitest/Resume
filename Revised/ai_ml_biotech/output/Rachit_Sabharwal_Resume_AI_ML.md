@@ -7,7 +7,7 @@
 
 
 # Professional Summary
-Ph.D. Candidate (expected Aug 2026) and 6+ years shipping production models, agentic LLM pipelines, and multimodal deep learning systems across biotech, chemicals, and healthcare research. Dissertation focuses on explainable multimodal AI for severe TBI outcome prediction. Interested in applied AI/ML research and development roles.
+Ph.D. Candidate (expected Aug 2026) and 6+ years shipping production models, agentic LLM pipelines, and multimodal deep learning systems across biotech, chemicals, and healthcare research. Dissertation focuses on explainable multimodal AI for severe TBI outcome prediction.
 
 # Education
 ## **The University of Texas Health Science Center at Houston**, Epidemiology and Biostatistics
@@ -18,7 +18,7 @@ Ph.D. Candidate (expected Aug 2026) and 6+ years shipping production models, age
 Houston, TX
 
 
-Aug 2022 – Aug 2026
+Expected Aug 2026
 
 - Focus: Explainable AI
 
@@ -34,7 +34,7 @@ Aug 2022 – Aug 2026
 Berkeley, CA
 
 
-June 2023 – Apr 2025
+Apr 2025
 
 
 
@@ -46,7 +46,7 @@ June 2023 – Apr 2025
 Houston, TX
 
 
-Jan 2020 – May 2022
+May 2022
 
 
 
@@ -58,20 +58,22 @@ Jan 2020 – May 2022
 Rochester, NY
 
 
-Sept 2014 – May 2018
+May 2018
 
 
 
 # Experience
-## **The University of Texas Health Science Center at Houston**, Research Data Scientist, School of Public Health
+## **The University of Texas Health Science Center at Houston**
 
 Houston, TX
 
 Feb 2020 – present
 
+Research Data Scientist
+
 - Dissertation on explainable multimodal deep learning for severe TBI outcome prediction, spanning a systematic review of ML/DL methods, unimodal deep learning on TBI ICU signals benchmarked against classical-ML baselines, and an XAI multimodal model.
 
-- Built an agentic LLM pipeline (ellmer, Groq, DeepSeek R1 70B) that migrated the r4epi open textbook from R Markdown to Quarto, chaining file transfer, code reformatting, and grammar transformation.
+- Built an agentic LLM pipeline (ellmer, Groq, DeepSeek R1 70B) to migrate the r4epi epidemiology textbook from R Markdown to Quarto, chaining file transfer, code reformatting, and grammar transformation, producing the edition now adopted as official course material at UTHealth and TCU.
 
 - Led a team evaluating LLM feasibility for free-text physician-note classification in DETECT-RPC, informing the project's NLP pipeline design.
 
@@ -81,11 +83,13 @@ Feb 2020 – present
 
 
 
-## **The Dow Chemical Company**, R&D Intern, Machine Learning, Optimization & Statistics (MiLOS), Core R&D
+## **The Dow Chemical Company**
 
 Lake Jackson, TX
 
 May 2025 – Aug 2025
+
+ML R&D Intern
 
 - Benchmarked Bayesian models (Gaussian process regression, Bayesian neural networks, Monte Carlo dropout) against frequentist counterparts across 25+ measurement-error scenarios using UQ calibration metrics.
 
@@ -95,23 +99,27 @@ May 2025 – Aug 2025
 
 
 
-## **Genentech**, Informatics R&D Intern, Development Sciences & Informatics
+## **Genentech**
 
 San Francisco, CA
 
 May 2021 – Jan 2022
 
-- Reproduced the published GLIT multimodal GNN to benchmark DILI prediction, then prototyped an alternative MLP combining ECFP fingerprints with drug diffusion profiles.
+Informatics R&D Intern
+
+- Reproduced the published GLIT multimodal GNN to benchmark DILI prediction, then prototyped an alternative MLP combining ECFP fingerprints with drug diffusion profiles that matched GLIT within 10% predictive performance at substantially reduced model complexity.
 
 - Built a document tokenization framework that feeds into downstream NLP annotation and text-mining pipelines.
 
 
 
-## **Procter & Gamble**, Advanced Analytics Co-Op, Consumer & Market Knowledge
+## **Procter & Gamble**
 
 Cincinnati, OH
 
 Jan 2021 – May 2021
+
+Advanced Analytics Co-Op
 
 - Delivered predictive and explanatory models on shopper and retailer behavior for global Fabric Care brand teams, informing corporate focus shift toward DTC ecommerce.
 
@@ -119,11 +127,13 @@ Jan 2021 – May 2021
 
 
 
-## **Bristol Myers Squibb**, Data Engineering Intern
+## **Bristol Myers Squibb**
 
 San Francisco, CA
 
 June 2020 – Aug 2020
+
+Data Engineering Intern
 
 - Built PatRec, a full-stack patent recommendations app chaining chemical-entity NER, NCBI federated search, and TF-IDF cosine-similarity ranking to curate relevant patents from an 80M-patent corpus for internal BMS scientists.
 
@@ -165,8 +175,8 @@ Zhang Z, Patra BG, **Sabharwal R**, et al.
 # Skills
 **AI & Machine Learning:** LLM Agentic Pipelines, LLM APIs (Groq, Claude, Gemini, OpenAI-compatible), Multimodal Deep Learning, Explainable AI, Graph Neural Networks, NLP, Bayesian Inference & UQ, Recommender Systems, Survival Analysis, Mixed Models
 
-**ML/AI Libraries:** PyTorch, PyTorch Lightning, Hugging Face, TensorFlow Probability, scikit-learn, tidymodels, brms, Optuna
+**ML/AI Libraries:** PyTorch, PyTorch Lightning, Hugging Face, TensorFlow, TensorFlow Probability, scikit-learn, tidymodels, brms, Optuna, SHAP, RDKit
 
-**Programming & Data:** Python (polars, pandas, duckdb), R (data.table, tidyverse, ellmer), SQL, Bash
+**Programming & Data:** Python, R, SQL, Bash
 
-**MLOps & Cloud:** Docker, Kubernetes, Apache Airflow, GitHub/GitLab CI/CD, GCP, AWS, Azure, PostgreSQL, Neo4j, BigQuery
+**MLOps & Cloud:** Docker, Kubernetes, Apache Airflow, GitHub/GitLab CI/CD, GCP, AWS, Azure, PostgreSQL, pgvector, Neo4j, BigQuery
