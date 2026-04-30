@@ -1,0 +1,305 @@
+cv:
+  name: Rachit Sabharwal
+  location: Cypress, Texas
+  phone: tel:+1 585-281-1928
+  email: rachit-sabharwal@outlook.com
+  social_networks:
+    - network: GitHub
+      username: rachitest
+  sections:
+    Professional Summary:
+      - Six years translating operational and clinical questions into
+        reproducible analytical frameworks, production dashboards, and
+        version-controlled data pipelines. Experienced owning work end-to-end, 
+        from SQL schema design through stakeholder-facing Tableau and R Shiny 
+        reporting. Domain depth in healthcare (EHR, claims, multi-site clinical 
+        data) and track record partnering with operational leadership to drive 
+        decisions across public health, life sciences, and chemicals.
+
+    Education:
+      - institution: The University of Texas Health Science Center at Houston
+        area: Epidemiology and Biostatistics
+        degree: Ph.D.
+        location: Houston, TX
+        start_date: 2022-08
+        end_date: 2026-08
+        highlights:
+          - "Certificates: Advanced Data Science"
+      - institution: The University of California, Berkeley
+        area: Software Development and Programming
+        degree: Cert.
+        location: Berkeley, CA
+        start_date: 2023-06
+        end_date: 2025-04
+      - institution: The University of Texas Health Science Center at Houston
+        area: Biostatistics
+        degree: M.S.
+        location: Houston, TX
+        start_date: 2020-01
+        end_date: 2022-05
+      - institution: University of Rochester
+        area: Environmental Health
+        degree: B.S.
+        location: Rochester, NY
+        start_date: 2014-09
+        end_date: 2018-05
+
+    Experience:
+      - company: The University of Texas Health Science Center at Houston
+        position: Research Data Scientist, School of Public Health
+        location: Houston, TX
+        start_date: 2020-02
+        end_date: present
+        highlights:
+          - Shipped and maintained a public-facing statewide COVID-19
+            dashboard (Python, Tableau) ingesting case and antibody-survey
+            data continuously; delivered Quarto dashboards giving operational
+            leadership real-time visibility into multi-site data-collection
+            progress across 6 academic medical centers.
+          - Owned end-to-end recurring reporting for TexasCARES — redesigned
+            the SQL ETL to cut data-munging turnaround 24x, then stood up
+            version-controlled, CI/CD-automated pipelines that ingest new
+            data weekly, run quality checks, and publish stakeholder outputs
+            without manual intervention; backed by a full lifecycle test suite.
+          - Designed the multi-site star schema and SQL ETL for DETECT-RPC,
+            harmonizing clinical records from 6 AMCs; partnered with senior
+            investigators to translate operational questions into query and
+            reporting specifications; shipped an R Shiny CWDA→ICD-10 mapping
+            tool adopted for cross-team use.
+          - Applied regression (linear, logistic, survival analysis, linear
+            mixed models) to population-based EHR and claims cohorts, co-
+            authoring 4 peer-reviewed publications on vaccine non-response
+            and pediatric COVID comorbidities.
+          - Supervised 2 M.S. students on data analysis and QA/QC; led a
+            2-person TA team for PH 1976 (Fundamentals of Data Analytics and
+            Predictions), coaching on SQL, statistical programming, and
+            reproducible reporting.
+
+      - company: The Dow Chemical Company
+        position: R&D Intern, Machine Learning, Optimization & Statistics
+          (MiLOS), Core R&D
+        location: Lake Jackson, TX
+        start_date: 2025-05
+        end_date: 2025-08
+        highlights:
+          - Shipped an R Shiny decision-support app that automated 50% of
+            enterprise Life Cycle Assessment workflows for global operations, 
+            estimated at $15M in annual cost savings.
+          - Benchmarked predictive models across 25+ scenarios using
+            calibration metrics to quantify forecast reliability for
+            non-technical business stakeholders. Authored an internal white 
+            paper on findings which was adopted as organizational guidance.
+
+      - company: Procter & Gamble
+        position: Advanced Analytics Co-Op, Consumer & Market Knowledge
+        location: Cincinnati, OH
+        start_date: 2021-01
+        end_date: 2021-05
+        highlights:
+          - Delivered predictive and explanatory regression models on shopper
+            and retailer behavior for global Fabric Care brand teams,
+            informing a corporate strategy shift toward DTC ecommerce.
+          - Raised cross-functional analyst throughput 1.5x by building GCP
+            big-data ETL pipelines on Apache Airflow; raised codebase test
+            coverage from 0% to 70% through containerization and agile
+            practices.
+
+      - company: Bristol Myers Squibb
+        position: Data Engineering Intern
+        location: San Francisco, CA
+        start_date: 2020-06
+        end_date: 2020-08
+        highlights:
+          - Designed relational (PostgreSQL) and graph (Neo4j) database
+            schemas supporting multiple internal R&D analytical workloads.
+          - Built PatRec, a full-stack recommendations app chaining entity
+            recognition, federated search, and similarity ranking to surface
+            relevant patents from an 80M-patent corpus for internal
+            scientists.
+
+      - company: Genentech
+        position: Informatics R&D Intern
+        location: San Francisco, CA
+        start_date: 2021-05
+        end_date: 2022-01
+        highlights:
+          - Benchmarked a published multimodal GNN on DILI prediction and
+            prototyped a simpler MLP alternative to assess model complexity
+            vs. performance tradeoffs for non-technical R&D stakeholders.
+
+    Selected Publications:
+      - title: Trust and Uncertainty Quantification in Machine Learning
+          Models Under Measurement Error
+        authors:
+          - '**Sabharwal R**'
+        date: 2025-08
+        journal: The Dow Chemical Company, Internal White Paper
+      - title: Baseline characteristics of SARS-CoV-2 vaccine non-responders
+          in a large population-based sample
+        authors:
+          - Yaseen A
+          - DeSantis SM
+          - '**Sabharwal R**'
+          - et al.
+        date: 2024-05
+        doi: 10.1371/journal.pone.0303420
+        journal: PLoS One
+      - title: 'Scholarly recommendation systems: a literature survey'
+        authors:
+          - Zhang Z
+          - Patra BG
+          - '**Sabharwal R**'
+          - et al.
+        date: 2023-06
+        doi: 10.1007/s10115-023-01901-x
+        journal: Knowledge and Information Systems
+
+    Skills:
+      - label: "Programming & Data"
+        details: "SQL, Python (polars, pandas, duckdb), R (data.table,
+          tidyverse, tidymodels), SAS, Bash"
+      - label: "Visualization & Reporting"
+        details: "Tableau, R Shiny, Quarto, Streamlit, Python Dash, Plotly,
+          ggplot2, DT"
+      - label: "Data Platforms & Pipelines"
+        details: "PostgreSQL, BigQuery, Apache Airflow, GitHub/GitLab CI/CD,
+          version-controlled SQL pipelines, Docker, GCP, AWS, Azure, REDCap"
+      - label: "Analytics & Statistics"
+        details: "Regression (linear, logistic, GLM), Survival Analysis,
+          Mixed Models, Probability & Uncertainty Quantification, Causal
+          Inference, Forecasting, A/B Testing, Bayesian Inference,
+          Measurement Error Modeling"
+      - label: "Domain"
+        details: "Healthcare Operations, EHR & Claims Data, Clinical Outcomes
+          Research, Multi-Site Data Harmonization, Public Health Surveillance,
+          Life Sciences Analytics, CPG Analytics"
+
+design:
+  theme: harvard
+  page:
+    size: us-letter
+    top_margin: 0.5in
+    bottom_margin: 0.5in
+    left_margin: 0.5in
+    right_margin: 0.5in
+    show_footer: true
+    show_top_note: false
+  colors:
+    body: rgb(0, 0, 0)
+    name: rgb(0, 0, 0)
+    headline: rgb(0, 0, 0)
+    connections: rgb(0, 0, 0)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(0, 0, 0)
+    footer: rgb(128, 128, 128)
+    top_note: rgb(128, 128, 128)
+  typography:
+    font_family: XCharter
+    line_spacing: 0.6em
+    alignment: left
+    date_and_location_column_alignment: right
+    font_size:
+      body: 10pt
+      name: 25pt
+      headline: 10pt
+      connections: 9pt
+      section_titles: 1.3em
+    bold:
+      name: true
+      headline: false
+      connections: false
+      section_titles: true
+    small_caps:
+      name: false
+      headline: false
+      connections: false
+      section_titles: false
+  links:
+    underline: false
+    show_external_link_icon: false
+  header:
+    alignment: center
+    photo_width: 3.5cm
+    space_below_name: 0.5cm
+    space_below_connections: 0.5cm
+    connections:
+      hyperlink: true
+      show_icons: false
+      display_urls_instead_of_usernames: true
+      separator: •
+      space_between_connections: 0.4cm
+  section_titles:
+    type: centered_with_centered_partial_line
+    line_thickness: 0.5pt
+    space_above: 0.5cm
+    space_below: 0.2cm
+  sections:
+    allow_page_break: true
+    space_between_regular_entries: 1em
+    space_between_text_based_entries: 0.3em
+    show_time_spans_in: []
+  entries:
+    date_and_location_width: 3.5cm
+    side_space: 0.2cm
+    space_between_columns: 0.1cm
+    allow_page_break: false
+    short_second_row: true
+    summary:
+      space_above: 0cm
+      space_left: 0cm
+    highlights:
+      bullet: •
+      nested_bullet: •
+      space_left: 0.15cm
+      space_above: 0cm
+      space_between_items: 0cm
+      space_between_bullet_and_text: 0.5em
+  templates:
+    footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+    top_note: '*LAST_UPDATED CURRENT_DATE*'
+    single_date: MONTH_ABBREVIATION YEAR
+    date_range: START_DATE – END_DATE
+    time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+    one_line_entry:
+      main_column: '**LABEL:** DETAILS'
+    education_entry:
+      main_column: |-
+        **INSTITUTION**, AREA
+        SUMMARY
+        HIGHLIGHTS
+      degree_column: '**DEGREE**'
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    normal_entry:
+      main_column: |-
+        **NAME**
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    experience_entry:
+      main_column: |-
+        **COMPANY**, POSITION
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column: |-
+        LOCATION
+        DATE
+    publication_entry:
+      main_column: |-
+        **TITLE**
+        SUMMARY
+        AUTHORS
+        URL (JOURNAL)
+      date_and_location_column: DATE
+locale:
+  language: english
+settings:
+  render_command:
+    pdf_path: output\Rachit_Sabharwal_Resume_MSKCC_BIPatientAccess.pdf
+    html_path: output\Rachit_Sabharwal_Resume_MSKCC_BIPatientAccess.html
+    markdown_path: output\Rachit_Sabharwal_Resume_MSKCC_BIPatientAccess.md
+    typst_path: output\Rachit_Sabharwal_Resume_MSKCC_BIPatientAccess.typ
+    png_path: output\Rachit_Sabharwal_Resume_MSKCC_BIPatientAccess.png

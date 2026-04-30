@@ -18,7 +18,10 @@
       "WebFetch(domain:www.capitalonecareers.com)",
       "WebFetch(domain:www.amazon.jobs)",
       "Bash(rendercv render *)",
-      "WebFetch(domain:vanguard.wd5.myworkdayjobs.com)"
+      "WebFetch(domain:vanguard.wd5.myworkdayjobs.com)",
+      "WebFetch(domain:msk.wd108.myworkdayjobs.com)",
+      "WebFetch(domain:www.linkedin.com)",
+      "WebSearch"
     ]
   },
   "model": "opusplan"
