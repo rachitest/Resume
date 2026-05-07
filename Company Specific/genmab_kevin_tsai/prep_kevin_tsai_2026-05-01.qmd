@@ -1,0 +1,66 @@
+---
+title: Kevin Tsai — 25-Min Prep Sheet
+format: pdf
+---
+
+**Kevin:** Senior data & AI leader, Genmab (antibody therapeutics). Builds production data platforms + analytics. Wharton EMBA class of 2028. Former BMS supervisor. Warm relationship.
+
+**Your goal:** reconnect → hear his take on the market → make the ask (Genmab opening + forwardable intro).
+
+---
+
+## Time Budget
+
+| Min | What |
+|-----|------|
+| 0–3 | Warm reconnect — thank him, mention something specific about Genmab or Wharton |
+| 3–10 | Let Kevin talk: Genmab move, what he's building, EMBA |
+| 10–18 | Your update + his perspective on the 2026 market |
+| 18–23 | The ask |
+| 23–25 | Next steps — offer to send a one-pager |
+
+---
+
+## Talking Points (yours — ~30s each, pick and choose)
+
+1. **PhD finish line.** Defending August 2026, Epidemiology and Biostatistics. One-sentence version of your most industry-legible thesis result. (Draft: *"My dissertation builds an explainable multimodal AI model for severe TBI outcome prediction — fusing imaging, physiology, and EHR into one framework and making the model's reasoning auditable for clinicians."*)
+2. **What's grown since BMS.** Anchor to what Kevin knew you doing, then name what's new: Bayesian UQ at Dow, real-world evidence / multi-site EHR harmonization at UTHealth, DILI prediction at Genentech.
+3. **What you're targeting.** Biomedical AI/ML in biopharma or RWE/outcomes. Calibrate to him — both map to Genmab's world.
+4. **Why industry, why now.** Short + honest. Something like: *"I've always been pulled toward problems where the model actually ships. The dissertation is that for me in academia; I'm ready to make that the default."*
+5. **Aperture.** Location flexibility, open to individual contributor or lead, pharma/biotech/health-tech.
+
+---
+
+## Questions (pick 4–5 — leave room for conversation)
+
+**Open with these:**
+- "How's the move to Genmab been? What pulled you there from BMS?"
+- "What are you actually building right now — and what does your team look like?"
+- "How is Wharton fitting alongside the day job?"
+
+**On the PhD-to-industry pipeline (the stated framing):**
+- "Looking back, what do you wish you'd known in your last six months of the PhD?"
+- "What's changed about hiring in biopharma data/AI in 2026 versus when you made the jump?"
+- "Where do you see PhDs underselling themselves in interviews — and where do they oversell?"
+
+**Bridge to the ask:**
+- "If you were me right now, where would you be looking? Companies, teams, types of roles?"
+- "Is Genmab hiring on your team or adjacent — and is now a reasonable time to be having that conversation?"
+
+---
+
+## The Ask (rehearse out loud — 60s max)
+
+> *"I'd love your help in two ways if you're open to it. First — if there are openings on your team or adjacent at Genmab that fit, I'd genuinely love to be considered. Second — if anyone in your network comes to mind, I'll send you a short one-pager you can forward without rewriting anything. The roles I'm targeting are biomedical AI/ML in biopharma and RWE/outcomes. I'm flexible on location and open to individual contributor or lead."*
+
+**Why this works:** two concrete actions, gives him a clear profile to match against, and the forwardable one-pager removes all friction from the intro.
+
+---
+
+## Don't Do
+
+- Lead with the resume or the ask.
+- Say "AI" or "data" without a concrete technique attached.
+- Ask "do you know anyone hiring?" — too open, people freeze.
+- Apologize for being a PhD or frame industry as a fallback.
+- Over-prepare to the point it sounds rehearsed.
