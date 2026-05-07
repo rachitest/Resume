@@ -66,7 +66,7 @@ cv:
             clinical records from 6 academic medical centers (UCSF, UAB,
             UTSW, JHU, UTH, BCM).
           - Contributed quantitative analyses on EHR and claims data to an
-            R01 grant proposal on disability in adolescents and young adults.
+            R01 grant proposal on disability in AYA cancer and birth-defect survivors.
           - Cut data-munging turnaround 24x by re-architecting the TXCares
             ETL, directing 2 M.S. students through the rebuild and freeing
             the team to iterate on models weekly instead of monthly.

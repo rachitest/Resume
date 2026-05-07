@@ -21,7 +21,8 @@
       "WebFetch(domain:vanguard.wd5.myworkdayjobs.com)",
       "WebFetch(domain:msk.wd108.myworkdayjobs.com)",
       "WebFetch(domain:www.linkedin.com)",
-      "WebSearch"
+      "WebSearch",
+      "WebFetch(domain:www.google.com)"
     ]
   },
   "model": "opusplan"

@@ -18,13 +18,13 @@ cv:
         outcome prediction.
     Education:
       - institution: The University of Texas Health Science Center at Houston
-        area: Biostatistics
+        area: Epidemiology and Biostatistics
         degree: Ph.D.
         location: Houston, TX
         start_date: 2022-08
         end_date: 2026-08
         highlights:
-          - "Minors: Epidemiology, Health Economics"
+          - "Minor: Health Economics"
           - "Certificates: Advanced Data Science"
           - "Expected defense: August 2026"
       - institution: The University of California, Berkeley
@@ -79,7 +79,7 @@ cv:
             unimodal deep learning on hourly ICU physiological signals from
             TRACK-TBI benchmarked against classical-ML baselines, and an
             explainable multimodal deep-learning model with XAI layers.
-          - Contributed quantitative analyses on claims data and EHR data to an R01 grant proposal on disability in adolescents and young adults.
+          - Contributed quantitative analyses on claims data and EHR data to an R01 grant proposal on disability in AYA cancer and birth-defect survivors.
           - Shipped an R Shiny tool mapping Children with Disabilities Algorithm (CWDA) codes to ICD-10 codes, which was adopted for cross-team use.
           - Designed the multi-site star schema and ETL for the R33 phase of
             DETECT-RPC, harmonizing clinical records from 6 academic medical
